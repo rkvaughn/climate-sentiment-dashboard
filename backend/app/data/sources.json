@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "description": "MVP climate news sources for sentiment analysis",
+    "last_updated": "2026-02-14",
+    "version": "1.0"
+  },
+  "sources": [
+    {
+      "id": "carbon_brief",
+      "name": "Carbon Brief",
+      "url": "https://www.carbonbrief.org",
+      "feed_url": "https://www.carbonbrief.org/feed",
+      "source_type": "Specialized Journalism",
+      "bias_rating": "Center",
+      "active": true
+    },
+    {
+      "id": "guardian_environment",
+      "name": "The Guardian (Environment)",
+      "url": "https://www.theguardian.com/us/environment",
+      "feed_url": "https://www.theguardian.com/us/environment/rss",
+      "source_type": "Mainstream Media",
+      "bias_rating": "Center-Left",
+      "active": true
+    },
+    {
+      "id": "inside_climate_news",
+      "name": "Inside Climate News",
+      "url": "https://insideclimatenews.org",
+      "feed_url": "https://insideclimatenews.org/feed/",
+      "source_type": "Specialized Journalism",
+      "bias_rating": "Center-Left",
+      "active": true
+    },
+    {
+      "id": "grist",
+      "name": "Grist",
+      "url": "https://grist.org",
+      "feed_url": "https://grist.org/feed/",
+      "source_type": "Specialized Journalism",
+      "bias_rating": "Left",
+      "active": true
+    }
+  ]
+}
