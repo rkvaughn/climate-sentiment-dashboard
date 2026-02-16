@@ -3,7 +3,7 @@ from fastapi import APIRouter
 from app.db import supabase
 from app.models import IngestResult
 from app.services.rss_fetcher import fetch_all_sources
-from app.services.gemini_scorer import score_articles_batch
+from app.services.vader_scorer import score_articles_batch
 from app.services.aggregator import compute_daily_aggregation
 
 router = APIRouter()
@@ -41,7 +41,7 @@ async def run_pipeline():
 
     scored_count = 0
     if unscored.data:
-        scored = await score_articles_batch(unscored.data)
+        scored = score_articles_batch(unscored.data)
         for article in scored:
             if article.get("sentiment_score") is not None:
                 supabase.table("articles").update({
