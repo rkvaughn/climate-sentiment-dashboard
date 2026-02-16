@@ -1,6 +1,6 @@
 # Climate Sentiment Meter
 
-A dashboard that displays climate news sentiment as a "gas gauge" dial. Fetches articles from RSS feeds, scores them with Gemini Flash, stores results in Supabase, and displays everything in a React frontend.
+A dashboard that displays climate news sentiment as a "gas gauge" dial. Fetches articles from RSS feeds, scores them, stores results in Supabase, and displays everything in a React frontend.
 
 ## Architecture
 
@@ -100,4 +100,4 @@ Then open http://localhost:5173 to see the dashboard.
 
 ## Scoring
 
-Sentiment scores range from **-1.0** (alarming) to **+1.0** (hopeful). Gemini Flash analyzes each article's title and summary, considering whether it covers climate damage/policy failure (negative) or solutions/progress (positive).
+Sentiment scores range from **-1.0** (alarming) to **+1.0** (hopeful). Score is currently using Vader to  analyzes each article's title and summary, considering whether it covers climate damage/policy failure (negative) or solutions/progress (positive). Future versions will improve the tool by using a tranformer based model that can assess the articles context window better.
