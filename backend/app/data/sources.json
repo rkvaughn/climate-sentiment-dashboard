@@ -40,6 +40,105 @@
       "source_type": "Specialized Journalism",
       "bias_rating": "Left",
       "active": true
+    },
+    {
+      "id": "columbia_climate_school",
+      "name": "Columbia Climate School (State of the Planet)",
+      "url": "https://news.climate.columbia.edu",
+      "feed_url": "https://news.climate.columbia.edu/feed/",
+      "source_type": "Academic",
+      "bias_rating": "Scientific",
+      "active": true
+    },
+    {
+      "id": "sabin_center",
+      "name": "Sabin Center for Climate Change Law",
+      "url": "https://blogs.law.columbia.edu/climatechange",
+      "feed_url": "https://blogs.law.columbia.edu/climatechange/feed/",
+      "source_type": "Academic / Legal",
+      "bias_rating": "Scientific",
+      "active": true
+    },
+    {
+      "id": "yale_climate_connections",
+      "name": "Yale Climate Connections",
+      "url": "https://yaleclimateconnections.org",
+      "feed_url": "https://yaleclimateconnections.org/feed/",
+      "source_type": "Academic / Public Media",
+      "bias_rating": "Scientific",
+      "active": true
+    },
+    {
+      "id": "canary_media",
+      "name": "Canary Media",
+      "url": "https://www.canarymedia.com",
+      "feed_url": "https://www.canarymedia.com/rss",
+      "source_type": "Specialized Journalism",
+      "bias_rating": "Pro-Renewables",
+      "active": true
+    },
+    {
+      "id": "climate_home_news",
+      "name": "Climate Home News",
+      "url": "https://www.climatechangenews.com",
+      "feed_url": "https://www.climatechangenews.com/feed/",
+      "source_type": "Specialized Journalism",
+      "bias_rating": "Internationalist",
+      "active": true
+    },
+    {
+      "id": "mongabay",
+      "name": "Mongabay",
+      "url": "https://news.mongabay.com",
+      "feed_url": "https://news.mongabay.com/feed/",
+      "source_type": "Non-profit Journalism",
+      "bias_rating": "Conservationist",
+      "active": true
+    },
+    {
+      "id": "desmog",
+      "name": "DeSmog",
+      "url": "https://www.desmog.com",
+      "feed_url": "https://www.desmog.com/feed/",
+      "source_type": "Investigative Journalism",
+      "bias_rating": "Anti-greenwashing",
+      "active": true
+    },
+    {
+      "id": "utility_dive",
+      "name": "Utility Dive",
+      "url": "https://www.utilitydive.com",
+      "feed_url": "https://www.utilitydive.com/feeds/news/",
+      "source_type": "Industry News",
+      "bias_rating": "Center",
+      "active": true
+    },
+    {
+      "id": "cleantechnica",
+      "name": "CleanTechnica",
+      "url": "https://cleantechnica.com",
+      "feed_url": "http://cleantechnica.com/feed/",
+      "source_type": "Specialized Blog",
+      "bias_rating": "Pro-Renewables",
+      "active": true
+    },
+    {
+      "id": "the_conversation_climate",
+      "name": "The Conversation (Environment)",
+      "url": "https://theconversation.com/us/environment",
+      "feed_url": "https://theconversation.com/us/environment/articles.atom",
+      "source_type": "Academic / Journalism",
+      "bias_rating": "Scientific",
+      "active": true
+    },
+    {
+      "id": "google_news_climate",
+      "name": "Google News — Climate",
+      "url": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR2RqY0hJd0VnSmxiaWdBUAE",
+      "feed_url": "https://news.google.com/rss/search?q=climate&hl=en-US&gl=US&ceid=US:en",
+      "source_type": "News Aggregator",
+      "bias_rating": "Mixed",
+      "active": true
     }
   ]
 }
