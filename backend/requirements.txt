@@ -3,7 +3,8 @@ uvicorn[standard]==0.34.0
 feedparser==6.0.11
 httpx==0.28.1
 google-generativeai==0.8.4
-nltk==3.9.1
+transformers>=4.40.0
+torch>=2.2.0
 supabase==2.11.0
 pydantic-settings==2.7.1
 python-dotenv==1.0.1
