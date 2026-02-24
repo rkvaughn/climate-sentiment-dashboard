@@ -1,18 +1,12 @@
 import Header from './Header'
 import SentimentGauge from './SentimentGauge'
 import ArticleList from './ArticleList'
-import RefreshButton from './RefreshButton'
 import { useSentiment } from '../hooks/useSentiment'
 import { useArticles } from '../hooks/useArticles'
 
 export default function Dashboard() {
-  const { sentiment, loading: sentLoading, error: sentError, refetch: refetchSentiment } = useSentiment()
-  const { articles, loading: artLoading, error: artError, refetch: refetchArticles } = useArticles(30)
-
-  function handleRefreshComplete() {
-    refetchSentiment()
-    refetchArticles()
-  }
+  const { sentiment, loading: sentLoading, error: sentError } = useSentiment()
+  const { articles, loading: artLoading, error: artError } = useArticles(30)
 
   const score = sentiment?.avg_score ?? null
   const articleCount = sentiment?.article_count ?? null
@@ -33,8 +27,6 @@ export default function Dashboard() {
           <p className="loading-text">No sentiment data yet. Run the pipeline to get started.</p>
         )}
       </div>
-
-      <RefreshButton onComplete={handleRefreshComplete} />
 
       <ArticleList articles={articles} loading={artLoading} error={artError} />
     </div>
