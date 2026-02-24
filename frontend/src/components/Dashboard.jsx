@@ -6,8 +6,8 @@ import { useSentiment } from '../hooks/useSentiment'
 import { useArticles } from '../hooks/useArticles'
 
 export default function Dashboard() {
-  const { sentiment, loading: sentLoading, refetch: refetchSentiment } = useSentiment()
-  const { articles, loading: artLoading, refetch: refetchArticles } = useArticles(30)
+  const { sentiment, loading: sentLoading, error: sentError, refetch: refetchSentiment } = useSentiment()
+  const { articles, loading: artLoading, error: artError, refetch: refetchArticles } = useArticles(30)
 
   function handleRefreshComplete() {
     refetchSentiment()
@@ -25,6 +25,8 @@ export default function Dashboard() {
       <div className="gauge-section">
         {sentLoading ? (
           <p className="loading-text">Loading sentiment data...</p>
+        ) : sentError ? (
+          <p className="error-text">Could not load sentiment data — {sentError}</p>
         ) : score !== null ? (
           <SentimentGauge score={score} articleCount={articleCount} />
         ) : (
@@ -34,7 +36,7 @@ export default function Dashboard() {
 
       <RefreshButton onComplete={handleRefreshComplete} />
 
-      <ArticleList articles={articles} loading={artLoading} />
+      <ArticleList articles={articles} loading={artLoading} error={artError} />
     </div>
   )
 }

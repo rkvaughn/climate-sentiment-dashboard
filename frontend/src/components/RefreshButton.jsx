@@ -18,7 +18,12 @@ export default function RefreshButton({ onComplete }) {
       )
       if (onComplete) onComplete()
     } catch (e) {
-      setResult(`Error: ${e.message}`)
+      const isLocalhost = apiUrl.includes('localhost') || apiUrl.includes('127.0.0.1')
+      if (isLocalhost && (e.message === 'Failed to fetch' || e.message.includes('NetworkError'))) {
+        setResult('Refresh requires the local backend to be running (uvicorn app.main:app --port 8000)')
+      } else {
+        setResult(`Error: ${e.message}`)
+      }
     } finally {
       setLoading(false)
     }

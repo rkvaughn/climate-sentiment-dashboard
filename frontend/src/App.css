@@ -134,11 +134,49 @@
   margin-left: 0.4rem;
 }
 
-/* Loading */
+/* Sentiment groups */
+.sentiment-group {
+  margin-bottom: 1rem;
+}
+
+.sentiment-group:last-child {
+  margin-bottom: 0;
+}
+
+.sentiment-group-header {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: 0.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.sentiment-group-count {
+  background: var(--bg-card);
+  color: var(--text-muted);
+  font-size: 0.7rem;
+  font-weight: 500;
+  padding: 0.1rem 0.4rem;
+  border-radius: 10px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+/* Loading / error */
 .loading-text {
   text-align: center;
   color: var(--text-secondary);
   padding: 1rem;
+}
+
+.error-text {
+  text-align: center;
+  color: #f97316;
+  padding: 1rem;
+  font-size: 0.85rem;
 }
 
 /* Responsive */
