@@ -86,19 +86,21 @@ export default function ArticleList({ articles, loading, error }) {
   return (
     <div className="article-list">
       <h2>Recent Articles</h2>
-      {groups.map((group) => (
-        <div key={group.key} className="sentiment-group">
-          <h3 className="sentiment-group-header" style={{ color: group.headerColor }}>
-            {group.label}
-            <span className="sentiment-group-count">{group.articles.length}</span>
-          </h3>
-          <ul>
-            {group.articles.map((article) => (
-              <ArticleItem key={article.id} article={article} />
-            ))}
-          </ul>
-        </div>
-      ))}
+      <div className="article-columns">
+        {groups.map((group) => (
+          <div key={group.key} className="sentiment-group">
+            <h3 className="sentiment-group-header" style={{ color: group.headerColor }}>
+              {group.label}
+              <span className="sentiment-group-count">{group.articles.length}</span>
+            </h3>
+            <ul>
+              {group.articles.map((article) => (
+                <ArticleItem key={article.id} article={article} />
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
     </div>
   )
 }
