@@ -150,7 +150,7 @@
 }
 
 /* Responsive */
-@media (max-width: 640px) {
+@media (max-width: 480px) {
   #root {
     padding: 1rem 0.75rem;
   }
