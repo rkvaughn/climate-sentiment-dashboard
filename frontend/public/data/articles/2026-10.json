@@ -1,0 +1,2306 @@
+[
+  {
+    "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan",
+    "source_id": "carbon_brief",
+    "title": "COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
+    "published_at": "2026-10-31T13:30:22+00:00",
+    "summary": "Countries have completed the first “global review” of their progress towards reversing nature loss by 2030 at the COP17 biodiversity&#8230;\nThe post COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan appeared first on Carbon Brief.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.1134,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1243,
+      "neutral": 0.8647,
+      "risk": 0.0109
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://grist.org/accountability/the-epa-is-quietly-killing-its-web-archive/",
+    "source_id": "grist",
+    "title": "The EPA is quietly killing its web archive",
+    "published_at": "2026-10-31T13:00:00+00:00",
+    "summary": null,
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.266,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.121,
+      "neutral": 0.492,
+      "risk": 0.387
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets",
+    "source_id": "guardian_environment",
+    "title": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
+    "published_at": "2026-10-31T12:30:06+00:00",
+    "summary": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progressCalls are growing for major reforms to UN biodiversity summits as countries fail to deliver on their promises to halt the destruction of the natural world, with governments likely on track to continue their record of never having met a target in the 34-year history of the convention.Two weeks of negotiations at biodiversity Cop17 in Yerevan, Armenia, ",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.7272,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0267,
+      "neutral": 0.2194,
+      "risk": 0.7539
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/31/cop17-delivers-fragile-deal-scaling-up-biodiversity-conservation-armenia-cbd/",
+    "source_id": "climate_home_news",
+    "title": "COP17 delivers fragile deal to boost conservation and funding for nature",
+    "published_at": "2026-10-31T11:50:27+00:00",
+    "summary": "After a two-week stalemate, countries agreed to invite wealthy emerging economies like China to assume donor status and help fund biodiversity protection as finance falls short\nThe post COP17 delivers fragile deal to boost conservation and funding for nature appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.777,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.7941,
+      "neutral": 0.1888,
+      "risk": 0.0171
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://grist.org/food-and-agriculture/trump-cut-funding-for-farmers-then-unlocked-billions-for-them-before-election-day/",
+    "source_id": "grist",
+    "title": "Trump cut funding for farmers — then unlocked billions for them before Election Day",
+    "published_at": "2026-10-31T08:45:00+00:00",
+    "summary": null,
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.5696,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6504,
+      "neutral": 0.2687,
+      "risk": 0.0808
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/clean-industry/meta-fortera-deal-cement-plant-missouri",
+    "source_id": "canary_media",
+    "title": "Meta strikes deal to help bring a low-carbon cement plant to Missouri",
+    "published_at": "2026-10-30T20:00:00+00:00",
+    "summary": "Tech companies say they&#039;re seeking low-carbon construction materials to limit the climate impact of their data centers. But very little clean cement or green steel is actually being produced in the U.S. today, and only in a handful of locations. To tackle that dilemma, Meta recently  struck a deal with  Fortera to…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9488,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9529,
+      "neutral": 0.0431,
+      "risk": 0.0041
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report",
+    "source_id": "guardian_environment",
+    "title": "Twice as many plants and animals sold in wildlife trade as previously thought, says report",
+    "published_at": "2026-10-30T18:00:19+00:00",
+    "summary": "More than 100,000 species are traded globally, whether illegally smuggled, sold as ornaments or in fisheries, timber and fashion industries, study findsThe number of plant and animal species in use or sold in the wildlife trade is more than twice as high as previously thought, researchers have discovered.A study, published in Science Advances, warns that there are huge gaps in global assessments of how wildlife is traded, and that past estimates have failed to keep up with changes such as the bo",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.5247,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0298,
+      "neutral": 0.4157,
+      "risk": 0.5545
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://blogs.law.columbia.edu/climatechange/2026/10/30/new-tools-for-lawyers-and-law-professors-to-help-fight-climate-change-and-foster-sustainability/",
+    "source_id": "sabin_center",
+    "title": "NEW TOOLS FOR LAWYERS AND LAW PROFESSORS TO HELP FIGHT CLIMATE CHANGE AND FOSTER SUSTAINABILITY",
+    "published_at": "2026-10-30T16:34:14+00:00",
+    "summary": "&#160; It is increasingly clear that lawyers—as lawyers—have a significant role to play in reducing greenhouse gas emissions, adapting to climate change, and furthering sustainable development. As I have explained in a prior blog, both lawyers and lawyer organizations are necessary to this effort. It is just as clear that lawyers cannot play that role [&#8230;]",
+    "fetched_at": "2026-11-09T16:00:06.704584+00:00",
+    "sentiment_score": 0.4097,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.4337,
+      "neutral": 0.5422,
+      "risk": 0.024
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.desmog.com/2026/10/30/ohio-denies-fracking-waste-drinking-water-washington-county-acton-coshocton/",
+    "source_id": "desmog",
+    "title": "Ohio Denies Evidence of Fracking Waste in Drinking Water. Its Own Records Show Otherwise.",
+    "published_at": "2026-10-30T16:02:28+00:00",
+    "summary": "This story was co-published with Rolling Stone. In Ohio’s rural southeastern corner, Marietta College geology professor David Jeffrey was among the residents worried that industry activity in America’s booming natural gas region could be polluting their drinking water. That’s “the biggest fear,” he said at an August meeting with top Ohio officials. When Jeffrey and [&#8230;]\nThe post Ohio Denies Evidence of Fracking Waste in Drinking Water. Its Own Records Show Otherwise.  appeared first on DeSm",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.7867,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0247,
+      "neutral": 0.1639,
+      "risk": 0.8114
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/politics/ballot-proposals-clean-energy",
+    "source_id": "canary_media",
+    "title": "5 ballot proposals that could drive or derail clean energy",
+    "published_at": "2026-10-30T15:52:00+00:00",
+    "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.   Sign up to get it every Friday.  The midterm elections are upon us. While most of the country has its eyes on who will control Congress, there’s plenty at stake for clean energy at the bottom of some voters’ ballots, too. Here are five…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.044,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0859,
+      "neutral": 0.7842,
+      "risk": 0.1299
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/30/iran-war-energy-crisis-winter",
+    "source_id": "guardian_environment",
+    "title": "The Iran war is deepening the US energy crisis. A bad winter is ahead | Mark Wolfe",
+    "published_at": "2026-10-30T14:00:20+00:00",
+    "summary": "Congress must act to ensure that families are able to heat their homes before the start of the seasonHeating oil may be the clearest warning yet of how the war in Iran is deepening the US’s energy affordability crisis. Families who heat their homes with oil are facing bills that could be 50% higher this winter, adding nearly $900 to the cost of keeping their homes warm. These families were already struggling before the war began.As the Guardian recently reported, research by my organization foun",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.9533,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0098,
+      "neutral": 0.0272,
+      "risk": 0.9631
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.desmog.com/2026/10/30/president-trump-unveils-epas-new-contradictory-methane-proposal-at-campaign-rally/",
+    "source_id": "desmog",
+    "title": "President Trump Unveils EPA’s New Contradictory Methane Proposal at Campaign Rally",
+    "published_at": "2026-10-30T13:00:00+00:00",
+    "summary": "At a Tuesday campaign rally for Republican Senate candidate Ken Paxton in Lubbock, Texas, President Trump announced the U.S. Environmental Protection Agency’s (EPA) proposal to roll back a Biden-era methane rule, setting up a likely future showdown in how the agency oversees climate pollution under the Clean Air Act. The proposal marks a break from [&#8230;]\nThe post President Trump Unveils EPA’s New Contradictory Methane Proposal at Campaign Rally appeared first on DeSmog.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.0649,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1339,
+      "neutral": 0.7971,
+      "risk": 0.069
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.desmog.com/2026/10/30/two-gb-news-directors-have-investments-in-oil-companies-behind-rosebank-and-jackdaw/",
+    "source_id": "desmog",
+    "title": "Two GB News Directors Have Investments in Oil Companies Behind Rosebank and Jackdaw",
+    "published_at": "2026-10-30T12:02:14+00:00",
+    "summary": "Two directors of GB News, which has loudly advocated for the new Rosebank and Jackdaw oil and gas fields, hold shares in the firms behind the projects. Sir Paul Marshall, a millionaire hedge fund boss who also owns The Spectator magazine, and Lord (Theodore) Agnew of Oulton, a Conservative peer and donor, sit on the board [&#8230;]\nThe post Two GB News Directors Have Investments in Oil Companies Behind Rosebank and Jackdaw appeared first on DeSmog.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.1967,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2371,
+      "neutral": 0.7225,
+      "risk": 0.0404
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://blogs.law.columbia.edu/climatechange/2026/10/30/climate-litigation-in-south-korea-holding-financial-institutions-accountable/",
+    "source_id": "sabin_center",
+    "title": "Climate Litigation in South Korea: Holding Financial Institutions Accountable",
+    "published_at": "2026-10-30T11:00:18+00:00",
+    "summary": "South Korea has experienced rapid growth in climate litigation in recent years. Alongside cases against the government and major emitters, a growing number of lawsuits and regulatory complaints target financial institutions whose decisions shape the pace of the energy transition. These cases employ a range of legal tools, from fiduciary duty claims to claims based [&#8230;]",
+    "fetched_at": "2026-11-09T16:00:06.704584+00:00",
+    "sentiment_score": -0.9338,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0067,
+      "neutral": 0.0528,
+      "risk": 0.9405
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://grist.org/science/strange-catastrophic-landslides-are-kicking-off-across-the-far-north/",
+    "source_id": "grist",
+    "title": "Strange, catastrophic landslides are kicking off across the far north",
+    "published_at": "2026-10-30T08:45:00+00:00",
+    "summary": null,
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.9164,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0216,
+      "neutral": 0.0404,
+      "risk": 0.938
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://grist.org/wildfires/indonesia-worst-wildfire-season-asia/",
+    "source_id": "grist",
+    "title": "What’s fueling Indonesia’s worst wildfire season in a decade?",
+    "published_at": "2026-10-30T08:30:00+00:00",
+    "summary": null,
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.7431,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.045,
+      "neutral": 0.1668,
+      "risk": 0.7881
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/fossil-fuels/trump-iran-war-american-fuel-costs",
+    "source_id": "canary_media",
+    "title": "Here's how much Trump's Iran war has added to Americans' fuel costs",
+    "published_at": "2026-10-30T07:30:00+00:00",
+    "summary": "See more from  Canary Media’s ​“Chart of the Week” column  .  Donald Trump ran for his second term promising to “make America affordable again.” Two years later, the president’s war with Iran has his constituents paying through the nose for gasoline and diesel. In fact, per-person fuel costs have risen more in the…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.1258,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1221,
+      "neutral": 0.63,
+      "risk": 0.2479
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/29/editors-desk-cop-reform-is-happening-quietly-behind-the-headlines/",
+    "source_id": "climate_home_news",
+    "title": "Editor’s Desk: COP reform is happening quietly, behind the headlines",
+    "published_at": "2026-10-29T17:51:12+00:00",
+    "summary": "It may seem like little has changed in how the UN climate summits are run, but there's been a gradual shift as action becomes as important as negotiation\nThe post Editor&#8217;s Desk: COP reform is happening quietly, behind the headlines appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.1058,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1509,
+      "neutral": 0.8039,
+      "risk": 0.0451
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.desmog.com/2026/10/29/how-the-far-right-uses-climate-disasters-to-build-political-power/",
+    "source_id": "desmog",
+    "title": "How the Far-Right Uses Climate Disasters to Build Political Power",
+    "published_at": "2026-10-29T17:32:32+00:00",
+    "summary": "Naomi Klein and Astra Taylor’s End Times Fascism and the Fight for the Living World is critical reading for anyone seeking to understand and push back against the far-right coalitions wielding considerable state and corporate power around the world. Klein and Taylor posit that today’s fascists believe that end times have arrived, and have made [&#8230;]\nThe post How the Far-Right Uses Climate Disasters to Build Political Power appeared first on DeSmog.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.1741,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1521,
+      "neutral": 0.5216,
+      "risk": 0.3262
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/ev-charging/california-ev-charging-reliable",
+    "source_id": "canary_media",
+    "title": "California’s long road to make EV charging more reliable",
+    "published_at": "2026-10-29T17:00:00+00:00",
+    "summary": "This is   California Wire  , a weekly newsletter from Jeff St. John on the state’s clean energy transition.  Subscribe to get it every Thursday via Substack.  Welcome back to California Wire! Today’s topic is public EV chargers and California’s long and winding road to make them reliable. In 2023, I wrote a …",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.688,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.7021,
+      "neutral": 0.2838,
+      "risk": 0.0141
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.carbonbrief.org/experts-what-china-wants-from-the-cop31-climate-talks",
+    "source_id": "carbon_brief",
+    "title": "Experts: What China wants from the COP31 climate talks",
+    "published_at": "2026-10-29T14:25:40+00:00",
+    "summary": "With the COP31 climate summit in Turkey looming, all eyes are on China to see what the country will push&#8230;\nThe post Experts: What China wants from the COP31 climate talks appeared first on Carbon Brief.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.1491,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1852,
+      "neutral": 0.7787,
+      "risk": 0.0361
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.climate.columbia.edu/2026/10/29/event-recap-agentic-ai-and-climate-innovation/",
+    "source_id": "columbia_climate_school",
+    "title": "Event Recap: “The Rise of Agentic AI: What It Means for Climate Innovation”",
+    "published_at": "2026-10-29T12:44:39+00:00",
+    "summary": "Panelists discussed how agentic AI is beginning to reshape Earth systems modeling, improve climate predictions and support adaptive decision-making.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8538,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.867,
+      "neutral": 0.1198,
+      "risk": 0.0132
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.desmog.com/2026/10/29/canadas-responsible-data-centre-principles-have-a-credibility-problem/",
+    "source_id": "desmog",
+    "title": "Canada’s ‘Responsible’ Data Centre Principles Have a Credibility Problem",
+    "published_at": "2026-10-29T11:03:00+00:00",
+    "summary": "Would you trust a detox facility that offers a minibar in every room? How about a climate course sponsored by ExxonMobil? If not, you might direct the same incredulity towards Canada’s recently unveiled Responsible Data Centre Development Principles, endorsed by tech giants that are implicated in violating those same principles.  Minister of Artificial Intelligence and Digital [&#8230;]\nThe post Canada’s &#8216;Responsible&#8217; Data Centre Principles Have a Credibility Problem appeared first o",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.1964,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0238,
+      "neutral": 0.7561,
+      "risk": 0.2202
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/29/from-australia-to-chile-our-cities-are-driving-a-green-investment-boom/",
+    "source_id": "climate_home_news",
+    "title": "From Australia to Chile, our cities are driving a green investment boom",
+    "published_at": "2026-10-29T08:43:50+00:00",
+    "summary": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Australia to Chile, our cities are driving a green investment boom appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9777,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9818,
+      "neutral": 0.0141,
+      "risk": 0.0041
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.carbonbrief.org/analysis-chinas-clean-tech-exports-in-2026-to-avoid-as-much-co2-as-brazil-emits-in-a-year",
+    "source_id": "carbon_brief",
+    "title": "Analysis: China’s clean-tech exports in 2026 to avoid as much CO2 as Brazil emits in a year",
+    "published_at": "2026-10-29T07:51:24+00:00",
+    "summary": "China’s exports in 2026 of clean-energy technologies, such as solar panels, batteries and electric vehicles, are on track to cut&#8230;\nThe post Analysis: China’s clean-tech exports in 2026 to avoid as much CO2 as Brazil emits in a year appeared first on Carbon Brief.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.7637,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.7683,
+      "neutral": 0.2271,
+      "risk": 0.0046
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/transmission/pjm-desperately-needs-grid-batteries-is-it-finally-about-to-act",
+    "source_id": "canary_media",
+    "title": "PJM desperately needs grid batteries. Here’s a way it could get some.",
+    "published_at": "2026-10-29T07:30:00+00:00",
+    "summary": "PJM Interconnection is finally taking steps that could let a lot of new battery capacity connect to its grid without eons of delay.  PJM is the biggest grid operator in the U.S., serving customers across 13 mid-Atlantic, Midwestern, and Southern states. Its grid is notoriously bogged down and congested, especially…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.6085,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6884,
+      "neutral": 0.2317,
+      "risk": 0.0799
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/clean-industry/zoos-brews-michigan-decarbonization",
+    "source_id": "canary_media",
+    "title": "From zoos to craft brews, Michigan looks to spur decarbonization",
+    "published_at": "2026-10-29T07:30:00+00:00",
+    "summary": "Re-creating polar habitats in Michigan is no small feat. Just ask the Detroit Zoo, where the polar bear and penguin centers require producing industrial levels of cooling from energy-intensive equipment. For the zoo, figuring out how to keep animals comfortable using less, and cleaner, energy is key to meeting its…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8988,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9073,
+      "neutral": 0.0842,
+      "risk": 0.0085
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTBRY1hHa2ZZVWxKTnU0Y1dKRF8ydC1mQk9FUzRwSUp1bTVCUmNVWGhsQ3VPSEZDZlE4aUh4WHdieEZab0VWazNhakhObXR0SGhyTm1VMHBMbmIta0ZnYnhGWU1oT2tWQmJ4WUNuWjJXNVNfVU91Y1V4QkpSOGgwOUNkS07SAYoBQVVfeXFMTmgxdGFhcUxPajVxM3QtRXVzRUJfSHBHcEpBdWNfbW41ckF6ZTUwMFN0Q1RzMF9uUnRrUTY3Ml8yLWtDTFdEZFBFLUNaZzZuS0RUSkhXQlNTdTNPVk5LUURfS0l0ZzhmWW9VSnhhX1BoT21PTEVsaGdaT25wbVJ3MjNRWW1UX2hEWTln?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Our climate models have a big, dangerous blind spot - MIT Technology Review",
+    "published_at": "2026-10-29T07:00:00+00:00",
+    "summary": "Our climate models have a big, dangerous blind spot&nbsp;&nbsp;MIT Technology Review",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.7552,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0094,
+      "neutral": 0.226,
+      "risk": 0.7646
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.desmog.com/2026/10/28/interactive-archive-shares-secrets-of-shells-early-climate-research/",
+    "source_id": "desmog",
+    "title": "Interactive Archive Shares Secrets of Shell’s Early Climate Research",
+    "published_at": "2026-10-29T00:01:00+00:00",
+    "summary": "Campaigners&#160;backing&#160;attempts to sue Shell over a typhoon in the Philippines&#160;have launched an&#160;online archive&#160;showing that the British oil major knew that burning fossil fuels could harm the climate as early as the 1960s.&#160; ExposeShell.com&#160;features documents including&#160;a&#160;1966&#160;memo&#160;Shell commissioned from British scientist James Lovelock&#160;and the ‘Greenhouse Effect’, a confidential 1988 report predicting that&#160;human-caused warming could t",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.6525,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0607,
+      "neutral": 0.2261,
+      "risk": 0.7132
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/nuclear/doe-5b-loan-constellation-energy",
+    "source_id": "canary_media",
+    "title": "The DOE announces $5B loan to Constellation for nuclear uprates",
+    "published_at": "2026-10-28T19:00:00+00:00",
+    "summary": "The pro-nuclear Trump administration continues to put its money where its mouth is. On Tuesday, the U.S. Department of Energy announced a conditional loan commitment of  up to $5 billion to boost the output of  15 reactors at eight nuclear power plants in Illinois, Maryland, and Pennsylvania by a combined 1.1…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9735,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9764,
+      "neutral": 0.0207,
+      "risk": 0.0029
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
+    "source_id": "climate_home_news",
+    "title": "Africa wants adaptation finance on COP31 agenda, raising risk of a fight",
+    "published_at": "2026-10-28T15:57:17+00:00",
+    "summary": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa wants adaptation finance on COP31 agenda, raising risk of a fight appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.6465,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0421,
+      "neutral": 0.2693,
+      "risk": 0.6886
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/28/stalemate-finance-cop17-nature-un-exposes-need-new-sources-yerevan/",
+    "source_id": "climate_home_news",
+    "title": "Stalemate on finance at COP17 nature talks exposes need for new sources",
+    "published_at": "2026-10-28T13:04:32+00:00",
+    "summary": "At talks in Yerevan, the EU has proposed expanding the list of nature donors so that large emerging economies like China can help fund biodiversity protection\nThe post Stalemate on finance at COP17 nature talks exposes need for new sources appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.7126,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.7438,
+      "neutral": 0.2249,
+      "risk": 0.0312
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/28/why-cop31-needs-to-start-talking-about-just-transition-finance/",
+    "source_id": "climate_home_news",
+    "title": "Why COP31 needs to start talking about just transition finance",
+    "published_at": "2026-10-28T10:56:06+00:00",
+    "summary": "Funding that helps workers and communities navigate the clean energy switch remains overlooked, splintered and poorly tracked - a blindspot that could undermine climate goals\nThe post Why COP31 needs to start talking about just transition finance appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.0227,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2573,
+      "neutral": 0.508,
+      "risk": 0.2346
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/fossil-fuels/trump-pro-coal-policies-costing-us",
+    "source_id": "canary_media",
+    "title": "How much are Trump’s pro-coal policies costing us?",
+    "published_at": "2026-10-28T09:00:00+00:00",
+    "summary": "The Trump administration loves coal plants. The rest of us are paying the price in higher electricity bills, poorer health, and worsening climate change.  That’s the takeaway of  an analysis out today from the Environmental Defense Fund. It finds the Trump administration is directly or indirectly propping up nearly…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.8118,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0126,
+      "neutral": 0.163,
+      "risk": 0.8244
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/28/cop31-must-amplify-people-power-not-oil-lobby-voices/",
+    "source_id": "climate_home_news",
+    "title": "COP31 must amplify people power, not oil lobby voices",
+    "published_at": "2026-10-28T08:22:22+00:00",
+    "summary": "The UN summit in Antalya can only deliver meaningful action if governments protect civic freedoms, curb fossil fuel influence and listen to communities on the climate frontline\nThe post COP31 must amplify people power, not oil lobby voices appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.1542,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2064,
+      "neutral": 0.7415,
+      "risk": 0.0522
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/heat-pumps/more-heat-pumps-good-for-grid",
+    "source_id": "canary_media",
+    "title": "More heat pumps would actually be good for the grid, researchers find",
+    "published_at": "2026-10-28T07:30:00+00:00",
+    "summary": "Heat pumps, superefficient sources of electric heating and cooling, are  winners for the climate ,  air quality , and  typically a household’s energy bills. But a common claim cautioning against their widespread adoption in the U.S. is that the electrical grid is too strained to handle all the extra demand they would…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.0275,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.3111,
+      "neutral": 0.4053,
+      "risk": 0.2836
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/28/tensions-set-to-flare-over-trade-at-cop31-as-china-makes-it-a-priority/",
+    "source_id": "climate_home_news",
+    "title": "Tensions set to flare over trade at COP31 as China makes it a priority",
+    "published_at": "2026-10-28T06:00:00+00:00",
+    "summary": "After difficult talks in Belém last year, trade is likely to remain a sticking point at COP31 despite Brazil's efforts to contain the issue to a series of dialogues\nThe post Tensions set to flare over trade at COP31 as China makes it a priority appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.163,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.094,
+      "neutral": 0.649,
+      "risk": 0.257
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.climate.columbia.edu/2026/10/27/two-lamont-scientists-celebrate-marie-tharps-hall-of-fame-induction-and-carry-her-legacy-forward/",
+    "source_id": "columbia_climate_school",
+    "title": "Two Lamont Scientists Celebrate Marie Tharp’s Hall of Fame Induction—and Carry Her Legacy Forward",
+    "published_at": "2026-10-27T20:02:58+00:00",
+    "summary": "Robin Bell and Vicki Ferrini reflect on Tharp’s induction into the National Women’s Hall of Fame and how her groundbreaking ocean-floor maps helped establish the theory of plate tectonics.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.7045,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.7223,
+      "neutral": 0.2599,
+      "risk": 0.0178
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.climate.columbia.edu/2026/10/27/columbia-climate-school-career-reception-connects-students-with-sustainability-professionals/",
+    "source_id": "columbia_climate_school",
+    "title": "Columbia Climate School Career Reception Connects Students With Climate and Sustainability Professionals",
+    "published_at": "2026-10-27T17:01:09+00:00",
+    "summary": "Climate and sustainability students met with professionals in finance, clean energy, real estate, public policy and communications at the 11th annual career reception.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.3521,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.3763,
+      "neutral": 0.5995,
+      "risk": 0.0242
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/27/national-climate-plans-now-promise-half-the-emission-cuts-expected-by-un/",
+    "source_id": "climate_home_news",
+    "title": "National climate plans now promise half the emission cuts expected by UN",
+    "published_at": "2026-10-27T13:51:00+00:00",
+    "summary": "The US exit from the Paris Agreement and weak new pledges leave 2035 emissions just 6% below 2019 levels, against 12% projected last year\nThe post National climate plans now promise half the emission cuts expected by UN appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.0976,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1182,
+      "neutral": 0.8612,
+      "risk": 0.0206
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.desmog.com/2026/10/27/carney-almost-as-bad-as-trump-on-climate-emissions-watchdog-warns/",
+    "source_id": "desmog",
+    "title": "Carney Almost as Bad as Trump on Climate, Emissions Watchdog Warns",
+    "published_at": "2026-10-27T13:40:47+00:00",
+    "summary": "Canada’s already battered reputation on curbing climate emissions has become drastically worse under the leadership of Prime Minister Mark Carney according to a recent report card from Climate Action Tracker, approaching levels of inaction comparable to the “drill baby drill” Trump Administration. “Prime Minister Mark Carney has so far been unwilling to recommit to either [&#8230;]\nThe post Carney Almost as Bad as Trump on Climate, Emissions Watchdog Warns appeared first on DeSmog.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.8042,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0089,
+      "neutral": 0.178,
+      "risk": 0.8131
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/electric-vehicles/ford-fathom-ev-pickup-home-power-backup",
+    "source_id": "canary_media",
+    "title": "Ford’s new EV pickup will come with more affordable home-power backup",
+    "published_at": "2026-10-27T13:00:00+00:00",
+    "summary": "Electric vehicles can serve as home backup batteries. But so far, most EVs have needed expensive bidirectional chargers to do that — a tough sell for customers. Ford aims to remove this cost obstacle with its  forthcoming Ford Fathom electric pickup truck . On Tuesday, the U.S. automaker  revealed that the Fathom,…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.7801,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8085,
+      "neutral": 0.1631,
+      "risk": 0.0284
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/where-humans-build-mosquitoes-follow-bringing-dengue-west-nile-and-other-diseases-with-them-295000",
+    "source_id": "the_conversation_climate",
+    "title": "Where humans build, mosquitoes follow – bringing dengue, West Nile and other diseases with them",
+    "published_at": "2026-10-27T12:17:31+00:00",
+    "summary": "Disease-carrying mosquitoes are moving deeper into the US. Climate change is only part of the problem.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.9222,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0149,
+      "neutral": 0.048,
+      "risk": 0.9371
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/environment/2026/oct/27/i-struggled-to-come-to-terms-with-my-mums-death-then-i-swam-in-the-sea-and-suddenly-felt-connected-to-her",
+    "source_id": "guardian_environment",
+    "title": "I struggled to come to terms with my mum’s death. Then I swam in the sea and suddenly felt connected to her",
+    "published_at": "2026-10-27T11:00:37+00:00",
+    "summary": "My mother was a keen swimmer, and she lived with depression. I wonder if she found the same respite in the water that has helped heal me since she passed awayIt was early morning in late September, off the coast of Kaş in Turkey. Watching the slightly choppy sea from a boat, the last thing I felt like doing was embarking on another 5km (3-mile) swim. Mind fog had sapped my energy, and my mood was decidedly Eeyore-like. But as I pulled on my cap and flippers, adjusted my goggles and took the plun",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.0368,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.3164,
+      "neutral": 0.404,
+      "risk": 0.2796
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/energy-equity/price-hikesfirstenergy-ohio-rate-case",
+    "source_id": "canary_media",
+    "title": "Price hikes aren’t all that’s at stake in FirstEnergy Ohio’s rate case",
+    "published_at": "2026-10-27T07:30:00+00:00",
+    "summary": "Before a utility can raise electricity rates, it must get approval from regulators. In Ohio, some groups are looking to step into that process to make sure FirstEnergy, whose utilities supply power to over 2 million customers in the state, uses some of the money it will receive from ratepayers to equitably enable the…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.0884,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1779,
+      "neutral": 0.7326,
+      "risk": 0.0895
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.climate.columbia.edu/2026/10/26/climate-risk-meets-retail-inside-princess-pollys-soho-flagship/",
+    "source_id": "columbia_climate_school",
+    "title": "Climate Risk Meets Retail: Inside Princess Polly’s SoHo Flagship",
+    "published_at": "2026-10-27T01:03:06+00:00",
+    "summary": "This M.A. in Climate and Society capstone team worked closely with Princess Polly to assess climate risks and identify opportunities to strengthen its sustainability and resilience.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.6219,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0194,
+      "neutral": 0.3393,
+      "risk": 0.6413
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/26/lulas-election-win-in-brazil-raises-hopes-for-zero-deforestation-drive/",
+    "source_id": "climate_home_news",
+    "title": "Lula’s election win in Brazil raises hopes for zero deforestation drive",
+    "published_at": "2026-10-26T17:49:56+00:00",
+    "summary": "Lula’s re-election makes it more likely Brazil can meet a key goal to end forest loss in the Amazon and builds confidence in a new fund to protect the world's rainforests, experts say\nThe post Lula&#8217;s election win in Brazil raises hopes for zero deforestation drive appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8847,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8923,
+      "neutral": 0.1002,
+      "risk": 0.0076
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/26/african-governments-strengthen-waste-rules-as-solar-and-battery-use-surges/",
+    "source_id": "climate_home_news",
+    "title": "African governments strengthen waste rules as solar and battery use surges",
+    "published_at": "2026-10-26T16:43:07+00:00",
+    "summary": "With solar panels, batteries and inverters spreading, officials want to bolster weak recycling systems to protect the environment and reuse key materials \nThe post African governments strengthen waste rules as solar and battery use surges appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.5454,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5638,
+      "neutral": 0.4178,
+      "risk": 0.0184
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.climate.columbia.edu/2026/10/26/how-a-massive-ancient-ice-shelf-stabilized-glaciers-and-what-it-means-for-antarctica/",
+    "source_id": "columbia_climate_school",
+    "title": "How a Massive Ancient Ice Shelf Stabilized Glaciers—and What It Means for Antarctica",
+    "published_at": "2026-10-26T16:41:21+00:00",
+    "summary": "New research could lead to more accurate predictions about how quickly Antarctic glaciers might retreat and raise sea levels.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.5898,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0741,
+      "neutral": 0.2619,
+      "risk": 0.6639
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.desmog.com/2026/10/26/as-midterms-loom-maga-lawyer-defends-mild-amounts-of-corruption-in-governments/",
+    "source_id": "desmog",
+    "title": "As Midterms Loom, MAGA Lawyer Defends ‘Mild Amounts of Corruption’ in Governments",
+    "published_at": "2026-10-26T16:25:10+00:00",
+    "summary": "Countries should be willing to overlook “mild amounts of corruption” in government if it serves the larger goal of political stability, according to a U.S. lawyer and political activist closely aligned with U.S. President Donald Trump’s MAGA movement. “This may be the most provocative thing I say,” explained Will Chamberlain during a speech earlier this [&#8230;]\nThe post As Midterms Loom, MAGA Lawyer Defends ‘Mild Amounts of Corruption’ in Governments appeared first on DeSmog.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.6045,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0214,
+      "neutral": 0.3528,
+      "risk": 0.6259
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/50-years-later-amory-lovins-soft-energy-path-meets-electrification-293920",
+    "source_id": "the_conversation_climate",
+    "title": "50 years later, Amory Lovins’ soft energy path meets electrification",
+    "published_at": "2026-10-26T12:15:24+00:00",
+    "summary": "Five decades ago, he charted two paths for energy use in the US. His soft path rightly emphasized efficiency and renewables but underestimated the importance of electricity.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.5592,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5733,
+      "neutral": 0.4126,
+      "risk": 0.0141
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/electrification/group-buy-induction-cooking",
+    "source_id": "canary_media",
+    "title": "This group-buy campaign makes it easier to switch to induction cooking",
+    "published_at": "2026-10-26T07:30:00+00:00",
+    "summary": "Word is getting out about electric induction ranges. More and more chefs say the appliances cook just as well as or better than their gas counterparts. The stoves don’t burn climate-warming fossil fuels or release  harmful indoor air pollutants like gas ones do. And because they’re vastly more efficient, they also…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8174,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8295,
+      "neutral": 0.1584,
+      "risk": 0.0121
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/batteries/massachusetts-sets-big-battery-goals",
+    "source_id": "canary_media",
+    "title": "Massachusetts sets big battery goals — and the policies to back them up",
+    "published_at": "2026-10-26T07:30:00+00:00",
+    "summary": "Just outside Boston, a developer is getting set to build a  700-megawatt storage facility that is expected to dwarf every other battery project in New England. One town over, another energy company  just closed on $850 million in financing to build a 250-MW battery. Down near the Rhode Island border, ground has been…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9709,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9752,
+      "neutral": 0.0206,
+      "risk": 0.0043
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.climate.columbia.edu/2026/10/23/beyond-net-zero-targets-lisa-sachs-on-designing-systems-for-decarbonization/",
+    "source_id": "columbia_climate_school",
+    "title": "Beyond Net-Zero Targets: Lisa Sachs on Designing Systems for Decarbonization",
+    "published_at": "2026-10-23T18:37:22+00:00",
+    "summary": "Sachs, director of Columbia’s Center on Sustainable Investment, argues that durable climate progress begins with systems diagnosis, not isolated technologies, targets or promises.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.5702,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5817,
+      "neutral": 0.4068,
+      "risk": 0.0115
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/politics/permitting-bill-offshore-wind",
+    "source_id": "canary_media",
+    "title": "The permitting deal collides with Trump’s war on offshore wind",
+    "published_at": "2026-10-23T16:37:00+00:00",
+    "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.   Sign up to get it every Friday.  It’s been years in the making, but the U.S. Senate finally has a bipartisan permitting bill on the table that could speed up the construction of much-needed energy and grid projects. That is, if the Trump…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.4251,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.461,
+      "neutral": 0.5032,
+      "risk": 0.0359
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/23/early-speakers-list-suggests-few-powerful-leaders-will-attend-cop31/",
+    "source_id": "climate_home_news",
+    "title": "Early speakers’ list suggests few powerful leaders will attend COP31",
+    "published_at": "2026-10-23T11:32:34+00:00",
+    "summary": "Just 77 heads of state or government are scheduled to address the COP31 climate summit in Antalya, a third less than the COP28 peak\nThe post Early speakers&#8217; list suggests few powerful leaders will attend COP31 appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.076,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.126,
+      "neutral": 0.824,
+      "risk": 0.05
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://blogs.law.columbia.edu/climatechange/2026/10/23/evolving-japanese-climate-litigation-from-personal-rights-to-tort-based-litigation/",
+    "source_id": "sabin_center",
+    "title": "Evolving Japanese Climate Litigation: From Personal Rights to Tort-Based Litigation",
+    "published_at": "2026-10-23T11:00:01+00:00",
+    "summary": "Recently in Japan, two new cases brought by plaintiffs whose profiles reflect the cross-regional and cross-generational nature of climate change issues have joined the caseload. One is the Youth Climate Case for Tomorrow, brought by younger generations and filed before the Nagoya District Court in August 2024. This case is unique not only as the [&#8230;]",
+    "fetched_at": "2026-11-09T16:00:06.704584+00:00",
+    "sentiment_score": -0.4524,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0612,
+      "neutral": 0.4252,
+      "risk": 0.5136
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+    "source_id": "canary_media",
+    "title": "As US grid batteries surge, risk of fires plummets",
+    "published_at": "2026-10-23T07:30:00+00:00",
+    "summary": "See more from  Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As  batteries have become America’s top choice for new on-demand grid power, community concern about their fire…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.9549,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0084,
+      "neutral": 0.0283,
+      "risk": 0.9633
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/23/coal-in-a-green-mask-indonesias-co-firing-plan-will-harm-not-help-the-climate/",
+    "source_id": "climate_home_news",
+    "title": "Coal in a green mask: Indonesia’s co-firing plan will harm, not help, the climate",
+    "published_at": "2026-10-23T00:00:00+00:00",
+    "summary": "Indonesia's plan to mix in a little wood will give coal-fired power plants an excuse to  operate for longer and raise deforestation pressures\nThe post Coal in a green mask: Indonesia&#8217;s co-firing plan will harm, not help, the climate  appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.4093,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0478,
+      "neutral": 0.4952,
+      "risk": 0.4571
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/22/jewish-farmers-tradition-agriculture",
+    "source_id": "guardian_environment",
+    "title": "‘It’s all God’s creation’: farmers continue a ‘Jewishly inspired’ agrarian tradition",
+    "published_at": "2026-10-22T19:18:11+00:00",
+    "summary": "In the US, a growing number of Jewish people are seeking purpose and community through farmingWendy Rhein is trying to round up the sheep hanging out among the hazelnut and walnut trees of her Chutzpah Hollow farm in Tryon, North Carolina.“Hi, Brea. Come on down. I hear you,” Rhein calls to the bleating queen of the flock. If the Barbados black belly ewe moves, the rest will follow. Continue reading...",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8923,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9045,
+      "neutral": 0.0833,
+      "risk": 0.0122
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.climate.columbia.edu/2026/10/22/climate-change-stopped-the-next-ice-age/",
+    "source_id": "columbia_climate_school",
+    "title": "Climate Change Stopped the Next Ice Age",
+    "published_at": "2026-10-22T18:00:32+00:00",
+    "summary": "New research shows that 2,000 years ago, remnants of an Arctic ice sheet began growing again, marking the start of a new glacial period—what we commonly call an ice age. But by the 1960s, global warming had raised summer temperatures enough to reverse that growth.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.2726,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.4183,
+      "neutral": 0.436,
+      "risk": 0.1457
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.desmog.com/2026/10/22/snipped-and-posted-how-pro-oil-groups-generate-viral-content-online/",
+    "source_id": "desmog",
+    "title": "‘Snipped And Posted’: How Pro-Oil Groups Generate Viral Content Online",
+    "published_at": "2026-10-22T17:06:47+00:00",
+    "summary": "In December 2025, former B.C. Premier Christy Clark gave an interview on Global News where she described Canada’s west coast ban on oil tankers as a “ridiculous” constraint on the Canadian economy. A clip of Clark’s interview then began to circulate online, where it was shared by several Canadian conservative influencers and aggregator accounts on [&#8230;]\nThe post ‘Snipped And Posted’: How Pro-Oil Groups Generate Viral Content Online appeared first on DeSmog.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.1737,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0989,
+      "neutral": 0.6284,
+      "risk": 0.2726
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/22/loss-and-damage-fund-agrees-20m-for-nepal-but-rich-nations-warn-it-should-not-set-precedent/",
+    "source_id": "climate_home_news",
+    "title": "Loss and damage fund agrees $20m for Nepal but rich nations warn it should not set precedent",
+    "published_at": "2026-10-22T16:55:20+00:00",
+    "summary": "Board members from developed and developing countries disagreed over whether the decision should become a model for the fund in the long-term\nThe post Loss and damage fund agrees $20m for Nepal but rich nations warn it should not set precedent appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.3818,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.4463,
+      "neutral": 0.4892,
+      "risk": 0.0645
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/virtual-power-plants/what-virtual-power-plant-would-you-choose",
+    "source_id": "canary_media",
+    "title": "What kind of virtual power plant would you choose?",
+    "published_at": "2026-10-22T16:30:00+00:00",
+    "summary": "This is  California Wire  , a weekly newsletter from Jeff St. John on the state’s clean energy transition.  Subscribe to get it every Thursday via Substack.  Hello, everybody! Welcome back to California Wire. This week, I’m going to be talking about  virtual power plants again — but not the ones  set up by utilities…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.5955,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6154,
+      "neutral": 0.3647,
+      "risk": 0.0199
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.climate.columbia.edu/2026/10/22/highlights-from-the-2026-open-house-at-lamont-doherty-earth-observatory/",
+    "source_id": "columbia_climate_school",
+    "title": "Highlights From the 2026 Open House at Lamont-Doherty Earth Observatory",
+    "published_at": "2026-10-22T15:44:47+00:00",
+    "summary": "More than 2,500 visitors explored hands-on activities, lectures and installations at Lamont's campus on Saturday, October 17.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.7094,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.732,
+      "neutral": 0.2453,
+      "risk": 0.0226
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://blogs.law.columbia.edu/climatechange/2026/10/22/unpacking-upstate-opposition-combatting-renewable-energy-myths/",
+    "source_id": "sabin_center",
+    "title": "Unpacking Upstate Opposition: Combatting Renewable Energy Myths",
+    "published_at": "2026-10-22T15:07:46+00:00",
+    "summary": "&#160; New York’s Office of Renewable Energy Siting (ORES) has generated opposition from rural and agrarian communities where renewable energy infrastructure is proposed. Some of that opposition is fueled by misinformation about the impacts of renewable energy projects on wildlife, farmland, and property values, among other issues. This blog rebuts three of the most common [&#8230;]",
+    "fetched_at": "2026-11-09T16:00:06.704584+00:00",
+    "sentiment_score": -0.7364,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0247,
+      "neutral": 0.2142,
+      "risk": 0.7611
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/virtual-power-plants/google-plans-big-virtual-power-plant-in-energy-strapped-pjm-grid",
+    "source_id": "canary_media",
+    "title": "Google plans big virtual power plant in energy-strapped PJM grid",
+    "published_at": "2026-10-22T11:30:00+00:00",
+    "summary": "Google just upped the ante on its plans to leverage the energy use of thousands of homes and businesses to free up space on the grid for data centers. The tech giant and the California-based firm  Voltus announced Thursday that they are going after a gigawatt of virtual-power-plant capacity in PJM Interconnection,…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9658,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.971,
+      "neutral": 0.0239,
+      "risk": 0.0052
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-weatherize-lower-income-homes",
+    "source_id": "canary_media",
+    "title": "Massachusetts bill could hinder push to weatherize lower-income homes",
+    "published_at": "2026-10-22T07:30:00+00:00",
+    "summary": "Massachusetts has made meaningful strides in recent years to get its robust energy-efficiency incentives into the hands of lower-income households who need them most. Now, a provision tucked into a pending energy bill could undermine that progress, environmental justice advocates say, by making certain benefits more…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.2302,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.3429,
+      "neutral": 0.5444,
+      "risk": 0.1127
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.desmog.com/2026/10/21/in-pictures-armageddon-at-europes-swim-spots-linked-to-climate-change-and-factory-farm-pollution/",
+    "source_id": "desmog",
+    "title": "In Pictures: ‘Armageddon’ at Europe’s Swim Spots Linked to Climate Change and Factory Farm Pollution",
+    "published_at": "2026-10-22T06:00:00+00:00",
+    "summary": "Across Brittany, tractors can be seen trundling onto beaches to remove truckloads of foul-smelling algae ahead of the tourist rush.&#160; Situated below steep cliffs and ancient forests, these once pristine beaches have been devastated by algal blooms – the rapid growth of toxic seaweed which kills off fish and plant life. This sea lettuce algae [&#8230;]\nThe post In Pictures: ‘Armageddon’ at Europe’s Swim Spots Linked to Climate Change and Factory Farm Pollution appeared first on DeSmog.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.795,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0439,
+      "neutral": 0.1173,
+      "risk": 0.8389
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/balcony-solar/balcony-solar-bill-introduced-in-congress-for-the-first-time",
+    "source_id": "canary_media",
+    "title": "Balcony solar bill introduced in Congress for the first time",
+    "published_at": "2026-10-22T00:23:00+00:00",
+    "summary": "Balcony solar legislation has finally arrived on Capitol Hill. On Monday, U.S. Rep. Rob Menendez, Democrat of New Jersey, introduced the first federal bill aimed at legalizing solar panels that simply plug into an outlet. The legislation would require all state  public utility commissions to consider rules that would…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.5595,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5914,
+      "neutral": 0.3768,
+      "risk": 0.0319
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/offshore-wind/trump-admin-another-attack-offshore-wind",
+    "source_id": "canary_media",
+    "title": "Trump admin finds yet another way to attack offshore wind",
+    "published_at": "2026-10-21T23:11:00+00:00",
+    "summary": "The Trump administration is widening its attacks on U.S. offshore wind development, this time by siding with anti-wind groups that are seeking to strip projects of existing federal approvals. Its latest target is New England Wind, a 2-gigawatt development proposed off the coast of Massachusetts. On Tuesday, the…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.1642,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.173,
+      "neutral": 0.4898,
+      "risk": 0.3372
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/chiricahua-is-the-nations-newest-national-park-what-does-that-mean-293785",
+    "source_id": "the_conversation_climate",
+    "title": "Chiricahua is the nation’s newest national park – what does that mean?",
+    "published_at": "2026-10-21T21:08:23+00:00",
+    "summary": "What comes next for Chiricahua, now that is has been officially redesignated as America’s 64th national park?",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.5121,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5333,
+      "neutral": 0.4455,
+      "risk": 0.0212
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/21/cop17-must-settle-who-decides-how-cali-fund-money-is-disbursed/",
+    "source_id": "climate_home_news",
+    "title": "COP17 must settle who decides how Cali Fund money is disbursed",
+    "published_at": "2026-10-21T20:42:11+00:00",
+    "summary": "The fund’s importance will depend not only on how much reaches Indigenous Peoples and local communities, but on whether they can determine how the finance is accessed, governed and used\nThe post COP17 must settle who decides how Cali Fund money is disbursed appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.0935,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.115,
+      "neutral": 0.8635,
+      "risk": 0.0215
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://blogs.law.columbia.edu/climatechange/2026/10/21/new-resource-model-state-and-local-laws-to-manage-data-center-impacts/",
+    "source_id": "sabin_center",
+    "title": "New Resource: Model State and Local Laws to Manage Data Center Impacts",
+    "published_at": "2026-10-21T15:51:11+00:00",
+    "summary": "Model Local Law: A Framework for Responsible Data Center Development  Model State Law for Data Centers &#8211; Creating Low Emissions, Accountability, and New Generation Rules for Infrastructure and Data Center (CLEAN GRID) Act. In the past several years, data centers have rapidly proliferated in communities around the country and have come to dominate political discourse [&#8230;]",
+    "fetched_at": "2026-11-09T16:00:06.704584+00:00",
+    "sentiment_score": 0.1995,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2256,
+      "neutral": 0.7483,
+      "risk": 0.0261
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/21/uk-approves-gas-drilling-despite-admitting-blow-to-climate-leadership-status/",
+    "source_id": "climate_home_news",
+    "title": "UK approves gas drilling despite admitting blow to “climate leadership” status",
+    "published_at": "2026-10-21T14:49:54+00:00",
+    "summary": "The government accepts that approving the Jackdaw field will weaken its climate reputation and downplays the legal weight of the International Court of Justice opinion\nThe post UK approves gas drilling despite admitting blow to &#8220;climate leadership&#8221; status appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.4795,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0145,
+      "neutral": 0.4915,
+      "risk": 0.494
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/el-nino-is-threatening-californias-fragile-coast-again-the-1982-83-el-nino-opened-eyes-to-the-serious-erosion-risks-293298",
+    "source_id": "the_conversation_climate",
+    "title": "El Niño is threatening California’s fragile coast again – the 1982-83 El Niño opened eyes to the serious erosion risks",
+    "published_at": "2026-10-21T12:47:33+00:00",
+    "summary": "The destructive 1982-83 El Niño, then the strongest on record, eroded cliffs, leaving homes hanging precariously over the edges. A coastal scientist explains the escalating risks.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.9752,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0054,
+      "neutral": 0.0139,
+      "risk": 0.9806
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://blogs.law.columbia.edu/climatechange/2026/10/21/applying-the-right-to-an-effective-remedy-in-malaysian-climate-litigation/",
+    "source_id": "sabin_center",
+    "title": "Applying the Right to an Effective Remedy in Malaysian Climate Litigation",
+    "published_at": "2026-10-21T11:00:48+00:00",
+    "summary": "Malaysia has seen minimal climate litigation to date. Indeed, only in December 2025 was the first climate litigation case in Malaysia filed, challenging a decision by several ministries claiming they lacked jurisdiction to investigate climate-washing. The lack of cases means that Malaysian courts have not had sufficient opportunity to fully canvass polluters&#8217; remedial obligations. Nevertheless, [&#8230;]",
+    "fetched_at": "2026-11-09T16:00:06.704584+00:00",
+    "sentiment_score": -0.5893,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0214,
+      "neutral": 0.3679,
+      "risk": 0.6107
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/21/turkish-giant-sponsoring-cop31-cut-climate-goals-then-cashed-in-on-oil-boom/",
+    "source_id": "climate_home_news",
+    "title": "Turkish giant sponsoring COP31 cut climate goals then cashed in on oil boom",
+    "published_at": "2026-10-21T08:30:00+00:00",
+    "summary": "COP31 sponsors should be screened for “climate integrity”. Yet Koç Holding has become a top partner while its oil refiner runs flat out and its climate targets slip\nThe post Turkish giant sponsoring COP31 cut climate goals then cashed in on oil boom appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.0308,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0392,
+      "neutral": 0.8908,
+      "risk": 0.07
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/geothermal/new-york-first-utility-scale-thermal-network",
+    "source_id": "canary_media",
+    "title": "New York to build state’s first two utility-scale thermal networks",
+    "published_at": "2026-10-21T07:30:00+00:00",
+    "summary": "For the past four years, the UpgradeNY coalition of clean energy, environmental, and labor groups has been pushing New York regulators to approve projects that could switch entire neighborhoods from fossil gas to clean electric heating — and to do it without undermining fossil gas utility jobs and investments. The…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.789,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8034,
+      "neutral": 0.1822,
+      "risk": 0.0144
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/clean-energy/new-mexico-transition-ahead-of-schedule",
+    "source_id": "canary_media",
+    "title": "New Mexico’s transition to clean energy is actually ahead of schedule",
+    "published_at": "2026-10-21T07:30:00+00:00",
+    "summary": "New Mexico boasts stark landscapes unlike anywhere else, a clearly defined regional cuisine built around fiery Hatch chiles, and cultural centers that predate the United States by several centuries. It’s unusual in another way, too: As many states struggle to advance on their path to a 100% clean electricity system,…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.713,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.7364,
+      "neutral": 0.2402,
+      "risk": 0.0234
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/21/un-sets-steep-emission-cuts-to-reverse-1-5c-overshoot-by-end-of-century/",
+    "source_id": "climate_home_news",
+    "title": "UN sets steep emission cuts to reverse 1.5C overshoot by end of century",
+    "published_at": "2026-10-21T05:00:00+00:00",
+    "summary": "Emissions must by reduced by nearly 6% a year for the world to have a good chance of bringing global warming back down to the Paris Agreement limit, the Emissions Gap Report says    \nThe post UN sets steep emission cuts to reverse 1.5C overshoot by end of century appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.007,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0448,
+      "neutral": 0.9034,
+      "risk": 0.0518
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/20/paris-agreement-committee-names-three-countries-snubbing-it-over-ndcs/",
+    "source_id": "climate_home_news",
+    "title": "Paris Agreement committee names three countries snubbing it over NDCs",
+    "published_at": "2026-10-20T17:19:47+00:00",
+    "summary": "More than 30 countries have failed to submit an NDC, but only three have repeatedly ignored the committee’s efforts to engage with them\nThe post Paris Agreement committee names three countries snubbing it over NDCs appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.1233,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0163,
+      "neutral": 0.8441,
+      "risk": 0.1396
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://blogs.law.columbia.edu/climatechange/2026/10/20/la-rose-heads-to-trial-key-issues-in-canadian-climate-change-adjudication/",
+    "source_id": "sabin_center",
+    "title": "La Rose Heads to Trial: Key Issues in Canadian Climate Change Adjudication",
+    "published_at": "2026-10-20T14:00:17+00:00",
+    "summary": "On October 26, 2026, the trial in the landmark case La Rose v. His Majesty the King is set to begin before the Federal Court in Vancouver, Canada. This is one of Canada’s most closely watched constitutional climate cases, and one of a larger wave of rights-based youth climate litigation across the country (see e.g. [&#8230;]",
+    "fetched_at": "2026-11-09T16:00:06.704584+00:00",
+    "sentiment_score": -0.5099,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0477,
+      "neutral": 0.3947,
+      "risk": 0.5576
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659",
+    "source_id": "the_conversation_climate",
+    "title": "Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty",
+    "published_at": "2026-10-20T12:36:46+00:00",
+    "summary": "When conservation affects local people, the question of who pays and who has a voice in decisions can make or break species recovery.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.0513,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0991,
+      "neutral": 0.7505,
+      "risk": 0.1504
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/offshore-wind/floating-turbine-global-collaboration-research",
+    "source_id": "canary_media",
+    "title": "Floating wind industry leans into global collaboration amid headwinds",
+    "published_at": "2026-10-20T07:30:00+00:00",
+    "summary": "This article originally appeared on  Inside Climate News  , a nonprofit, non-partisan news organization that covers climate, energy, and the environment. Sign up for their newsletter  here  .  Picture a buoyant triangular steel or concrete platform roughly the dimensions of a baseball field. Now place a wind turbine…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.7769,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.7917,
+      "neutral": 0.1935,
+      "risk": 0.0148
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/clean-energy/eugene-ballot-measure-tax-companies-climate-fund",
+    "source_id": "canary_media",
+    "title": "Will a second US city tax billion-dollar firms to fund clean energy?",
+    "published_at": "2026-10-20T07:30:00+00:00",
+    "summary": "Amy Winton doesn’t like that she has to depend on fossil gas for her restaurant, Mexican taquería Pandita in Eugene, Oregon. But she’s stuck with the gas-fueled burners, heaters, and outdoor fireplace that came with the space.   “We just don&#039;t have the funds” to switch to electric equipment, Winton said. “If we had…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.5224,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5535,
+      "neutral": 0.4154,
+      "risk": 0.0311
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/federal-spending-on-climate-change-before-2024-election-boosted-incumbents-of-both-parties-293791",
+    "source_id": "the_conversation_climate",
+    "title": "Federal spending on climate change before 2024 election boosted incumbents of both parties",
+    "published_at": "2026-10-19T18:49:58+00:00",
+    "summary": "Incumbents can still reap electoral rewards when federal money reaches their districts, even if they opposed the bill that provided it.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.3343,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.4147,
+      "neutral": 0.5049,
+      "risk": 0.0804
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/geothermal/geothermal-startup-power-seafloor-drilling",
+    "source_id": "canary_media",
+    "title": "This geothermal startup produced a tiny bit of power from the seafloor",
+    "published_at": "2026-10-19T16:00:00+00:00",
+    "summary": "A tiny power plant notched a big win last month off the coast of Oregon: For nearly 30 seconds, it generated electricity using the heat of an underwater volcano.  The startup Endurance Energy deployed its test unit, called Adélie, about a mile below the surface of the Pacific Ocean during a three-week demonstration…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.959,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9651,
+      "neutral": 0.0287,
+      "risk": 0.0061
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/why-and-how-us-and-canadian-energy-markets-are-so-deeply-intertwined-292090",
+    "source_id": "the_conversation_climate",
+    "title": "Why and how US and Canadian energy markets are so deeply intertwined",
+    "published_at": "2026-10-19T12:36:18+00:00",
+    "summary": "The two countries’ energy systems and markets are so intertwined that tariffs on electricity, oil and gas would devastate both economies.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.9587,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0055,
+      "neutral": 0.0303,
+      "risk": 0.9642
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/candidates-are-quietly-talking-about-climate-change-3-election-strategies-youll-see-across-the-us-293687",
+    "source_id": "the_conversation_climate",
+    "title": "Candidates are quietly talking about climate change – 3 election strategies you’ll see across the US",
+    "published_at": "2026-10-19T12:36:08+00:00",
+    "summary": "Voters have a lot of weighty issues on their minds, but that doesn’t mean they aren’t worried about climate change.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.0696,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.048,
+      "neutral": 0.8344,
+      "risk": 0.1176
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/19/ipcc-scientists-vow-to-press-on-with-climate-reports-despite-political-deadlock/",
+    "source_id": "climate_home_news",
+    "title": "IPCC scientists vow to press on with climate reports despite political deadlock",
+    "published_at": "2026-10-19T12:31:12+00:00",
+    "summary": "After governments again failed to agree a timeline, nearly 120 IPCC authors pledged to complete their assessment on time and with full scientific rigour\nThe post IPCC scientists vow to press on with climate reports despite political deadlock appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.0675,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0299,
+      "neutral": 0.8727,
+      "risk": 0.0974
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://blogs.law.columbia.edu/climatechange/2026/10/19/charting-climate-litigation-in-asia-emerging-cases-strategies-and-frontiers/",
+    "source_id": "sabin_center",
+    "title": "Charting Climate Litigation in Asia: Emerging Cases, Strategies, and Frontiers",
+    "published_at": "2026-10-19T11:00:15+00:00",
+    "summary": "Climate litigation has become a global phenomenon, but its future direction will increasingly be shaped by regions where comparatively little litigation has been documented. One such focal point is Asia. The region encompasses communities highly vulnerable to climate impacts alongside some of its fastest-growing economies, making its energy choices and emissions trajectories crucial to global [&#8230;]",
+    "fetched_at": "2026-11-09T16:00:06.704584+00:00",
+    "sentiment_score": -0.9227,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0049,
+      "neutral": 0.0675,
+      "risk": 0.9276
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/19/protecting-nature-is-a-public-duty-not-a-wall-street-profit-opportunity/",
+    "source_id": "climate_home_news",
+    "title": "Protecting nature is a public duty, not a Wall Street profit opportunity",
+    "published_at": "2026-10-19T08:09:06+00:00",
+    "summary": "To raise the money needed, governments should focus on redirecting subsidies that currently harm nature, while working on a new convention to recover the vast wealth drained by cross-border tax abuse \nThe post Protecting nature is a public duty, not a Wall Street profit opportunity appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.5174,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.563,
+      "neutral": 0.3914,
+      "risk": 0.0456
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/clean-aluminum/how-to-recover-more-scrap-metal-us",
+    "source_id": "canary_media",
+    "title": "A cleaner solution to America’s aluminum crunch is hiding in landfills",
+    "published_at": "2026-10-19T07:30:00+00:00",
+    "summary": "A global supply shortage and U.S. tariffs have roiled the aluminum market this year, putting greater pressure on the United States to produce more of its own metal. Plans to build or reopen giant smelters are moving forward , but they all hinge on securing huge amounts of cheap power — at a time when data centers are…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.4457,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.146,
+      "neutral": 0.2624,
+      "risk": 0.5917
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/batteries/illinois-storage-procurement-incentives-results",
+    "source_id": "canary_media",
+    "title": "Illinois needs batteries. Will a new incentive program help?",
+    "published_at": "2026-10-19T07:30:00+00:00",
+    "summary": "Illinois has built out large amounts of renewables in the past decade to reach its mandate of 100% clean energy by 2050 . So far, though, it has lagged on building battery storage, which advocates say is especially necessary now as data center development drives up energy demand.  Last fall, Illinois passed an…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8563,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8628,
+      "neutral": 0.1307,
+      "risk": 0.0065
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/16/uns-loss-and-damage-fund-set-to-give-nepal-20m-for-flood-recovery/",
+    "source_id": "climate_home_news",
+    "title": "UN’s loss and damage fund set to give Nepal $20m for flood recovery",
+    "published_at": "2026-10-16T14:49:17+00:00",
+    "summary": "The Fund for Responding to Loss and Damage is expected to allocate funds to respond to Nepal’s floods at an extraordinary board meeting on Thursday\nThe post UN’s loss and damage fund set to give Nepal $20m for flood recovery appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8787,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8985,
+      "neutral": 0.0817,
+      "risk": 0.0198
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/electric-vehicles/us-ev-sales-rebound",
+    "source_id": "canary_media",
+    "title": "US EV sales are rising again. Here’s why the recovery is set to last.",
+    "published_at": "2026-10-16T14:23:00+00:00",
+    "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   It’s a great time to have an electric vehicle — and more Americans are getting the message.  Despite President Donald Trump’s pledge to refrain from striking Iran before next month’s midterm elections, oil…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.4791,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5118,
+      "neutral": 0.4554,
+      "risk": 0.0327
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans",
+    "source_id": "guardian_environment",
+    "title": "For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster",
+    "published_at": "2026-10-16T13:00:11+00:00",
+    "summary": "Low-interest loans kept many eateries afloat. But the industry never recovered enough for them to repay the debtFor almost 20 years, Jai Mazumdar has served vegetarian curries, samosas, gulab jamun and other Indian delicacies at Spice N Curry, a cafe and grocery nestled inside a modest strip mall near Florida International University (FIU) in Miami. When the Covid-19 pandemic devastated his business, as it did with so many restaurants, Mazumdar took out a $370,000 economic injury disaster loan (",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.7477,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0882,
+      "neutral": 0.0759,
+      "risk": 0.8359
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/pennsylvanias-aging-prisons-werent-built-for-todays-extreme-weather-leaving-women-and-seniors-especially-at-risk-of-illness-and-death-293079",
+    "source_id": "the_conversation_climate",
+    "title": "Pennsylvania’s aging prisons weren’t built for today’s extreme weather – leaving women and seniors especially at risk of illness and death",
+    "published_at": "2026-10-16T12:23:24+00:00",
+    "summary": "Extreme hot and cold temperatures are associated with higher rates of deaths, infirmary admissions and transfers to external medical facilities, researchers found.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.9747,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0046,
+      "neutral": 0.0161,
+      "risk": 0.9793
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/for-centuries-bird-migration-was-a-mystery-a-tech-revolution-is-changing-that-and-could-help-save-these-amazing-creatures-294345",
+    "source_id": "the_conversation_climate",
+    "title": "For centuries, bird migration was a mystery – a tech revolution is changing that, and could help save these amazing creatures",
+    "published_at": "2026-10-16T12:21:52+00:00",
+    "summary": "An early clue came from storks found in Europe with African arrows in their bodies. Today, an atlas reveals hundreds of bird migration routes that are both complicated and remarkable.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8682,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.89,
+      "neutral": 0.0882,
+      "risk": 0.0218
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/americans-want-electric-cars-they-just-cant-find-them-293901",
+    "source_id": "the_conversation_climate",
+    "title": "Americans want electric cars – they just can’t find them",
+    "published_at": "2026-10-16T12:21:29+00:00",
+    "summary": "Sales reveal how many cars people actually bought, but not how many they actually wanted. Prices, on the other hand, show how demand is changing.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.463,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5266,
+      "neutral": 0.4098,
+      "risk": 0.0636
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.climatechangenews.com/2026/10/16/under-us-pressure-world-bank-says-it-will-back-gas-where-appropriate/",
+    "source_id": "climate_home_news",
+    "title": "Under US pressure, World Bank says it will back gas “where appropriate”",
+    "published_at": "2026-10-16T11:54:15+00:00",
+    "summary": "The US wants the World Bank to expand its gas support while climate campaigners are pushing for it to end - its head spoke this week of limited backing for the fossil fuel\nThe post Under US pressure, World Bank says it will back gas &#8220;where appropriate&#8221; appeared first on Climate Home News.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.031,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1137,
+      "neutral": 0.8036,
+      "risk": 0.0827
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
+    "source_id": "canary_media",
+    "title": "US clean energy jobs fell in 2025 for the first time in years",
+    "published_at": "2026-10-16T07:30:00+00:00",
+    "summary": "See more from  Canary Media’s ​“Chart of the Week” column . Clean energy installations have persisted at record levels despite President Donald Trump’s best efforts to stop them. But the first year of Trump’s second term did leave a mark on U.S. jobs in the sector.  Clean energy jobs fell in 2025 after four years of…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.6551,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6679,
+      "neutral": 0.3193,
+      "risk": 0.0128
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/data-centers/tech-giants-want-clean-energy-in-n-c-is-duke-finally-ready-to-help",
+    "source_id": "canary_media",
+    "title": "Tech giants want clean energy in N.C. Is Duke finally ready to help?",
+    "published_at": "2026-10-15T20:25:00+00:00",
+    "summary": "In North Carolina, tech giants and other large corporations that want their own 24/7 carbon-free electricity have a problem. Across most of the state, only Duke Energy, the state’s vertically integrated utility, can sell them power, and the company’s grid isn’t required to be 100% clean until mid-century.  For the…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8457,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8567,
+      "neutral": 0.1322,
+      "risk": 0.011
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/is-the-world-pricing-the-risk-of-a-us-diesel-export-ban-293242",
+    "source_id": "the_conversation_climate",
+    "title": "Is the world pricing the risk of a US diesel export ban?",
+    "published_at": "2026-10-15T12:14:14+00:00",
+    "summary": "If the US imposed a ban on its diesel exports, as some lawmakers are calling for, it would roil the global market.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.9615,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0055,
+      "neutral": 0.0276,
+      "risk": 0.967
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/hydrogen/whats-up-with-pennsylvanias-hydrogen-hubs",
+    "source_id": "canary_media",
+    "title": "What's up with Pennsylvania's hydrogen hubs?",
+    "published_at": "2026-10-15T07:30:00+00:00",
+    "summary": "This article was originally published by Inside Climate News , a nonprofit, nonpartisan news organization that covers climate, energy, and the environment.  Sign up for its newsletter.   Three years ago, hydrogen seemed poised for a long-awaited breakthrough. The Biden administration announced $7 billion in federal…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9446,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.949,
+      "neutral": 0.0467,
+      "risk": 0.0044
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/data-centers/on-energy-ups-battery-grid-interruption",
+    "source_id": "canary_media",
+    "title": "A new class of batteries helps data centers play nicely with the grid",
+    "published_at": "2026-10-15T07:30:00+00:00",
+    "summary": "Lithium-ion batteries could do so much for AI data centers and the power grid. They’re cheaper than the fossil-gas turbines that tech giants are building at gigawatt scale for their “AI factories.” They can cushion the cost of building out grid infrastructure and power plants just to serve data centers’ peak energy…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9356,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9471,
+      "neutral": 0.0413,
+      "risk": 0.0115
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/how-trumps-disaster-aid-delays-and-fema-cuts-could-galvanize-the-movable-middle-in-the-2026-elections-294236",
+    "source_id": "the_conversation_climate",
+    "title": "How Trump’s disaster aid delays and FEMA cuts could galvanize the ‘movable middle’ in the 2026 elections",
+    "published_at": "2026-10-14T12:19:10+00:00",
+    "summary": "In communities across America, people recovering from floods, storms and wildfires have been left waiting much longer for federal aid – if it arrives at all.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.8948,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0216,
+      "neutral": 0.062,
+      "risk": 0.9164
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/data-centers/utah-carbon-county-opposition-nuclear-gas-valar",
+    "source_id": "canary_media",
+    "title": "Nuclear-powered data centers? It’s a tough sell in Utah coal country.",
+    "published_at": "2026-10-14T07:30:00+00:00",
+    "summary": "This story was originally published by Grist . Sign up for Grist&#039;s weekly newsletter .  Cindy O’Neil understands the boom-and-bust cycles of industry. Her husband spent years working in Carbon County’s namesake coal mines. In this pocket of central Utah, energy and the economy have long been intrinsically linked, at…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.1261,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2113,
+      "neutral": 0.7035,
+      "risk": 0.0852
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/solar/how-one-chicago-program-is-diversifying-the-solar-workforce",
+    "source_id": "canary_media",
+    "title": "How one Chicago program is diversifying the solar workforce",
+    "published_at": "2026-10-14T07:00:00+00:00",
+    "summary": "CHICAGO — On a beautiful fall Saturday morning on the South Side of Chicago, the Life Center Church of God in Christ thrummed with excitement. The pews were packed with over a thousand people dressed in their best — including more than a hundred in black graduation caps and gowns.  Before praying, Pastor Torrey L.…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8928,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9076,
+      "neutral": 0.0776,
+      "risk": 0.0148
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/batteries/how-to-counter-californians-grid-battery-fears-with-safety-facts",
+    "source_id": "canary_media",
+    "title": "What to say to Californians worried about grid batteries",
+    "published_at": "2026-10-13T22:06:00+00:00",
+    "summary": "This is  California Wire  , a weekly newsletter from Jeff St. John on the state’s clean energy transition.  Subscribe to get it every Wednesday via Substack.   Hi everyone! Welcome back to California Wire. Last Thursday, I took the train up to Sacramento to participate in a panel at the California Energy Storage…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.2514,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.3188,
+      "neutral": 0.6138,
+      "risk": 0.0674
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/offshore-wind/trump-reevaluate-permit-revolution-wind-orsted",
+    "source_id": "canary_media",
+    "title": "Trump goes after an offshore wind farm that’s already up and running",
+    "published_at": "2026-10-13T20:00:00+00:00",
+    "summary": "After halting construction on offshore wind farms and canceling leases for future projects, the Trump administration just took another step to erode America’s troubled offshore wind industry.  The Interior Department wants to reevaluate a key approval for Revolution Wind — a $6.2 billion project that is already…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.2596,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.3499,
+      "neutral": 0.5597,
+      "risk": 0.0903
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/americans-are-stressed-about-grocery-prices-so-why-do-they-toss-or-overlook-so-much-misfit-food-293526",
+    "source_id": "the_conversation_climate",
+    "title": "Americans are stressed about grocery prices, so why do they toss or overlook so much ‘misfit’ food?",
+    "published_at": "2026-10-13T12:20:03+00:00",
+    "summary": "Quality, rather than discounts or environmental benefits, is what’s needed to encourage shoppers to consider odd-shaped produce.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.006,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.137,
+      "neutral": 0.732,
+      "risk": 0.131
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/across-the-us-people-dont-want-data-centers-coming-to-their-communities-291630",
+    "source_id": "the_conversation_climate",
+    "title": "Across the US, people don’t want data centers coming to their communities",
+    "published_at": "2026-10-13T12:19:28+00:00",
+    "summary": "Opposition to data centers is widespread across the US, uniting people despite other differences on political and environmental issues.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.6554,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0359,
+      "neutral": 0.2728,
+      "risk": 0.6913
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/politics/solar-industry-spends-to-flip-control-of-georgia-utility-commission",
+    "source_id": "canary_media",
+    "title": "Solar industry spends to flip control of Georgia utility commission",
+    "published_at": "2026-10-13T09:00:00+00:00",
+    "summary": "Voters will have a chance to pick their utility regulators in nine states this November. But Georgia is one of the only states that could flip party control of its public utility commission, an often overlooked institution that determines how much people’s energy bills will rise.  Last year, as energy affordability…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.1781,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1103,
+      "neutral": 0.6012,
+      "risk": 0.2884
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/solar/qcells-aims-to-build-worlds-first-big-factory-for-next-gen-tandem-solar",
+    "source_id": "canary_media",
+    "title": "Qcells aims to build a giant factory for next-gen tandem solar",
+    "published_at": "2026-10-13T07:00:00+00:00",
+    "summary": "Qcells , one of the most prolific solar manufacturers operating in the U.S., is staking a claim on the next generation of solar power.  Laboratory scientists have established that solar panels convert sunlight to electricity with much higher efficiency if traditional silicon cells are paired with layers of…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9362,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9467,
+      "neutral": 0.0428,
+      "risk": 0.0105
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/california-is-taking-a-beating-from-an-unusually-destructive-2026-pacific-hurricane-season-294207",
+    "source_id": "the_conversation_climate",
+    "title": "California is taking a beating from an unusually destructive 2026 Pacific hurricane season",
+    "published_at": "2026-10-12T19:13:40+00:00",
+    "summary": "Tropical storms rarely survive in the cool water off California, but waves from storms far to the south can still damaged coastal areas. And flooding rain can sweep in.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.9428,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0126,
+      "neutral": 0.032,
+      "risk": 0.9554
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/300-glaciers-have-disappeared-from-the-american-west-since-the-mid-20th-century-the-survivors-have-a-few-things-in-common-294084",
+    "source_id": "the_conversation_climate",
+    "title": "300 glaciers have disappeared from the American West since the mid-20th century – the survivors have a few things in common",
+    "published_at": "2026-10-12T19:00:06+00:00",
+    "summary": "A new study compared the glaciers in the Lower 48 states today against historical data from the mid-20th century. The results show the region’s vulnerabilities as temperatures rise.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.5724,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.025,
+      "neutral": 0.3776,
+      "risk": 0.5974
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/how-much-rain-can-a-hurricane-make-and-does-the-storm-size-matter-293997",
+    "source_id": "the_conversation_climate",
+    "title": "How much rain can a hurricane make, and does the storm size matter?",
+    "published_at": "2026-10-12T12:20:56+00:00",
+    "summary": "Storms big and small can produce a lot of rain. What matters most is how fast they’re moving, as an atmospheric scientist and educator explains.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.65,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0467,
+      "neutral": 0.2566,
+      "risk": 0.6967
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/physics-nobel-highlights-antarcticas-role-in-exploring-the-cosmos-293906",
+    "source_id": "the_conversation_climate",
+    "title": "Physics Nobel highlights Antarctica’s role in exploring the cosmos",
+    "published_at": "2026-10-12T12:20:36+00:00",
+    "summary": "For more than a century, scientists have treated Antarctica’s environments as windows into worlds beyond Earth.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.663,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.686,
+      "neutral": 0.2911,
+      "risk": 0.023
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/electrification/california-law-choice-gas-line-buildings-incentive",
+    "source_id": "canary_media",
+    "title": "A new gas line or cash to electrify? California lets households choose.",
+    "published_at": "2026-10-12T07:30:00+00:00",
+    "summary": "When one of the nation’s biggest investor-owned utilities, Pacific Gas and Electric, wanted to replace Merrian Borgeson’s aging gas service line in Berkeley, California, she asked the company not to do it.  Borgeson, who is the California policy director for climate and energy at the nonprofit Natural Resources…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.3071,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.3342,
+      "neutral": 0.6387,
+      "risk": 0.0271
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/climatetech-finance/green-banks-progress-trump-funding-freeze",
+    "source_id": "canary_media",
+    "title": "With scaled-back plans, green banks navigate Trump’s funding freeze",
+    "published_at": "2026-10-12T07:30:00+00:00",
+    "summary": "A community solar project built for New Orleans’ oldest historically Black Catholic order of nuns. An all-electric affordable housing complex in Salt Lake City. A program offering low-income Maryland households inexpensive loans for rooftop solar and energy efficiency.  These are just some of the recent projects…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9687,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9735,
+      "neutral": 0.0217,
+      "risk": 0.0048
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://theconversation.com/why-fall-yard-care-could-start-with-doing-less-but-not-nothing-293924",
+    "source_id": "the_conversation_climate",
+    "title": "Why fall yard care could start with doing less – but not nothing",
+    "published_at": "2026-10-09T18:41:58+00:00",
+    "summary": "Fallen leaves provide essential winter habitat for native pollinators and provide natural mulch for the soil. If you have to clear some leaves, don’t get rid of them entirely: Move them out of sight.",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.4928,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5539,
+      "neutral": 0.3849,
+      "risk": 0.0611
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-target",
+    "source_id": "canary_media",
+    "title": "Clean-energy super PAC names its target list for general elections",
+    "published_at": "2026-10-09T17:33:00+00:00",
+    "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   Midterm elections are less than a month away. For the Invest in Tomorrow Coalition, it’s the perfect time to double down on fighting clean energy opponents in races across the country.  The Invest in…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.431,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.4479,
+      "neutral": 0.5353,
+      "risk": 0.0169
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/heat-pumps/federal-tax-credits-shipment-data-2026",
+    "source_id": "canary_media",
+    "title": "Heat pumps have so far withstood the death of federal tax credits",
+    "published_at": "2026-10-09T07:30:00+00:00",
+    "summary": "See more from  Canary Media’s ​“Chart of the Week” column .  America’s demand for heat pumps isn’t going away just because federal incentives did.  Shipments of heat pumps stayed strong in the first half of 2026, and the tech is on track to match or exceed its best year, according to a recent report from the Building…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8323,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8412,
+      "neutral": 0.1499,
+      "risk": 0.0089
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/nuclear/constellation-google-nuclear-uprates",
+    "source_id": "canary_media",
+    "title": "Constellation and Google go in on nuclear uprates to unlock clean power",
+    "published_at": "2026-10-08T19:00:00+00:00",
+    "summary": "The Trump administration wants to add 5 gigawatts of carbon-free nuclear power capacity by 2029 without deploying a single new reactor. An announcement this week by the United States’ biggest nuclear power plant operator brings that lofty goal a bit closer to reality.  On Tuesday, Constellation Energy said it would…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8106,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8189,
+      "neutral": 0.1728,
+      "risk": 0.0083
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/food-and-farms/iowa-farm-county-battery-storage",
+    "source_id": "canary_media",
+    "title": "How a reluctant Iowa farming county undid a ban on battery storage",
+    "published_at": "2026-10-08T07:30:00+00:00",
+    "summary": "The soil in northwest Iowa is so fertile it’s referred to as “black gold.”  “It’s incredibly rich, wonderful topsoil from thousands of years of silty deposits from the Missouri River,” said Luke Seaberg, a researcher at Iowa State University’s extension program. So rich that some counties restrict development on land…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.5522,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6049,
+      "neutral": 0.3424,
+      "risk": 0.0527
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/clean-energy/new-group-small-towns-clean-energy",
+    "source_id": "canary_media",
+    "title": "A new group to help US small towns lead the clean energy transition",
+    "published_at": "2026-10-08T07:30:00+00:00",
+    "summary": "As the mayor of tiny Enfield, North Carolina, Mondale Robinson has huge clean energy ambitions . Among them: building a solar farm to power the entire town of about 2,000, replacing the town’s decrepit substation to distribute those renewable electrons, and building a thermal energy network to provide heating and…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9717,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9752,
+      "neutral": 0.0213,
+      "risk": 0.0035
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/transmission/california-amps-grid-upgrades",
+    "source_id": "canary_media",
+    "title": "California amps up pressure on grid buildouts that take too long",
+    "published_at": "2026-10-07T17:00:00+00:00",
+    "summary": "This is  California Wire  , a weekly newsletter from Jeff St. John on the state’s clean energy transition.  Subscribe to get it every Wednesday via Substack.   Welcome back to California Wire! This week, I want to dive into a topic that’s both timely and timeless: transmission lines, and how long it takes to build…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.0898,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1332,
+      "neutral": 0.6438,
+      "risk": 0.223
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/07/north-carolina-farm-workers-disability-health-heat",
+    "source_id": "guardian_environment",
+    "title": "Heatstroke ruined his health. Years before, it took the life of another farm worker at the same company",
+    "published_at": "2026-10-07T11:00:08+00:00",
+    "summary": "A farm labor contractor exposed laborers on H-2A agricultural visas to heat-related health hazards, but is still bringing hundreds of migrant farm workers to North CarolinaIt was 4pm and 90F (32C) when Carlos Vargas Moreno and other farm workers set out to weed a watermelon field in Goldsboro, North Carolina, on 19 July 2022.The work day had begun at 7am and included two 15-minute breaks and a one-hour lunch eaten outdoors. The heat index – what the temperature feels like to the human body when ",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.8697,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0218,
+      "neutral": 0.0867,
+      "risk": 0.8915
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/solar/connecticut-solar-utility-skepticism",
+    "source_id": "canary_media",
+    "title": "Connecticut’s solar ambitions hit skepticism from a major utility",
+    "published_at": "2026-10-07T07:30:00+00:00",
+    "summary": "Connecticut is trying to clean up its grid with more solar energy. But a major utility’s reluctance to commit to buying power from some projects is raising questions about the prospects for success.  Connecticut last month announced plans to secure 63.4 megawatts of new solar capacity from arrays to be built in New…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9142,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9253,
+      "neutral": 0.0636,
+      "risk": 0.0111
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/electric-vehicles/tesla-evs-as-home-battery",
+    "source_id": "canary_media",
+    "title": "Tesla is now making more EVs that can double as a home battery",
+    "published_at": "2026-10-06T21:00:00+00:00",
+    "summary": "Households and the power grid run on alternating current. Batteries — including those in electric vehicles — run on direct current. That AC-DC divide has complicated the prospect of EVs as home backup batteries.  Today, almost every commercially available vehicle-to-home (V2H) backup power system in the U.S. requires…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.7995,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8254,
+      "neutral": 0.1487,
+      "risk": 0.0259
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/emissions-reduction/gas-stoves-restaurant-cooks-health",
+    "source_id": "canary_media",
+    "title": "Gas stoves put restaurant cooks’ health at risk, new study finds",
+    "published_at": "2026-10-06T09:00:00+00:00",
+    "summary": "In restaurant kitchens around the U.S., cooks are toiling away to create mouthwatering meals, from bibimbap to spaghetti puttanesca.  But their own stomachs may be roiling.  That’s what Christopher Galarza, a longtime chef and co-founder of sustainable kitchen certification company EcoChef, experienced firsthand back…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.6005,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0569,
+      "neutral": 0.2857,
+      "risk": 0.6574
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/data-centers/virginia-new-energy-plan-ai-boom",
+    "source_id": "canary_media",
+    "title": "Virginia’s new energy plan: Make the AI boom work for — not against — us",
+    "published_at": "2026-10-05T18:00:00+00:00",
+    "summary": "For well over a year, the twin problems of rising utility bills and soaring electric demand spurred by the AI boom have consumed the energy policy debate in Virginia, the data center capital of the world.  Clean energy foes — mostly Republicans — say the state’s landmark zero-carbon mandate should be scaled back or…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.1204,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.27,
+      "neutral": 0.5803,
+      "risk": 0.1496
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/energy-efficiency/hidden-device-free-up-gigawatts-grid",
+    "source_id": "canary_media",
+    "title": "This hidden device could free up gigawatts of power for the US grid",
+    "published_at": "2026-10-05T07:30:00+00:00",
+    "summary": "America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation — from polluting gas turbines to cleaner developments like solar farms and geothermal plants. But gigawatts of power are already available for the taking across the U.S. economy in the form of wasted…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9724,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9778,
+      "neutral": 0.0169,
+      "risk": 0.0054
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/carbon-free-buildings/california-building-code-approval-delays",
+    "source_id": "canary_media",
+    "title": "California cities face months of delays in building code approvals",
+    "published_at": "2026-10-05T07:30:00+00:00",
+    "summary": "More than a dozen California cities and counties have been trying for months to get climate-forward building standards enacted. But they&#039;ve been caught in regulatory purgatory thanks to legislation meant to address the state’s affordable housing crisis.  Last year, in an effort to ease development, California hit the…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.4938,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0663,
+      "neutral": 0.3736,
+      "risk": 0.5601
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/affordability/why-energy-bills-are-going-up",
+    "source_id": "canary_media",
+    "title": "Here's why your energy bills are going up",
+    "published_at": "2026-10-05T07:30:00+00:00",
+    "summary": "Election season is heating up, and while fewer candidates are mentioning climate change , everyone seems to be talking about energy affordability. Last year, the topic defined the contests for governor in Virginia and New Jersey, and the usually sleepy election for utility regulators in Georgia. In all those cases,…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.1077,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1132,
+      "neutral": 0.6659,
+      "risk": 0.2209
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/transportation/drivers-pay-price-trump-fuel-economy-rollbacks",
+    "source_id": "canary_media",
+    "title": "Drivers will pay the price for Trump’s fuel economy rollbacks",
+    "published_at": "2026-10-02T14:00:00+00:00",
+    "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday  .  This week, the Transportation Department finalized its plan to roll back fuel efficiency standards for automobiles. Automakers will now be required to achieve an average fuel efficiency of 34.9 miles per…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.0106,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0625,
+      "neutral": 0.8856,
+      "risk": 0.0519
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/clean-fleets/diesel-prices-electric-truck-sales",
+    "source_id": "canary_media",
+    "title": "Diesel prices are rising worldwide. So are electric truck sales.",
+    "published_at": "2026-10-02T07:30:00+00:00",
+    "summary": "See more from  Canary Media’s ​“Chart of the Week” column .  The market for battery-powered trucks may be slowing in the U.S. — but globally it’s a very different story.  Worldwide, sales of medium- and heavy-duty electric trucks hit a record high in the first half of this year, according to research firm…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.7611,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.7877,
+      "neutral": 0.1857,
+      "risk": 0.0266
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/solar/states-passing-balcony-solar-laws",
+    "source_id": "canary_media",
+    "title": "Where does balcony solar stand in your state?",
+    "published_at": "2026-10-02T07:00:00+00:00",
+    "summary": "This article was originally published on April 6, 2026, and last updated on Oct. 2, 2026.  Balcony solar is one of the hottest ideas in renewable energy right now. Boosters say the systems — DIY kits that can be plugged right into a standard outlet — save users money without any need for subsidies, government…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9463,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9535,
+      "neutral": 0.0393,
+      "risk": 0.0072
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/food-and-farms/usda-reap-grants-for-solar",
+    "source_id": "canary_media",
+    "title": "The USDA just made it way harder for farmers to get grants for solar",
+    "published_at": "2026-10-01T22:00:00+00:00",
+    "summary": "Rules published Thursday essentially end federal grants that thousands of American farmers have long relied on to build revenue-generating solar systems on their land.  The Trump administration’s changes to the Rural Energy for America Program (REAP) are its latest attempt to block solar development even as the…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.4746,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5401,
+      "neutral": 0.3943,
+      "risk": 0.0655
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/virtual-power-plants/newsom-yes-to-virtual-power-plants",
+    "source_id": "canary_media",
+    "title": "Newsom finally says yes to virtual power plants",
+    "published_at": "2026-10-01T17:30:00+00:00",
+    "summary": "California Gov. Gavin Newsom (D) defied political expectations on Wednesday and signed into law a slate of energy-affordability legislation aimed at containing the utility spending that is driving up electricity costs in the Golden State.  Among the bills he signed are two that will boost the use of virtual power…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.3103,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.359,
+      "neutral": 0.5923,
+      "risk": 0.0487
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/solar/north-carolina-food-bank-microgrid",
+    "source_id": "canary_media",
+    "title": "North Carolina food bank gets microgrid backup for future storms",
+    "published_at": "2026-10-01T07:30:00+00:00",
+    "summary": "Two years ago this week, Hurricane Helene’s floods nearly wiped out the little downtown of Marshall, North Carolina, about 20 miles north of Asheville. Situated along the French Broad River, an art gallery, coffee shop, restaurant, and other beloved community spaces were left without water or electricity —…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.8044,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0582,
+      "neutral": 0.0792,
+      "risk": 0.8626
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/corporate-procurement/meta-large-solar-purchase-texas",
+    "source_id": "canary_media",
+    "title": "Despite big Texas solar purchase agreement, Meta still uses lots of gas",
+    "published_at": "2026-10-01T07:30:00+00:00",
+    "summary": "This article originally appeared on Inside Climate News , a nonprofit, nonpartisan news organization that covers climate, energy, and the environment.  Sign up for their newsletter.   Apex Clean Energy and Meta have entered into a power purchase agreement that allows the technology company to financially benefit from…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8592,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8666,
+      "neutral": 0.1261,
+      "risk": 0.0074
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  }
+]

@@ -1,0 +1,425 @@
+{
+  "generated_at": "2026-11-09T16:01:01.087122+00:00",
+  "model": "climatebert/distilroberta-base-climate-sentiment",
+  "sources": {
+    "carbon_brief": "Carbon Brief",
+    "guardian_environment": "The Guardian (Environment)",
+    "inside_climate_news": "Inside Climate News",
+    "grist": "Grist",
+    "columbia_climate_school": "Columbia Climate School (State of the Planet)",
+    "sabin_center": "Sabin Center for Climate Change Law",
+    "yale_climate_connections": "Yale Climate Connections",
+    "canary_media": "Canary Media",
+    "climate_home_news": "Climate Home News",
+    "mongabay": "Mongabay",
+    "desmog": "DeSmog",
+    "utility_dive": "Utility Dive",
+    "cleantechnica": "CleanTechnica",
+    "the_conversation_climate": "The Conversation (Environment)",
+    "google_news_climate": "Google News — Climate"
+  },
+  "aggregation": {
+    "window_date": "2026-11-09",
+    "avg_score": 0.012,
+    "article_count": 125,
+    "min_score": -0.9686,
+    "max_score": 0.9662,
+    "label_counts": {
+      "neutral": 81,
+      "risk": 25,
+      "opportunity": 19
+    }
+  },
+  "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObU8wcnlKSFdOUDFITlRFV21ZNHVjNF9kQktSTi12UTZGX3dtbC13OG5YMkkzdVVuYS0wcFREbGpCWkd4R2x2cDdvTnVacE5VVTNUTE5SS01tSW1wbEZFQkQza3RaLTg4QWoxdEJHRDBORTVJRWN5bGRzV05MUmZnNzBFaE1xZFhZYlBDaU9EWXd5ZVlFX3pkRWtR?oc=5",
+      "source_id": "google_news_climate",
+      "title": "UN climate summit kicks off in Turkey after a disastrous year of extreme weather - AP News",
+      "published_at": "2026-11-09T15:50:00+00:00",
+      "sentiment_score": -0.4547,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.1326,
+        "neutral": 0.2801,
+        "risk": 0.5873
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mWHNkTDg5eFdLOGMtZ3VUS3BaRVdWSXY3SmJDRUZLanJwbm1hVTZqZ0lfMkdoVVE3aV9LeG1Ba0ZhY2phU1BUdGZvYm9iQ2NQOEJDNnBNblhrajZSclktMGhxaG9FaEVSZVlSeUpPXzF0SDhC?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Debate: What is Climate Change? - Roger Pielke Jr. | Substack",
+      "published_at": "2026-11-09T15:46:25+00:00",
+      "sentiment_score": -0.1763,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0584,
+        "neutral": 0.7069,
+        "risk": 0.2347
+      }
+    },
+    {
+      "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
+      "source_id": "guardian_environment",
+      "title": "Burnham says bravery of Brand’s victims will change the justice system to better support survivors  – UK politics live",
+      "published_at": "2026-11-09T15:39:44+00:00",
+      "sentiment_score": -0.0493,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0767,
+        "neutral": 0.7973,
+        "risk": 0.126
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGd0ZmtNbEhKaUZZVlIwUGFEZHZGVU9IZUltS2JaTExIRjFjZzJ3dDZucTJhU1hxSm45emZUU19sc1Jxek8yVUx4ZHBJU3dEWGd6UnE3a0Z6S0x3UEltZTJnTmJORVpycVpqZEFPX1hsNE9SV0NuSkkzeW5jeEVOdGpiOTk5amhvY09EZGtoNk00TTVmM01ELWZEUEtxSWw1aE1weW14SUI5emVUYU4zakxINHJhcHdPYjNB?oc=5",
+      "source_id": "google_news_climate",
+      "title": "COP31 Opens in Antalya With a UN Push for Faster Climate Action - Crude Oil Prices Today | OilPrice.com",
+      "published_at": "2026-11-09T15:30:00+00:00",
+      "sentiment_score": 0.3086,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.4006,
+        "neutral": 0.5074,
+        "risk": 0.092
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckxOTTVzVTZrWklNWkNYMGd4eHVPX3J1ZFc1ekxVeUdKT0hlUDJ6NU5tcWtya2ZJQll2SWgxLXV0SU1CTDBxNHk5WTdYV2o3eHBHejVXRXdqRTZGcFQ3RXJ6clBDeWkyTGd2cWtZdmpUQnBvVkVPdDI5UWNuakFSajh0bDMtOHowRnRrMjBpdTBhbDNsTkxrbFBmUERGdDFGcHI2bnN5dVRFZw?oc=5",
+      "source_id": "google_news_climate",
+      "title": "World’s Annual Climate Talks Open Under a Dark Cloud - Bloomberg.com",
+      "published_at": "2026-11-09T15:28:43+00:00",
+      "sentiment_score": 0.1377,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.288,
+        "neutral": 0.5617,
+        "risk": 0.1503
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmVTcjZXNUlCSnQtX1F6NXpCTGo5d2pMRzdYeS1DY185c2Rhak1oQWQ1aC11c2czM01NNER1VVduSmhFelpFa3dfLXR3NGlJVVcwMzN0V2MwcUFxN2wxaHhKRUJZTlBuU0g2TmNqZGRFYnprZS02VXFIalQ1OHRicUItaFF4OGREeUdNMFpkNm1LRU9BZlRYTnlJWUJBM0JNTWl2X2szc1lQVzExcFJ0bHVzckE?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Climate crisis now a health emergency of ‘pandemic scale’, UN warns - Euronews.com",
+      "published_at": "2026-11-09T15:18:58+00:00",
+      "sentiment_score": -0.8926,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.0127,
+        "neutral": 0.0821,
+        "risk": 0.9053
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnZ0ODNJc1pyaGFMdjN4RW1lWHJLM3VLZy14R1ZucjN2QU9uUTQ5OF9XYXhSdnBrdnVhdFhSWmVWZXJ5Uno5RndaRFM1UkdmMXFNOWM1UUdnZ3ZNUHJnc0dGcmt0aUx2czMyN3VTQUI3QWdkZUtudHIxNFZ6ZTFNejNSU3g5T0FGNnp5LUd2ZlpTX05lc2V1dzk3OXQyNXk0dDE0Qnp3QWZkZ1M4MEhJR0xMYWFoWGRRckg1QXFnUQ?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Children’s exposure to severe climate disasters rises nearly 50%, analysis finds - Arab News",
+      "published_at": "2026-11-09T15:13:34+00:00",
+      "sentiment_score": -0.9686,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.0054,
+        "neutral": 0.0206,
+        "risk": 0.974
+      }
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/09/baaja-remains-fundamentally-flawed-despite-managers-amendment/",
+      "source_id": "cleantechnica",
+      "title": "BAAJA Remains Fundamentally Flawed Despite Manager’s Amendment",
+      "published_at": "2026-11-09T15:10:40+00:00",
+      "sentiment_score": -0.0026,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0715,
+        "neutral": 0.8545,
+        "risk": 0.0741
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2h3ZlJ6bmZTLXZ6b1NTenZYSmNIWllHQWxLWTB5amo0YmdkZVlZVFdCcGIwMC1CNk9kSUhYTVFWWDhvMV9TWUV2SUFubm5qanVCSm9TSVBjSE10ZmdkeHJVWVRZa2NMaFUxaTUtSDVyMDR6eVpFcVY0SFZJQUE5QVVmM1BoRVVJQmV1SHRyVGlzQldJa2d6M3NYUUc4V1dHVXlselFB?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Conservation Group Rejects Permitting Bill Over Climate Risks - Bloomberg Law News",
+      "published_at": "2026-11-09T15:10:00+00:00",
+      "sentiment_score": -0.8953,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.0072,
+        "neutral": 0.0903,
+        "risk": 0.9025
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMkVHejVUUm52Z1JWeUtveGtRT0dDOXNhV3NWalRCWXRRQzA2V1A3R1NMdG1zckZWSENjNUVzSEpwVExqVWpvbm1qQldGWTJDNWhsQU81b1lObE56NVVrRV9TMzc3RFhmQWpWcU9YcEg1akJSWV9FQmFUSXA4STN0d3JiVHhQRWV5VW4tUXJtT2JIRDh6T1JNV2NZNlRXYTBHb2ZpVUcyVmk3NzBjQ3lxYWV4TGc1ZTlVaFcxbXlKZGM5VzMwVDZqeC1hX2lwT2VWbUE?oc=5",
+      "source_id": "google_news_climate",
+      "title": "The Conversation surrounding Climate Liability has reached the US Supreme Court - MARIST CIRCLE",
+      "published_at": "2026-11-09T15:08:34+00:00",
+      "sentiment_score": -0.4149,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0223,
+        "neutral": 0.5405,
+        "risk": 0.4372
+      }
+    },
+    {
+      "url": "https://www.theguardian.com/environment/live/2026/nov/09/cop31-climate-crisis-talks-turkey-latest-news-updates",
+      "source_id": "guardian_environment",
+      "title": "Cop31 live: world leaders gather for crucial climate crisis talks",
+      "published_at": "2026-11-09T15:06:05+00:00",
+      "sentiment_score": 0.0504,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.1025,
+        "neutral": 0.8455,
+        "risk": 0.0521
+      }
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/09/evs-displace-5-times-more-oil-globally-than-they-did-5-years-ago-analysis/",
+      "source_id": "cleantechnica",
+      "title": "EVs Displace 5 Times More Oil Globally Than They Did 5 Years Ago — Analysis",
+      "published_at": "2026-11-09T15:03:14+00:00",
+      "sentiment_score": 0.7409,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.7518,
+        "neutral": 0.2374,
+        "risk": 0.0109
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk5BbDFNcEFWX1d2QTF0dF9yTnMyQjFlUkU3Y0Z0OUlrT283VFlBWjRIYlk1TTBORUtJLXdZM3k2ZVhUVEpyTnBvMDVreHVvbE9WN2hhNHFhRG9DNjU0M3JqZjRfTjczSjVpUWxfQWcwYXZXdDhXRzlKUXMzZ2Fvb3NCTVdtMXE0RE53NWx1b2JmaUhOM2hXSmk4clVWUFFCNnc?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Plattsburgh to hold climate resilience engagement sessions - Sun Community News",
+      "published_at": "2026-11-09T15:02:38+00:00",
+      "sentiment_score": -0.0625,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.1509,
+        "neutral": 0.6357,
+        "risk": 0.2134
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSm9Fb0M2eW9Rc3NSRGNlakFscVFnUnU0QlNKYndSaVRnRXEtLWVQcVVPYTNPa2xpUzhIekJ0V2VrMVlhaHFsUThlNTlCeWdxaURVaWhBQWNPOVA2MVcxOHR5ZVRkR3BXbmFXT2lHX1ByOW8wZEM1UFZMN2JnZktjNEtaNFRhM0VZbTUyX1Y3c0RwVElzdDJxRVp6cF9OQWM1UEdZMEZaSUxpV3Axazh5U2JYb1ZPQUEtbEp6djJn?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Inclusive negotiations and tangible outcomes at Climate COP31 needed to protect human rights: UN experts - ohchr",
+      "published_at": "2026-11-09T14:57:47+00:00",
+      "sentiment_score": 0.1422,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.1819,
+        "neutral": 0.7785,
+        "risk": 0.0397
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSVhOUGdGLWlWZGpMakZvU0NDU01pbU9BV0FjbGpTZEh2bjN2bmdGSHpibUMtakVpWjluaHcyVldCUjJJcExNSkFvMGNGcFdXWlVqZVhqR2p5ajBkMjdvOHJsRGx4bm1veFZfTDV0em1lbXZSd2F1S0RkazNERnBOMHFxX0FqY1dFRUJreFE0Y21YTGlheTZGZVhaV3NOSi0xNllKR3IyVXFDNnNPc0RYU3VlWTdabmNaVDJ5RDZJNEZkZC0yaTVQMWYtUjc0WlVlaml3?oc=5",
+      "source_id": "google_news_climate",
+      "title": "The Cop31 climate summit is betting on electrification – but still needs a plan to ditch fossil fuels - Inside Ecology",
+      "published_at": "2026-11-09T14:52:08+00:00",
+      "sentiment_score": 0.1552,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.2138,
+        "neutral": 0.7276,
+        "risk": 0.0586
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdnoyYjFvZ01HTFlnbjU4RHl1Yy11UTkxWnNsMUtnUUdUT3Y2a3FzZV90V2czZnd0QWlNRmpldi03ZjRfcjYybFJIRzBSVFc0TXA4VXZlRzY5VlBjN0xOMkRmMTV6WVFMY1o2bDE2Tm1DZWVNbS0wTThnRlN4blZaa1ZMTnNmT0IzZENBcHpoTWJiUDdqcFhGcEFEMVNrV0ZWckZnRk0wemVJWlBwVmw0ZHNqd2pwRDFJc0RfM3lRelJhNVVKWVQ3LQ?oc=5",
+      "source_id": "google_news_climate",
+      "title": "COP31: World Leaders Must Break Fossil Fuels' Grip on Climate Policy and People’s Futures. - Amnesty International USA",
+      "published_at": "2026-11-09T14:47:01+00:00",
+      "sentiment_score": 0.0879,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.1412,
+        "neutral": 0.8055,
+        "risk": 0.0533
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMUdQNjQwRHdPUVdRYlRCOFhwelhrNk9PaS1DQXU5ZlNUSlBVbVJaRWpPWXM1WkhJWVNiWnpnOE1RMFZXZlVRbTFKV0JuVy1pdkpGMTRSdFZqamloRWlNaDVxeHJPMHhQckRPaVpraFNGLXJBRjZKRnNYcUZuZXg5dFZCZzMxS09ldGpCLWVaOA?oc=5",
+      "source_id": "google_news_climate",
+      "title": "World leaders are gathering for climate talks again. Will they make progress? - Yahoo",
+      "published_at": "2026-11-09T14:46:43+00:00",
+      "sentiment_score": 0.1374,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.175,
+        "neutral": 0.7874,
+        "risk": 0.0376
+      }
+    },
+    {
+      "url": "https://news.mongabay.com/2026/11/sri-lankan-wildlife-photographer-ravindralal-anthonis-urges-respect-for-elephants-over-good-shots/",
+      "source_id": "mongabay",
+      "title": "Sri Lankan wildlife photographer Ravindralal Anthonis urges respect for elephants over good shots",
+      "published_at": "2026-11-09T14:36:22+00:00",
+      "sentiment_score": -0.8333,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.0323,
+        "neutral": 0.1022,
+        "risk": 0.8656
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaURlQWV0MTZsdzgwcDdXb3Rrb3l1NHlaekE5VVRTRnJOYkNyU3A5QkNTS0w5Z0lJdHk3cTFmUzFmRnlfdDVpZlcyM1ZwR18tZ3VNb01LNDJpZUxIcUVQVXRIMVJ5cWdUX1NFZ2JMWURYc2RwdnQ5ZFFGUHZtcWo0YzdNLUViLXhRdi05VlVBcVNmb2pEWWhWcC1TbGFHMDNGV0lpV1pjazhNQUU?oc=5",
+      "source_id": "google_news_climate",
+      "title": "COP31: Betting on electricity to break the climate deadlock - France 24",
+      "published_at": "2026-11-09T14:33:13+00:00",
+      "sentiment_score": 0.6209,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.6832,
+        "neutral": 0.2544,
+        "risk": 0.0623
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ0pPMzNOaFFuYkVzMDhQZFZsOTRxMDV4YklrN2ZLVTVCUHh1dTd1aWdXbXRCVmpNM3ptd1pyT1hiaGtKWEpWR0toVnFzREVWaEE0Q0FxQlZObHIzTVFKXzVTYWFEdmt2al95ellFQmVXOWlxU0F2eVVHdUdJelNlZEFuQlR5MVBpTS10U0pGOTNxVUpNTkpNUXhXV2puNE9SMmlZMWtuNjNaVDRHbjRiVkkyQlRBZjM5U3JFMXRyUTZkb0Z3ZjF0eEZCZldjVHM3empJMC1rOA?oc=5",
+      "source_id": "google_news_climate",
+      "title": "‘I’m surrounded by millions of people but I could still die from the heat’ – This is climate breakdown - The Guardian",
+      "published_at": "2026-11-09T14:30:00+00:00",
+      "sentiment_score": -0.7659,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.0382,
+        "neutral": 0.1577,
+        "risk": 0.8041
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Hb3J6bVNEakt4TWJoZ01odTBYcldXbzZQZjNlODAwLUU4MXVoYjF3Y0tGRnZianAtNlpvWnpOeXJfeElpZHRWVkQtRlRfVjFiVVlLdlRXc1V1MEJ1NEpZbUV5TW45RzJwbzdsRVZycGc5V2c?oc=5",
+      "source_id": "google_news_climate",
+      "title": "October was warmest on record. Will Dems address climate change? - The South Dakota Standard",
+      "published_at": "2026-11-09T14:28:38+00:00",
+      "sentiment_score": 0.2075,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.2538,
+        "neutral": 0.6998,
+        "risk": 0.0463
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOangwMFFTT1gwcm93ME1fOFQ4UmRiRTlTZXBSRGpLWXVRaWlCNDdRUEVVZ0ZKUld1Qm43YjBZVFgtS2NnaDlWY1VxUUNGSUtYSFRMYTFsOFRKYVhlS1liMTFzRWkwWVB0amZZenlJdE5JOXhMblpCNXVYUEppOWtxT1BGSTFQdndRaGhoOFBMVXRyZFVDcHdzVXVRMzhxekxqT3JKTVRZR0NUekZuUnJZT0JSdFVlaWtZc3c?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Focus - Saving the Venetian lagoon: A natural buffer against climate change - France 24",
+      "published_at": "2026-11-09T14:18:52+00:00",
+      "sentiment_score": 0.2252,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.4197,
+        "neutral": 0.3858,
+        "risk": 0.1945
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMjlBcHYxOUdGRDNsLS1lUVltZXoyVDh0czM4X3k4SUl4TFdlOFRKcm9nTno3ZHJCLS03MDJSdlJIcXlxV0hwMWNoT1ZUYTE4eE9ENE5QY01ocVk1T2tUUDJral80TXBQaGNHVVdlSG9KcHFWU19OTVlDWllDRFBfUkw4NmlVSjBVTnFRTGxQaEQxeWEyV2NhNUlaREU?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Climate negotiators urged to 'move faster' as COP31 begins in Turkey - Yahoo",
+      "published_at": "2026-11-09T14:18:45+00:00",
+      "sentiment_score": 0.2047,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.3085,
+        "neutral": 0.5877,
+        "risk": 0.1038
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMEkzdlBJcXlFVDI4RXFRN0dCZ0FEcVpjR29JTF9SMkhLSEJib2NyUUZVTHB4YnVQYmVpVEpQMHhmRVNON0IzY2FDdktVaG50enowRjJQYjB1VzZ0Z240S1l1VmlRa005aXJUNVktc184UC1oRkVza0k5bTlDang4QUFvN2RlUnhXbnc?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Climate Change May Be The Greatest Cause Of Inflation - Yahoo",
+      "published_at": "2026-11-09T14:14:21+00:00",
+      "sentiment_score": -0.8367,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.0191,
+        "neutral": 0.1251,
+        "risk": 0.8558
+      }
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
+      "source_id": "guardian_environment",
+      "title": "Thames Water asks creditors for more time to help repay £20bn debt pile",
+      "published_at": "2026-11-09T14:08:09+00:00",
+      "sentiment_score": -0.1812,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.2046,
+        "neutral": 0.4097,
+        "risk": 0.3858
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0d4bHZ4aFNrcnVveEgzN2VBOHBzMi11bUxJVlphaXRiTVRaSjFGN1RNYkJYSGd0aFBZUFNkZUZGMEFBdTl4RnMwVndUekNjZEJuVl9pRFB6OXBUbmxnb2lyUC1yTnlZcTk4R3oxbjJKUTFVMlkxTGEyTU5kRjdEQm5VQm5aN2tVUm5DV21zUVFvbWNoTi1fU0hTOXVCdmxDVmdfRw?oc=5",
+      "source_id": "google_news_climate",
+      "title": "U.S. skips the COP31 climate summit as 1.5C global warming limit slips away - NBC News",
+      "published_at": "2026-11-09T14:00:49+00:00",
+      "sentiment_score": -0.0143,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.171,
+        "neutral": 0.6437,
+        "risk": 0.1853
+      }
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/09/ford-drops-clue-about-ford-fathom-ev-battery/",
+      "source_id": "cleantechnica",
+      "title": "Ford Drops Hint About New Fathom EV Battery Life",
+      "published_at": "2026-11-09T14:00:07+00:00",
+      "sentiment_score": 0.7443,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.7596,
+        "neutral": 0.2251,
+        "risk": 0.0153
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDZuWktaLWktSEtqR1JYZDZkLWx6cm9vRmdTdEVhdU5mMG11aDV3VkZ0MTR2MEhOS3VBa3pkcDNBUUlZT0NBV0lMQ2plWDZ4UmY1YVJKLWtXcm9SLUFhSGRKeTY0SlFBc0M4UGVkRkNzdmlqLVhweUFQWmhwSlh1eGdTSEZZTFpFZkNUd0wxX2tNazRZX0htVG4yX1BRR1pIXzdCSm1JTVJUMTA?oc=5",
+      "source_id": "google_news_climate",
+      "title": "What a historic ‘blue wave’ midterm means for climate action - Dallas Observer",
+      "published_at": "2026-11-09T14:00:00+00:00",
+      "sentiment_score": 0.1829,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.2277,
+        "neutral": 0.7275,
+        "risk": 0.0448
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQem5VYTI4Uk1BZWkzV0ZJemhSOTY0WmlhRTVQR1BmYkNHcXExRnFMSXpwOFllUHo3T3lNdHpxOUlCQ3hYUTBvaDc5cmw3VG9RWElqMXNxRlJYM3FHQ3lvS1F6bnZteDZsaFpTWGRrQ2MyQzMxSDE0RFFjY1JwTE9NMlJOLWEzOFpBT09obA?oc=5",
+      "source_id": "google_news_climate",
+      "title": "COP31 explained: What’s at stake at this year’s UN climate summit? - Unric",
+      "published_at": "2026-11-09T13:47:06+00:00",
+      "sentiment_score": 0.0051,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0733,
+        "neutral": 0.8584,
+        "risk": 0.0682
+      }
+    },
+    {
+      "url": "https://theconversation.com/5-ways-countries-stymie-climate-negotiations-without-actually-saying-no-295589",
+      "source_id": "the_conversation_climate",
+      "title": "5 ways countries stymie climate negotiations without actually saying ‘no’",
+      "published_at": "2026-11-09T13:43:27+00:00",
+      "sentiment_score": -0.4225,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0205,
+        "neutral": 0.5365,
+        "risk": 0.443
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.theguardian.com/environment/2026/aug/28/rhode-island-grocery-store-restrictive-covenants",
+    "source_id": "guardian_environment",
+    "title": "This US city only has one supermarket for 45,000 people. New legislation seeks to fix that",
+    "published_at": "2026-08-28T15:00:07+00:00",
+    "summary": "Big grocery can use anti-competitive clauses to block other stores from entering a market. Rhode Island is the second state to ban that practiceJeannine Johansen remembers the halcyon days of Woonsocket, Rhode Island, when so many of its steep streets were punctuated by grocery stores: Almacs, A&amp;P, Piggly Wiggly and Star Market. In the blizzard of 1978, “everybody went to Fernandes [Produce] because Stop &amp; Shop was too far, and all the roads were closed, so we had to walk”, said the nati",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.6529,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.054,
+      "neutral": 0.2391,
+      "risk": 0.7069
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  }
+]

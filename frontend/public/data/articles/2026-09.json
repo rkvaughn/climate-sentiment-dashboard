@@ -1,0 +1,434 @@
+[
+  {
+    "url": "https://www.canarymedia.com/articles/transmission/senate-permitting-bill-power-lines",
+    "source_id": "canary_media",
+    "title": "Senate permitting bill could greatly expand power lines and clean energy",
+    "published_at": "2026-09-30T22:00:00+00:00",
+    "summary": "The U.S. Senate energy permitting bill unveiled Wednesday could streamline the buildout of high-voltage power lines across the country, potentially delivering billions of dollars in electricity cost savings and dramatically improving the power system’s reliability over the coming decade — if Congress manages to pass…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9432,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9534,
+      "neutral": 0.0365,
+      "risk": 0.0102
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/clean-fleets/electric-trucks-cost-too-much-california-has-a-bill-for-that",
+    "source_id": "canary_media",
+    "title": "Electric trucks cost too much. California has a law for that.",
+    "published_at": "2026-09-30T17:30:00+00:00",
+    "summary": "This is  California Wire  , a weekly newsletter from Jeff St. John on the state’s clean energy transition.  Subscribe to get it every Wednesday via Substack.   Hello, everyone! We’re back today to talk about trucks — the big and dirty ones — and what to do about them. California has around 1.8 million commercial…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.2886,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.3262,
+      "neutral": 0.6362,
+      "risk": 0.0376
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/nuclear/wholesale-revision-us-nuclear-rules",
+    "source_id": "canary_media",
+    "title": "A ‘wholesale revision’ of US nuclear rules is on the table",
+    "published_at": "2026-09-30T07:30:00+00:00",
+    "summary": "The top U.S. nuclear regulator wants to make it easier to build and operate nuclear power plants in this country — without compromising public health or safety. That’s the TL;DR of a proposed rule that would reduce reporting requirements for nonemergency events, eliminate the expiration date for standard design…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.0653,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.04,
+      "neutral": 0.8547,
+      "risk": 0.1053
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/food-and-farms/startup-helps-food-carts-switch-to-batteries",
+    "source_id": "canary_media",
+    "title": "This startup helps food carts switch loud, dirty generators for batteries",
+    "published_at": "2026-09-30T07:30:00+00:00",
+    "summary": "On a sunny September day in New York City, I followed a throng of people off the subway and into Queens’ Flushing Meadows Corona Park. The crowds were there for the U.S. Open tennis tournament, but I wasn’t — I’d come to see a novel experiment to wean the city’s iconic food carts off dirty generators.  Street vendors…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9333,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.942,
+      "neutral": 0.0493,
+      "risk": 0.0087
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/green-steel/mesabi-metallics-steel-mill-iowa",
+    "source_id": "canary_media",
+    "title": "Mesabi Metallics to build a $15B lower-carbon steel mill in Iowa",
+    "published_at": "2026-09-29T20:26:00+00:00",
+    "summary": "The company behind America’s first new iron ore mine in 50 years has unveiled plans for a massive, $15 billion steel plant in southeast Iowa, bringing the firm closer to realizing its ambitious vision for low-carbon steelmaking.  Mesabi Metallics , which is owned by India’s Essar Group, announced the project on…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.955,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9595,
+      "neutral": 0.0359,
+      "risk": 0.0045
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/batteries/new-york-torage-contracts-big-battery",
+    "source_id": "canary_media",
+    "title": "Will New York's 1GW storage contracts finally break the state's big battery impasse?",
+    "published_at": "2026-09-28T21:00:00+00:00",
+    "summary": "New York set an ambitious goal to eliminate fossil-fueled electricity by 2040. Doing so will almost certainly require widespread adoption of batteries to store renewable generation and make it available on demand, thereby reducing the need for fossil-fueled “peaker” plants. Yet the state has seen hardly any…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.7954,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8078,
+      "neutral": 0.1798,
+      "risk": 0.0124
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/geothermal/global-first-next-gen-geothermal-fervo",
+    "source_id": "canary_media",
+    "title": "In global first, a next-gen geothermal plant goes live at utility scale",
+    "published_at": "2026-09-28T19:30:00+00:00",
+    "summary": "The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah — marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat worldwide.  The Houston-based firm turned on an initial 33-megawatt unit late last week and has been testing…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9632,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9691,
+      "neutral": 0.025,
+      "risk": 0.0059
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/sea-transport/massachusetts-startup-solar-boat",
+    "source_id": "canary_media",
+    "title": "Massachusetts startup floats a versatile new solar boat",
+    "published_at": "2026-09-28T07:30:00+00:00",
+    "summary": "The TruSolar20, all straight lines and right angles, was not the sleekest vessel on the Charles River when I visited at the end of August. Once I climbed aboard with inventor James Worden and we pulled away from the Massachusetts Institute of Technology’s sailing pavilion, it quickly became clear that the boat’s…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9192,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9282,
+      "neutral": 0.0628,
+      "risk": 0.009
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/electrification/senate-permitting-reform-holdup",
+    "source_id": "canary_media",
+    "title": "The Senate wants to pass a permitting reform bill. So what’s the holdup?",
+    "published_at": "2026-09-28T07:30:00+00:00",
+    "summary": "​This story was originally published by  Grist  .  Sign up for Grist’s weekly newsletter.       Senators are looking toward the Capitol doors as they prepare to head home and campaign for the midterms. Meanwhile, a group of them has been scrambling to reach a deal that some analysts believe is critical to meet the…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.065,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.146,
+      "neutral": 0.7731,
+      "risk": 0.081
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/land-use/challenges-opportunities-clean-energy-rural-america",
+    "source_id": "canary_media",
+    "title": "The challenges and opportunities of clean energy in rural America",
+    "published_at": "2026-09-25T20:00:00+00:00",
+    "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   The U.S. energy transition runs through rural America: As of last year, 87% of U.S. clean energy generation happened in areas far outside the country’s urban centers, per a Rural Climate Partnership…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8938,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8976,
+      "neutral": 0.0986,
+      "risk": 0.0038
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/fossil-fuels/how-dirty-is-power-generated-states",
+    "source_id": "canary_media",
+    "title": "How dirty is the power generated in your state?",
+    "published_at": "2026-09-25T07:30:00+00:00",
+    "summary": "See more from  Canary Media’s ​“Chart of the Week” column . Have you ever gazed up at power lines and wondered how clean the electrons passing along them are? The answer is very different depending on where you are.  Just look at the spectrum of blues in the map above. It charts the carbon intensity of power…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.091,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1318,
+      "neutral": 0.8274,
+      "risk": 0.0408
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/transmission/advanced-grid-tech-doe-boost",
+    "source_id": "canary_media",
+    "title": "Advanced grid tech gets a $1.9B DOE boost",
+    "published_at": "2026-09-24T21:30:00+00:00",
+    "summary": "For years now, grid experts have been trying to get utilities to deploy advanced transmission technologies that can squeeze more capacity out of overstressed U.S. power grids. On Thursday, the Trump administration put a $1.9 billion down payment on 31 projects that will help greatly scale up these underutilized…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9752,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9796,
+      "neutral": 0.016,
+      "risk": 0.0044
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/solar/solar-industry-new-republican-evangelist",
+    "source_id": "canary_media",
+    "title": "Meet the solar industry’s new Republican evangelist",
+    "published_at": "2026-09-24T16:30:00+00:00",
+    "summary": "Tim Pawlenty was a two-term Republican governor of Minnesota and made a run in the 2012 presidential primary, which ultimately went to Mitt Romney. Now, Pawlenty has reemerged on the national political scene as the leading evangelist for solar energy, while the industry seeks to recover from a stinging political…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.7099,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.7339,
+      "neutral": 0.2421,
+      "risk": 0.024
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/electrification/new-induction-stove-clean-cooking",
+    "source_id": "canary_media",
+    "title": "Can this new induction stove help fuel the transition to clean cooking?",
+    "published_at": "2026-09-24T11:00:00+00:00",
+    "summary": "On Thursday, Copper , creator of the first induction stove with a built-in battery, launched the next generation of its superefficient electric range: the Charlie 2.0.  The plug-and-play appliance is designed to make it easier to ditch fossil-fueled cooking, and the Charlie 2.0 is more powerful than its predecessor,…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9477,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9546,
+      "neutral": 0.0385,
+      "risk": 0.0069
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/politics/solar-for-all-court-ruling",
+    "source_id": "canary_media",
+    "title": "A recent legal victory could free $7B in frozen Solar for All funds",
+    "published_at": "2026-09-24T07:30:00+00:00",
+    "summary": "Denise Abdul-Rahman, founder and CEO of nonprofit Black Sun Light Sustainability, can list in detail the harms that the Trump administration’s shutdown of the $7 billion Solar for All program has caused the Indiana communities she serves. About 1,000 low-income households have been denied access to low-cost solar…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.2936,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.4861,
+      "neutral": 0.3214,
+      "risk": 0.1925
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/offshore-wind/new-york-california-fight-trump-offshore-wind-deals",
+    "source_id": "canary_media",
+    "title": "New York, California ramp up fight against Trump’s offshore wind deals",
+    "published_at": "2026-09-23T20:00:00+00:00",
+    "summary": "NEW YORK CITY — The enormous blades and hubs of offshore wind turbines are sprawled across a waterfront lot in Brooklyn, as a yellow lifting crane named Big Benny looms overhead. The energy firm Equinor is storing components here before shipping them out to Empire Wind , a 810-megawatt installation that is set to…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9108,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.921,
+      "neutral": 0.0688,
+      "risk": 0.0102
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/virtual-power-plants/california-latest-virtual-power-plant",
+    "source_id": "canary_media",
+    "title": "Should we get excited about California’s latest virtual power plant?",
+    "published_at": "2026-09-23T18:00:00+00:00",
+    "summary": "This is  California Wire  , a weekly newsletter from Jeff St. John on the state’s clean energy transition.  Subscribe to get it every Wednesday via Substack.   Hi, everyone! Let’s pick up a theme from last week’s newsletter: how California has yet to take full advantage of rooftop solar, backup batteries, and other…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8379,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8483,
+      "neutral": 0.1412,
+      "risk": 0.0104
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/nuclear/federal-funding-x-energy-small-nuclear-reactor",
+    "source_id": "canary_media",
+    "title": "With federal funding windfall, X-energy advances small nuclear reactor",
+    "published_at": "2026-09-23T07:30:00+00:00",
+    "summary": "The federal government has thrown its weight into reviving America’s long-stagnant nuclear industry, and X-energy’s first-of-a-kind reactor project is among the biggest beneficiaries so far. The U.S. Department of Energy last month said it would award $1 billion to X-energy , an Amazon-backed advanced nuclear startup…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9777,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9815,
+      "neutral": 0.0147,
+      "risk": 0.0038
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/electric-vehicles/electric-school-buses-new-york-city",
+    "source_id": "canary_media",
+    "title": "A new fleet of electric school buses hits New York City streets",
+    "published_at": "2026-09-23T07:30:00+00:00",
+    "summary": "NEW YORK CITY — School districts nationwide are grappling with record diesel prices this fall as they resume shuttling students back and forth. But filling up isn’t a problem for some of the newest buses in New York City. That’s because these 10 long, yellow vehicles plug into the electric grid.  On a clear, sunny…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.7686,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8018,
+      "neutral": 0.165,
+      "risk": 0.0332
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/utilities/us-utilities-failing-grade-clean-energy",
+    "source_id": "canary_media",
+    "title": "US utilities get failing grade on clean energy transition",
+    "published_at": "2026-09-22T09:00:00+00:00",
+    "summary": "The biggest U.S. utilities are doing worse on shifting from fossil fuels to clean power than they were at the start of this decade — and more than four in 10 have backtracked on their climate goals since the start of the second Trump administration.  That’s the dire, if predictable, news from the Sierra Club’s latest…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.4243,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0174,
+      "neutral": 0.5409,
+      "risk": 0.4417
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/batteries/con-edison-battery-developer-fight-nyc",
+    "source_id": "canary_media",
+    "title": "A fight between Con Ed and developers is slowing NYC’s battery buildout",
+    "published_at": "2026-09-22T07:30:00+00:00",
+    "summary": "It’s already hard to build grid batteries in New York City. But now, an increasingly hostile dispute between the utility Con Edison and energy-storage developers is making it even harder.  The two sides agree that “ community-scale battery projects &quot; — bigger than those that back up a home but smaller than most…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.6117,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0735,
+      "neutral": 0.2414,
+      "risk": 0.6852
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/solar/ohio-biggest-solar-project-gets-permit",
+    "source_id": "canary_media",
+    "title": "Ohio’s biggest solar project finally gets permit after long legal limbo",
+    "published_at": "2026-09-21T17:00:00+00:00",
+    "summary": "Ohio’s largest solar and battery project can finally move forward after years of slogging through legal and regulatory challenges.  The Ohio Power Siting Board on Thursday approved a permit for Oak Run Solar, which will combine 800 megawatts of solar with 300 MW of battery storage. The Madison County development will…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8731,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8874,
+      "neutral": 0.0983,
+      "risk": 0.0143
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/fossil-fuels/regulators-reject-duke-gas-plant-north-carolina",
+    "source_id": "canary_media",
+    "title": "Duke Energy wants to build a new gas plant. Regulators said not so fast.",
+    "published_at": "2026-09-21T17:00:00+00:00",
+    "summary": "North Carolina regulators on Friday rejected a bid from Duke Energy to build a gas power plant — a rare denial from a panel that frequently defers to the state’s predominant utility.  Duke first proposed the 255-megawatt facility in Richmond County last fall. Designed to produce electricity when the grid is strained,…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.0188,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1777,
+      "neutral": 0.6634,
+      "risk": 0.1589
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/guides-and-how-tos/stick-up-for-renewable-energy-projects",
+    "source_id": "canary_media",
+    "title": "How to stick up for renewable energy projects near you",
+    "published_at": "2026-09-21T07:30:00+00:00",
+    "summary": "Canary Media’s  Electrified Life  column shares real-world tales, tips, and insights to demystify what individuals can do to shift their homes and communities to clean electric power.   Last year, Coles County, Illinois, was debating whether to kill a proposed wind farm. Dorothy Macy wanted to speak up in support of…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.8515,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8594,
+      "neutral": 0.1327,
+      "risk": 0.0079
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/batteries/vistra-moss-landing-on-fire-again",
+    "source_id": "canary_media",
+    "title": "Vistra’s Moss Landing grid battery is on fire yet again",
+    "published_at": "2026-09-18T20:30:00+00:00",
+    "summary": "It happened yet again.  Another plume of smoke rose from Vistra’s Moss Landing battery plant Friday morning, a year and a half after a catastrophic fire wrecked the grid storage facility in Northern California.  Vistra built Moss Landing on the California coast, south of Santa Cruz, to supply grid capacity to the…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.5948,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.1095,
+      "neutral": 0.1862,
+      "risk": 0.7043
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/emissions-reduction/trumps-epa-gut-climate-rules-power-plants-what-now",
+    "source_id": "canary_media",
+    "title": "Trump's EPA decimated climate rules for power plants. What now?",
+    "published_at": "2026-09-18T19:00:00+00:00",
+    "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter.  Sign up to get it every Friday.   The Biden and Obama administrations built a raft of climate regulations that was supposed to carry America beyond coal power. The Trump administration has officially sunk it.  This week, the EPA gutted the…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.0928,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0288,
+      "neutral": 0.8497,
+      "risk": 0.1216
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/offshore-wind/revolution-installs-last-turbine-despite-trump",
+    "source_id": "canary_media",
+    "title": "Major US offshore wind farm installs its last turbine",
+    "published_at": "2026-09-18T15:23:00+00:00",
+    "summary": "Another offshore wind project just wrapped up turbine construction in the U.S., despite the Trump administration issuing not one but two stop-work orders against the installation.  The $6.2 billion Revolution Wind farm has installed its 65th and final turbine. The project has been producing carbon-free power for…",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": 0.9438,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9492,
+      "neutral": 0.0454,
+      "risk": 0.0054
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  }
+]

@@ -1,6 +1,6 @@
 # Climate Sentiment Meter — Project State
 
-**Last updated:** February 2026
+**Last updated:** 2026-11-07
 **Live:** https://rkvaughn.github.io/climate-sentiment-dashboard/
 **Repo:** https://github.com/rkvaughn/climate-sentiment-dashboard
 
@@ -8,103 +8,83 @@
 
 ## What It Does
 
-A dashboard that aggregates climate news from 15 RSS sources, scores each article's sentiment with a RoBERTa transformer model, and visualizes the daily average as an animated D3.js gauge dial. Articles are grouped by sentiment category (Negative / Neutral / Positive) in a three-column layout.
+A dashboard that aggregates climate news from 15 RSS sources, scores each article with **ClimateBERT** (risk / neutral / opportunity), and visualizes the daily average as an animated D3.js gauge. Articles are grouped by ClimateBERT class in a three-column layout, and an "About the model" section explains ClimateBERT with links to its source.
+
+Runs entirely on GitHub (Actions + Pages) — no database, no server, no API keys, $0 to operate.
 
 ---
 
 ## Architecture
 
-### Frontend (React + Vite → GitHub Pages)
-- Reads directly from Supabase — no backend server
-- `SentimentGauge.jsx` — semi-circular D3.js gauge, color-coded from red (alarming) to green (hopeful)
-- `ArticleList.jsx` — three-column layout: Negative | Neutral | Positive, each with colored header and per-article score badge
-- `Header.jsx` — title, subtitle, last-updated date
-- Hooks: `useSentiment` (daily aggregation), `useArticles` (30 most recent scored articles)
-- Deployed via GitHub Actions on every push to `main`
+```
+GitHub Actions (daily, .github/workflows/pipeline.yml)
+  → backend/pipeline.py: fetch RSS → score new articles with ClimateBERT → write JSON
+  → commit frontend/public/data/ → call deploy.yml → GitHub Pages
+React (static) → fetch data/latest.json
+```
 
-### Backend (Python pipeline script — local cron)
-- `backend/pipeline.py` — self-contained script, no server
-- **Step 1 — Fetch:** Parses all active RSS feeds in `app/data/sources.json`, upserts new articles into Supabase (deduplicates on URL)
-- **Step 2 — Score:** Scores up to 50 unscored articles per run using `cardiffnlp/twitter-roberta-base-sentiment-latest`; stores `sentiment_score` (P_pos − P_neg, range −1 to +1), `sentiment_label` (7-class), and `raw_response`
-- **Step 3 — Aggregate:** Computes avg/min/max score for articles published today, upserts into `sentiment_aggregations`
-- Cron: `0 8 * * *` (8 AM daily), logs to `~/logs/climate-pipeline.log`
-- Virtual env: `.venv/` at project root
+### Pipeline (`backend/pipeline.py`)
+1. **Fetch** — parses all active feeds in `backend/app/data/sources.json`; new URLs are added (dedup on URL).
+2. **Score** — any article whose `model` field isn't the current model is scored, so changing `MODEL_NAME` re-scores the full history automatically.
+3. **Write** — monthly article files, daily aggregations, and the `latest.json` snapshot the dashboard reads.
 
-### Data (Supabase / Postgres)
-- `articles` table: `id`, `source_id`, `title`, `url`, `published_at`, `summary`, `sentiment_score`, `sentiment_label`, `raw_response`
-- `sentiment_aggregations` table: `time_window`, `window_date`, `avg_score`, `article_count`, `min_score`, `max_score`
-- Supabase project: `htcftmhqjpgsrcrnfbwy`
+### Workflows
+- `pipeline.yml` — schedule `0 8 * * *` (**UTC** on Actions) + manual `workflow_dispatch`. Commits data as `github-actions[bot]`, then calls `deploy.yml` (pushes made with `GITHUB_TOKEN` don't trigger other workflows).
+- `deploy.yml` — builds `frontend/` and deploys to Pages; runs on push to `main`, when called by the pipeline, or manually.
 
----
+### Data (`frontend/public/data/`, versioned in git)
+- `latest.json` — `generated_at`, `model`, `sources` (id → name), latest daily `aggregation`, 30 most recent scored `articles`.
+- `aggregations.json` — `daily[]`: `window_date`, `avg_score`, `article_count`, `min_score`, `max_score`, `label_counts`.
+- `articles/YYYY-MM.json` — every article: `url`, `source_id`, `title`, `published_at`, `summary`, `fetched_at`, `sentiment_score`, `sentiment_label`, `probabilities`, `model`.
 
-## Sources (15)
-Carbon Brief, The Guardian, Inside Climate News, Grist, Columbia Climate School, Sabin Center, Yale Climate Connections, Canary Media, Climate Home News, Mongabay, DeSmog, Utility Dive, CleanTechnica, The Conversation, Google News Climate
-
----
-
-## Tech Stack
-- **Frontend:** React, Vite, D3.js, Supabase JS client
-- **Backend:** Python, feedparser, Hugging Face Transformers (RoBERTa), PyTorch, Supabase Python client
-- **Data:** Supabase (Postgres)
-- **Deploy:** GitHub Pages (frontend), local cron (pipeline)
+### Frontend (React + Vite + D3.js)
+- `hooks/useDashboardData.js` — fetches `data/latest.json`
+- `SentimentGauge.jsx` — gauge from Risk (−1) to Opportunity (+1)
+- `ArticleList.jsx` — Risk | Neutral | Opportunity columns; dot tooltip shows class probabilities
+- `ModelInfo.jsx` — ClimateBERT description, limitations, citations, links
 
 ---
 
 ## Sentiment Scoring
-- Model: `cardiffnlp/twitter-roberta-base-sentiment-latest`
-- Score: `P_positive − P_negative` (range −1 to +1)
-- 7-class label mapping:
-  - `≥ 0.60` → very_positive
-  - `≥ 0.20` → positive
-  - `≥ 0.05` → slightly_positive
-  - `> −0.05` → neutral
-  - `> −0.20` → slightly_negative
-  - `> −0.60` → negative
-  - `≤ −0.60` → very_negative
-- Display tiers: Negative (score ≤ −0.2), Neutral (−0.2 to 0.2), Positive (≥ 0.2)
+- Model: [`climatebert/distilroberta-base-climate-sentiment`](https://huggingface.co/climatebert/distilroberta-base-climate-sentiment) (Apache 2.0)
+- Input: `"{title}. {summary}"` (summary = HTML-stripped RSS summary, first 500 chars), truncated to the model's 512-token limit
+- `sentiment_label` = most probable class (`risk` / `neutral` / `opportunity`) — no thresholds
+- `sentiment_score` = `P(opportunity) − P(risk)`, range −1 to +1
+- Daily aggregate = mean score of scored articles by UTC publication date
+- Label mapping verified 2026-11-07 against the first 100 rows of the `climatebert/climate_sentiment` test split: the model config's `id2label` (0 opportunity, 1 neutral, 2 risk) agreed with gold labels on 76/100; the dataset card lists the reverse index order, which does not match the model.
+
+---
+
+## Known Caveats
+- ClimateBERT's sentiment head was trained on corporate disclosure paragraphs, not news; headlines with short summaries are least reliable.
+- History restarted 2026-11-07 (the old Supabase project was deleted). Days before the first run only include articles still listed in feeds at that time, so early daily aggregates have partial coverage.
+- GitHub disables scheduled workflows after 60 days without repository activity; the daily data commits should keep it active — confirm after the first couple of months.
 
 ---
 
 ## Key Files
 ```
-backend/
-  pipeline.py              # Main cron script
-  requirements.txt         # feedparser, transformers, torch, supabase, python-dotenv
-  .env                     # SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY (gitignored)
-  .env.example
-  README.md                # Setup and cron instructions
-  app/data/sources.json    # 15 RSS source definitions
-
-frontend/
-  src/
-    components/
-      Dashboard.jsx
-      Header.jsx
-      SentimentGauge.jsx
-      ArticleList.jsx
-    hooks/
-      useSentiment.js
-      useArticles.js
-    lib/supabase.js
-  .env                     # VITE_SUPABASE_URL, VITE_SUPABASE_ANON_KEY (gitignored)
-
-docs/
-  sentiment_scoring_methodology.md
-  vader_vs_transformer_scoring_analysis.md
-  climate_sentiment_meter_project_plan.md
+.github/workflows/pipeline.yml   # Daily fetch/score/commit + deploy
+.github/workflows/deploy.yml     # Build + deploy to Pages
+backend/pipeline.py              # Pipeline script
+backend/requirements.txt         # feedparser, transformers, torch
+backend/app/data/sources.json    # 15 RSS source definitions
+frontend/public/data/            # Generated data (committed)
+frontend/src/components/         # Dashboard, Header, SentimentGauge, ArticleList, ModelInfo
+frontend/src/hooks/useDashboardData.js
 ```
 
 ---
 
 ## What Was Removed
-- FastAPI server (`app/main.py`, routers, services) — replaced by `pipeline.py`
-- VADER scorer — replaced by RoBERTa transformer
-- Gemini scorer — unused, removed
-- Refresh button — pipeline runs on cron, not on-demand from UI
+- Supabase (database deleted by the free tier; replaced by JSON in git) and `@supabase/supabase-js`
+- Local cron job (replaced by GitHub Actions)
+- `cardiffnlp/twitter-roberta-base-sentiment-latest` scorer and its 7-class threshold labels (replaced by ClimateBERT's 3 classes)
+- Earlier: FastAPI server, VADER and Gemini scorers, Refresh button
 
 ---
 
 ## Documentation
 - [Sentiment Scoring Methodology](docs/sentiment_scoring_methodology.md)
-- [VADER vs. Transformer Analysis](docs/vader_vs_transformer_scoring_analysis.md)
+- [VADER vs. Transformer Analysis](docs/vader_vs_transformer_scoring_analysis.md) (historical)
 - [Project Plan](docs/climate_sentiment_meter_project_plan.md)

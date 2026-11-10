@@ -1,34 +1,43 @@
 import Header from './Header'
 import SentimentGauge from './SentimentGauge'
 import ArticleList from './ArticleList'
-import { useSentiment } from '../hooks/useSentiment'
-import { useArticles } from '../hooks/useArticles'
+import ModelInfo from './ModelInfo'
+import { useDashboardData } from '../hooks/useDashboardData'
 
 export default function Dashboard() {
-  const { sentiment, loading: sentLoading, error: sentError } = useSentiment()
-  const { articles, loading: artLoading, error: artError } = useArticles(30)
-
-  const score = sentiment?.avg_score ?? null
-  const articleCount = sentiment?.article_count ?? null
-  const lastUpdated = sentiment?.window_date ?? null
+  const { data, loading, error } = useDashboardData()
+  const aggregation = data?.aggregation
 
   return (
     <div className="dashboard">
-      <Header lastUpdated={lastUpdated} />
+      <Header lastUpdated={data?.generated_at} />
 
       <div className="gauge-section">
-        {sentLoading ? (
+        {loading ? (
           <p className="loading-text">Loading sentiment data...</p>
-        ) : sentError ? (
-          <p className="error-text">Could not load sentiment data — {sentError}</p>
-        ) : score !== null ? (
-          <SentimentGauge score={score} articleCount={articleCount} />
+        ) : error ? (
+          <p className="error-text">Could not load sentiment data — {error}</p>
+        ) : aggregation ? (
+          <div className="gauge-wrap">
+            <SentimentGauge score={aggregation.avg_score} articleCount={aggregation.article_count} />
+            <p className="gauge-caption">
+              Average ClimateBERT score for articles published{' '}
+              {new Date(`${aggregation.window_date}T00:00:00Z`).toLocaleDateString('en-US', {
+                month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC',
+              })}{' '}
+              (UTC)
+            </p>
+          </div>
         ) : (
-          <p className="loading-text">No sentiment data yet. Run the pipeline to get started.</p>
+          <p className="loading-text">No sentiment data yet. The daily pipeline hasn't produced any scores.</p>
         )}
       </div>
 
-      <ArticleList articles={articles} loading={artLoading} error={artError} />
+      {!loading && !error && (
+        <ArticleList articles={data?.articles ?? []} sources={data?.sources ?? {}} />
+      )}
+
+      <ModelInfo model={data?.model} />
     </div>
   )
 }

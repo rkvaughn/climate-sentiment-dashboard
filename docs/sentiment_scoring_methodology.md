@@ -2,6 +2,8 @@
 
 This document describes the methodology used to calculate and present the climate news sentiment scores, emphasizing user configurability and the interpretation of directional trends.
 
+> **Current implementation (2026-11-07).** Articles are scored with ClimateBERT (`climatebert/distilroberta-base-climate-sentiment`), which classifies climate text as risk / neutral / opportunity. Each article's label is its most probable class; its score is `P(opportunity) − P(risk)` on a −1 to +1 scale; the gauge shows the mean score of articles published on the latest UTC date. Sections 2–5 below describe planned features that are not yet implemented. See `PROJECT_STATE.md` for details.
+
 ## 1. Core Sentiment Score (Per Article)
 
 Each individual news article ingested into the system will first undergo a sentiment analysis to determine its core sentiment.

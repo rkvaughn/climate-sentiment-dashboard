@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.theguardian.com/us-news/2026/feb/01/mexico-moves-to-combat-pollution-following-guardian-investigations",
+    "source_id": "guardian_environment",
+    "title": "Mexico moves to combat pollution following Guardian investigations",
+    "published_at": "2026-02-01T17:08:27+00:00",
+    "summary": "After stories revealed high levels of contamination in neighborhood around factory processing US toxic waste, government announces sweeping array of tacticsThe Mexican government has announced it will pursue a sweeping array of tactics to combat industrial pollution, from $4.8m in fines against a plant processing US hazardous waste to the rollout of a new industrial air-monitoring system, following investigations by the Guardian and Quinto Elemento Lab, a Mexican investigative unit.Those stories",
+    "fetched_at": "2026-11-07T18:28:54.823760+00:00",
+    "sentiment_score": -0.5902,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0643,
+      "neutral": 0.2812,
+      "risk": 0.6545
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  }
+]

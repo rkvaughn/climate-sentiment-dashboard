@@ -7,12 +7,11 @@ const MARGIN = 20
 const RADIUS = (WIDTH - MARGIN * 2) / 2
 const NEEDLE_LENGTH = RADIUS - 15
 
+const BAND_CENTER = RADIUS - 15
 const LABELS = [
-  { angle: -80, text: 'Alarming' },
-  { angle: -40, text: 'Negative' },
-  { angle: 0, text: 'Neutral' },
-  { angle: 40, text: 'Positive' },
-  { angle: 80, text: 'Hopeful' },
+  { x: -BAND_CENTER, y: 14, text: 'Risk' },
+  { x: 0, y: -(RADIUS + 12), text: 'Neutral' },
+  { x: BAND_CENTER, y: 14, text: 'Opportunity' },
 ]
 
 export default function SentimentGauge({ score, articleCount }) {
@@ -54,10 +53,7 @@ export default function SentimentGauge({ score, articleCount }) {
     })
 
     // Labels
-    LABELS.forEach(({ angle, text }) => {
-      const rad = (angle * Math.PI) / 180
-      const x = Math.sin(rad) * (RADIUS + 12)
-      const y = -Math.cos(rad) * (RADIUS + 12)
+    LABELS.forEach(({ x, y, text }) => {
       g.append('text')
         .attr('x', x)
         .attr('y', y)

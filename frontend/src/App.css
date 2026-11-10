@@ -99,6 +99,11 @@
 .score-badge {
   font-weight: 600;
   margin-left: 0.4rem;
+  white-space: nowrap;
+}
+
+.nowrap {
+  white-space: nowrap;
 }
 
 /* Sentiment columns */
@@ -133,6 +138,84 @@
   border-radius: 10px;
   letter-spacing: 0;
   text-transform: none;
+}
+
+.gauge-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gauge-caption {
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+}
+
+/* Model info */
+.model-info {
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin-top: 1.5rem;
+  font-size: 0.875rem;
+  line-height: 1.55;
+  color: var(--text-secondary);
+}
+
+.model-info h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.75rem;
+}
+
+.model-info h3 {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-primary);
+  margin: 1.1rem 0 0.4rem;
+}
+
+.model-info p {
+  margin-bottom: 0.5rem;
+}
+
+.model-info ol,
+.model-info ul {
+  padding-left: 1.25rem;
+}
+
+.model-info li {
+  margin-bottom: 0.35rem;
+}
+
+.model-info strong {
+  color: var(--text-primary);
+}
+
+.model-info code {
+  font-size: 0.8rem;
+}
+
+.model-info ul.model-classes {
+  list-style: none;
+  padding-left: 0;
+}
+
+.class-swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 0.5rem;
+}
+
+.model-note {
+  font-size: 0.8rem;
+  color: var(--text-muted);
 }
 
 /* Loading / error */

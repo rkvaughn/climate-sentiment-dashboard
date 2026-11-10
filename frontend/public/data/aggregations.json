@@ -1,0 +1,527 @@
+{
+  "model": "climatebert/distilroberta-base-climate-sentiment",
+  "daily": [
+    {
+      "window_date": "2025-12-02",
+      "avg_score": -0.8976,
+      "article_count": 1,
+      "min_score": -0.8976,
+      "max_score": -0.8976,
+      "label_counts": {
+        "risk": 1
+      }
+    },
+    {
+      "window_date": "2026-02-01",
+      "avg_score": -0.5902,
+      "article_count": 1,
+      "min_score": -0.5902,
+      "max_score": -0.5902,
+      "label_counts": {
+        "risk": 1
+      }
+    },
+    {
+      "window_date": "2026-04-07",
+      "avg_score": -0.892,
+      "article_count": 1,
+      "min_score": -0.892,
+      "max_score": -0.892,
+      "label_counts": {
+        "risk": 1
+      }
+    },
+    {
+      "window_date": "2026-07-12",
+      "avg_score": 0.5021,
+      "article_count": 1,
+      "min_score": 0.5021,
+      "max_score": 0.5021,
+      "label_counts": {
+        "opportunity": 1
+      }
+    },
+    {
+      "window_date": "2026-08-28",
+      "avg_score": -0.6529,
+      "article_count": 1,
+      "min_score": -0.6529,
+      "max_score": -0.6529,
+      "label_counts": {
+        "risk": 1
+      }
+    },
+    {
+      "window_date": "2026-09-18",
+      "avg_score": 0.0854,
+      "article_count": 3,
+      "min_score": -0.5948,
+      "max_score": 0.9438,
+      "label_counts": {
+        "risk": 1,
+        "neutral": 1,
+        "opportunity": 1
+      }
+    },
+    {
+      "window_date": "2026-09-21",
+      "avg_score": 0.5811,
+      "article_count": 3,
+      "min_score": 0.0188,
+      "max_score": 0.8731,
+      "label_counts": {
+        "opportunity": 2,
+        "neutral": 1
+      }
+    },
+    {
+      "window_date": "2026-09-22",
+      "avg_score": -0.518,
+      "article_count": 2,
+      "min_score": -0.6117,
+      "max_score": -0.4243,
+      "label_counts": {
+        "neutral": 1,
+        "risk": 1
+      }
+    },
+    {
+      "window_date": "2026-09-23",
+      "avg_score": 0.8738,
+      "article_count": 4,
+      "min_score": 0.7686,
+      "max_score": 0.9777,
+      "label_counts": {
+        "opportunity": 4
+      }
+    },
+    {
+      "window_date": "2026-09-24",
+      "avg_score": 0.7316,
+      "article_count": 4,
+      "min_score": 0.2936,
+      "max_score": 0.9752,
+      "label_counts": {
+        "opportunity": 4
+      }
+    },
+    {
+      "window_date": "2026-09-25",
+      "avg_score": 0.4924,
+      "article_count": 2,
+      "min_score": 0.091,
+      "max_score": 0.8938,
+      "label_counts": {
+        "opportunity": 1,
+        "neutral": 1
+      }
+    },
+    {
+      "window_date": "2026-09-28",
+      "avg_score": 0.6857,
+      "article_count": 4,
+      "min_score": 0.065,
+      "max_score": 0.9632,
+      "label_counts": {
+        "opportunity": 3,
+        "neutral": 1
+      }
+    },
+    {
+      "window_date": "2026-09-29",
+      "avg_score": 0.955,
+      "article_count": 1,
+      "min_score": 0.955,
+      "max_score": 0.955,
+      "label_counts": {
+        "opportunity": 1
+      }
+    },
+    {
+      "window_date": "2026-09-30",
+      "avg_score": 0.525,
+      "article_count": 4,
+      "min_score": -0.0653,
+      "max_score": 0.9432,
+      "label_counts": {
+        "opportunity": 2,
+        "neutral": 2
+      }
+    },
+    {
+      "window_date": "2026-10-01",
+      "avg_score": 0.2099,
+      "article_count": 4,
+      "min_score": -0.8044,
+      "max_score": 0.8592,
+      "label_counts": {
+        "opportunity": 2,
+        "neutral": 1,
+        "risk": 1
+      }
+    },
+    {
+      "window_date": "2026-10-02",
+      "avg_score": 0.5727,
+      "article_count": 3,
+      "min_score": 0.0106,
+      "max_score": 0.9463,
+      "label_counts": {
+        "neutral": 1,
+        "opportunity": 2
+      }
+    },
+    {
+      "window_date": "2026-10-05",
+      "avg_score": 0.1228,
+      "article_count": 4,
+      "min_score": -0.4938,
+      "max_score": 0.9724,
+      "label_counts": {
+        "neutral": 2,
+        "opportunity": 1,
+        "risk": 1
+      }
+    },
+    {
+      "window_date": "2026-10-06",
+      "avg_score": 0.0995,
+      "article_count": 2,
+      "min_score": -0.6005,
+      "max_score": 0.7995,
+      "label_counts": {
+        "opportunity": 1,
+        "risk": 1
+      }
+    },
+    {
+      "window_date": "2026-10-07",
+      "avg_score": -0.0151,
+      "article_count": 3,
+      "min_score": -0.8697,
+      "max_score": 0.9142,
+      "label_counts": {
+        "neutral": 1,
+        "risk": 1,
+        "opportunity": 1
+      }
+    },
+    {
+      "window_date": "2026-10-08",
+      "avg_score": 0.7782,
+      "article_count": 3,
+      "min_score": 0.5522,
+      "max_score": 0.9717,
+      "label_counts": {
+        "opportunity": 3
+      }
+    },
+    {
+      "window_date": "2026-10-09",
+      "avg_score": 0.5854,
+      "article_count": 3,
+      "min_score": 0.431,
+      "max_score": 0.8323,
+      "label_counts": {
+        "opportunity": 2,
+        "neutral": 1
+      }
+    },
+    {
+      "window_date": "2026-10-12",
+      "avg_score": -0.0377,
+      "article_count": 6,
+      "min_score": -0.9428,
+      "max_score": 0.9687,
+      "label_counts": {
+        "risk": 3,
+        "opportunity": 2,
+        "neutral": 1
+      }
+    },
+    {
+      "window_date": "2026-10-13",
+      "avg_score": 0.1033,
+      "article_count": 6,
+      "min_score": -0.6554,
+      "max_score": 0.9362,
+      "label_counts": {
+        "neutral": 4,
+        "risk": 1,
+        "opportunity": 1
+      }
+    },
+    {
+      "window_date": "2026-10-14",
+      "avg_score": 0.0414,
+      "article_count": 3,
+      "min_score": -0.8948,
+      "max_score": 0.8928,
+      "label_counts": {
+        "risk": 1,
+        "neutral": 1,
+        "opportunity": 1
+      }
+    },
+    {
+      "window_date": "2026-10-15",
+      "avg_score": 0.4411,
+      "article_count": 4,
+      "min_score": -0.9615,
+      "max_score": 0.9446,
+      "label_counts": {
+        "opportunity": 3,
+        "risk": 1
+      }
+    },
+    {
+      "window_date": "2026-10-16",
+      "avg_score": 0.2066,
+      "article_count": 8,
+      "min_score": -0.9747,
+      "max_score": 0.8787,
+      "label_counts": {
+        "opportunity": 5,
+        "risk": 2,
+        "neutral": 1
+      }
+    },
+    {
+      "window_date": "2026-10-19",
+      "avg_score": 0.0225,
+      "article_count": 9,
+      "min_score": -0.9587,
+      "max_score": 0.959,
+      "label_counts": {
+        "neutral": 3,
+        "opportunity": 3,
+        "risk": 3
+      }
+    },
+    {
+      "window_date": "2026-10-20",
+      "avg_score": 0.123,
+      "article_count": 5,
+      "min_score": -0.5099,
+      "max_score": 0.7769,
+      "label_counts": {
+        "neutral": 2,
+        "opportunity": 2,
+        "risk": 1
+      }
+    },
+    {
+      "window_date": "2026-10-21",
+      "avg_score": 0.0056,
+      "article_count": 11,
+      "min_score": -0.9752,
+      "max_score": 0.789,
+      "label_counts": {
+        "neutral": 5,
+        "opportunity": 3,
+        "risk": 3
+      }
+    },
+    {
+      "window_date": "2026-10-22",
+      "avg_score": 0.2638,
+      "article_count": 11,
+      "min_score": -0.795,
+      "max_score": 0.9658,
+      "label_counts": {
+        "opportunity": 5,
+        "neutral": 4,
+        "risk": 2
+      }
+    },
+    {
+      "window_date": "2026-10-23",
+      "avg_score": -0.1242,
+      "article_count": 6,
+      "min_score": -0.9549,
+      "max_score": 0.5702,
+      "label_counts": {
+        "opportunity": 1,
+        "neutral": 3,
+        "risk": 2
+      }
+    },
+    {
+      "window_date": "2026-10-26",
+      "avg_score": 0.369,
+      "article_count": 7,
+      "min_score": -0.6045,
+      "max_score": 0.9709,
+      "label_counts": {
+        "opportunity": 5,
+        "risk": 2
+      }
+    },
+    {
+      "window_date": "2026-10-27",
+      "avg_score": -0.0321,
+      "article_count": 9,
+      "min_score": -0.9222,
+      "max_score": 0.7801,
+      "label_counts": {
+        "opportunity": 2,
+        "neutral": 4,
+        "risk": 3
+      }
+    },
+    {
+      "window_date": "2026-10-28",
+      "avg_score": 0.0337,
+      "article_count": 8,
+      "min_score": -0.8118,
+      "max_score": 0.9735,
+      "label_counts": {
+        "opportunity": 2,
+        "risk": 2,
+        "neutral": 4
+      }
+    },
+    {
+      "window_date": "2026-10-29",
+      "avg_score": 0.2723,
+      "article_count": 12,
+      "min_score": -0.7552,
+      "max_score": 0.9777,
+      "label_counts": {
+        "neutral": 4,
+        "opportunity": 6,
+        "risk": 2
+      }
+    },
+    {
+      "window_date": "2026-10-30",
+      "avg_score": -0.284,
+      "article_count": 12,
+      "min_score": -0.9533,
+      "max_score": 0.9488,
+      "label_counts": {
+        "opportunity": 1,
+        "risk": 6,
+        "neutral": 5
+      }
+    },
+    {
+      "window_date": "2026-10-31",
+      "avg_score": 0.0934,
+      "article_count": 5,
+      "min_score": -0.7272,
+      "max_score": 0.777,
+      "label_counts": {
+        "neutral": 2,
+        "risk": 1,
+        "opportunity": 2
+      }
+    },
+    {
+      "window_date": "2026-11-01",
+      "avg_score": 0.7875,
+      "article_count": 1,
+      "min_score": 0.7875,
+      "max_score": 0.7875,
+      "label_counts": {
+        "opportunity": 1
+      }
+    },
+    {
+      "window_date": "2026-11-02",
+      "avg_score": 0.0777,
+      "article_count": 12,
+      "min_score": -0.9775,
+      "max_score": 0.9663,
+      "label_counts": {
+        "neutral": 3,
+        "opportunity": 5,
+        "risk": 4
+      }
+    },
+    {
+      "window_date": "2026-11-03",
+      "avg_score": 0.3067,
+      "article_count": 28,
+      "min_score": -0.9613,
+      "max_score": 0.9696,
+      "label_counts": {
+        "neutral": 10,
+        "opportunity": 16,
+        "risk": 2
+      }
+    },
+    {
+      "window_date": "2026-11-04",
+      "avg_score": 0.1548,
+      "article_count": 39,
+      "min_score": -0.9684,
+      "max_score": 0.9608,
+      "label_counts": {
+        "opportunity": 13,
+        "neutral": 17,
+        "risk": 9
+      }
+    },
+    {
+      "window_date": "2026-11-05",
+      "avg_score": 0.1945,
+      "article_count": 55,
+      "min_score": -0.9745,
+      "max_score": 0.9449,
+      "label_counts": {
+        "neutral": 24,
+        "risk": 10,
+        "opportunity": 21
+      }
+    },
+    {
+      "window_date": "2026-11-06",
+      "avg_score": 0.0,
+      "article_count": 98,
+      "min_score": -0.9712,
+      "max_score": 0.9803,
+      "label_counts": {
+        "opportunity": 29,
+        "neutral": 41,
+        "risk": 28
+      }
+    },
+    {
+      "window_date": "2026-11-07",
+      "avg_score": 0.0631,
+      "article_count": 76,
+      "min_score": -0.9645,
+      "max_score": 0.9429,
+      "label_counts": {
+        "neutral": 41,
+        "opportunity": 20,
+        "risk": 15
+      }
+    },
+    {
+      "window_date": "2026-11-08",
+      "avg_score": 0.0654,
+      "article_count": 81,
+      "min_score": -0.9593,
+      "max_score": 0.9655,
+      "label_counts": {
+        "neutral": 42,
+        "opportunity": 20,
+        "risk": 19
+      }
+    },
+    {
+      "window_date": "2026-11-09",
+      "avg_score": 0.012,
+      "article_count": 125,
+      "min_score": -0.9686,
+      "max_score": 0.9662,
+      "label_counts": {
+        "neutral": 81,
+        "risk": 25,
+        "opportunity": 19
+      }
+    }
+  ]
+}

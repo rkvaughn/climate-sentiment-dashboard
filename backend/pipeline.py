@@ -1,143 +1,177 @@
 #!/usr/bin/env python3
 """
 Climate Sentiment Pipeline
-Fetches RSS articles, scores with RoBERTa, writes to Supabase.
-Run: python backend/pipeline.py
-Cron: 0 8 * * * cd ~/Projects/climate-sentiment-dashboard && .venv/bin/python backend/pipeline.py >> ~/logs/climate-pipeline.log 2>&1
+Fetches climate RSS feeds, scores new articles with ClimateBERT, and writes the
+static JSON files the dashboard reads from frontend/public/data/.
+Run: python backend/pipeline.py  (scheduled daily by .github/workflows/pipeline.yml)
 """
-import json, os, re
-from datetime import date, datetime, timezone
+import json, re
+from calendar import timegm
+from collections import Counter, defaultdict
+from datetime import datetime, timezone
 from pathlib import Path
-from time import mktime
 
 import feedparser
 import torch
-from dotenv import load_dotenv
-from supabase import create_client
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
-load_dotenv(Path(__file__).parent / ".env")
-SUPABASE_URL = os.environ["SUPABASE_URL"]
-SUPABASE_KEY = os.environ["SUPABASE_SERVICE_ROLE_KEY"]
-SOURCES_FILE = Path(__file__).parent / "app" / "data" / "sources.json"
-MODEL_NAME = "cardiffnlp/twitter-roberta-base-sentiment-latest"
-
-print("Loading model...")
-_tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-_model = AutoModelForSequenceClassification.from_pretrained(MODEL_NAME)
-_model.eval()
-_labels = [_model.config.id2label[i] for i in range(len(_model.config.id2label))]
-print("Model ready.")
-
-
-def _score_to_label(score):
-    if score >= 0.60: return "very_positive"
-    if score >= 0.20: return "positive"
-    if score >= 0.05: return "slightly_positive"
-    if score > -0.05: return "neutral"
-    if score > -0.20: return "slightly_negative"
-    if score > -0.60: return "negative"
-    return "very_negative"
-
-
-def _score_article(title, summary):
-    text = f"{title}. {summary}" if summary else title
-    inputs = _tokenizer(text, return_tensors="pt", truncation=True, max_length=512, padding=True)
-    with torch.no_grad():
-        probs = torch.softmax(_model(**inputs).logits, dim=-1).squeeze().tolist()
-    prob_map = {lbl.lower(): p for lbl, p in zip(_labels, probs)}
-    score = round(prob_map.get("positive", 0.0) - prob_map.get("negative", 0.0), 4)
-    return {
-        "sentiment_score": score,
-        "sentiment_label": _score_to_label(score),
-        "raw_response": {lbl: round(p, 4) for lbl, p in zip(_labels, probs)},
-    }
+ROOT = Path(__file__).resolve().parent.parent
+SOURCES_FILE = ROOT / "backend" / "app" / "data" / "sources.json"
+DATA_DIR = ROOT / "frontend" / "public" / "data"
+ARTICLES_DIR = DATA_DIR / "articles"
+MODEL_NAME = "climatebert/distilroberta-base-climate-sentiment"
+LATEST_ARTICLE_COUNT = 30
+SUMMARY_MAX_CHARS = 500
+MODEL_MAX_TOKENS = 512
 
 
 def _parse_date(entry):
-    if hasattr(entry, "published_parsed") and entry.published_parsed:
-        return datetime.fromtimestamp(mktime(entry.published_parsed), tz=timezone.utc).isoformat()
+    if getattr(entry, "published_parsed", None):
+        return datetime.fromtimestamp(timegm(entry.published_parsed), tz=timezone.utc).isoformat()
     return None
 
 
 def _get_summary(entry):
-    if hasattr(entry, "summary") and entry.summary:
-        return re.sub(r"<[^>]+>", "", entry.summary).strip()[:500]
+    if getattr(entry, "summary", None):
+        return re.sub(r"<[^>]+>", "", entry.summary).strip()[:SUMMARY_MAX_CHARS]
     return None
 
 
-def run():
-    db = create_client(SUPABASE_URL, SUPABASE_KEY)
-    with open(SOURCES_FILE) as f:
-        sources = [s for s in json.load(f)["sources"] if s.get("active", True)]
+def _month_key(article):
+    return (article.get("published_at") or article["fetched_at"])[:7]
 
-    # 1. Fetch & insert
-    fetched = inserted = 0
+
+def _write_json(path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
+
+
+class Scorer:
+    def __init__(self):
+        print(f"Loading {MODEL_NAME}...")
+        self.tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+        self.model = AutoModelForSequenceClassification.from_pretrained(MODEL_NAME).eval()
+        self.labels = [self.model.config.id2label[i] for i in range(len(self.model.config.id2label))]
+
+    def score(self, title, summary):
+        text = f"{title}. {summary}" if summary else title
+        inputs = self.tokenizer(text, return_tensors="pt", truncation=True, max_length=MODEL_MAX_TOKENS)
+        with torch.no_grad():
+            probs = torch.softmax(self.model(**inputs).logits, dim=-1).squeeze().tolist()
+        probabilities = {lbl: round(p, 4) for lbl, p in zip(self.labels, probs)}
+        return {
+            "sentiment_score": round(probabilities["opportunity"] - probabilities["risk"], 4),
+            "sentiment_label": max(probabilities, key=probabilities.get),
+            "probabilities": probabilities,
+            "model": MODEL_NAME,
+        }
+
+
+def load_articles():
+    articles = {}
+    for path in sorted(ARTICLES_DIR.glob("*.json")):
+        for a in json.loads(path.read_text()):
+            articles[a["url"]] = a
+    return articles
+
+
+def fetch_new(sources, articles):
+    now = datetime.now(tz=timezone.utc).isoformat()
+    fetched = added = 0
     for source in sources:
         try:
             feed = feedparser.parse(source["feed_url"])
-            for entry in feed.entries:
-                link, title = entry.get("link"), entry.get("title")
-                if not link or not title:
-                    continue
-                fetched += 1
-                try:
-                    r = db.table("articles").upsert(
-                        {"source_id": source["id"], "title": title.strip(),
-                         "url": link.strip(), "published_at": _parse_date(entry),
-                         "summary": _get_summary(entry)},
-                        on_conflict="url", ignore_duplicates=True,
-                    ).execute()
-                    if r.data:
-                        inserted += 1
-                except Exception as e:
-                    print(f"  Insert error {link}: {e}")
         except Exception as e:
             print(f"Error fetching {source['id']}: {e}")
-    print(f"Fetched {fetched}, inserted {inserted} new.")
+            continue
+        for entry in feed.entries:
+            link, title = entry.get("link"), entry.get("title")
+            if not link or not title:
+                continue
+            fetched += 1
+            url = link.strip()
+            if url in articles:
+                continue
+            articles[url] = {
+                "url": url,
+                "source_id": source["id"],
+                "title": title.strip(),
+                "published_at": _parse_date(entry),
+                "summary": _get_summary(entry),
+                "fetched_at": now,
+            }
+            added += 1
+    print(f"Fetched {fetched} entries, {added} new.")
 
-    # 2. Score unscored (batch of 50)
-    unscored = (
-        db.table("articles")
-        .select("id, title, summary")
-        .is_("sentiment_score", "null")
-        .limit(50)
-        .execute()
-    )
-    scored = 0
-    if unscored.data:
-        print(f"Scoring {len(unscored.data)} articles...")
-        for a in unscored.data:
-            try:
-                result = _score_article(a["title"], a.get("summary"))
-                db.table("articles").update(result).eq("id", a["id"]).execute()
-                scored += 1
-            except Exception as e:
-                print(f"  Score error {a['id']}: {e}")
-    print(f"Scored {scored} articles.")
 
-    # 3. Daily aggregation
-    today = date.today().isoformat()
-    resp = (
-        db.table("articles")
-        .select("sentiment_score")
-        .not_.is_("sentiment_score", "null")
-        .gte("published_at", f"{today}T00:00:00Z")
-        .lt("published_at", f"{today}T23:59:59Z")
-        .execute()
+def score_pending(articles):
+    pending = [a for a in articles.values() if a.get("model") != MODEL_NAME]
+    if not pending:
+        print("No articles to score.")
+        return
+    scorer = Scorer()
+    print(f"Scoring {len(pending)} articles...")
+    for a in pending:
+        a.update(scorer.score(a["title"], a.get("summary")))
+
+
+def daily_aggregations(articles):
+    by_date = defaultdict(list)
+    for a in articles.values():
+        if a.get("published_at") and a.get("model") == MODEL_NAME:
+            by_date[a["published_at"][:10]].append(a)
+    daily = []
+    for day in sorted(by_date):
+        scores = [a["sentiment_score"] for a in by_date[day]]
+        labels = Counter(a["sentiment_label"] for a in by_date[day])
+        daily.append({
+            "window_date": day,
+            "avg_score": round(sum(scores) / len(scores), 4),
+            "article_count": len(scores),
+            "min_score": min(scores),
+            "max_score": max(scores),
+            "label_counts": dict(labels),
+        })
+    return daily
+
+
+def write_outputs(articles, sources):
+    by_month = defaultdict(list)
+    for a in articles.values():
+        by_month[_month_key(a)].append(a)
+    for month, items in by_month.items():
+        items.sort(key=lambda a: (a.get("published_at") or "", a["url"]), reverse=True)
+        _write_json(ARTICLES_DIR / f"{month}.json", items)
+
+    daily = daily_aggregations(articles)
+    _write_json(DATA_DIR / "aggregations.json", {"model": MODEL_NAME, "daily": daily})
+
+    scored = sorted(
+        (a for a in articles.values() if a.get("model") == MODEL_NAME),
+        key=lambda a: a.get("published_at") or "",
+        reverse=True,
     )
-    if resp.data:
-        scores = [a["sentiment_score"] for a in resp.data]
-        db.table("sentiment_aggregations").upsert(
-            {"time_window": "daily", "window_date": today,
-             "avg_score": round(sum(scores) / len(scores), 4),
-             "article_count": len(scores),
-             "min_score": min(scores), "max_score": max(scores)},
-            on_conflict="time_window,window_date",
-        ).execute()
-        print(f"Aggregation: {len(scores)} articles, avg {round(sum(scores)/len(scores), 4)}")
-    else:
-        print("No articles published today — aggregation skipped.")
+    latest_fields = ("url", "source_id", "title", "published_at",
+                     "sentiment_score", "sentiment_label", "probabilities")
+    _write_json(DATA_DIR / "latest.json", {
+        "generated_at": datetime.now(tz=timezone.utc).isoformat(),
+        "model": MODEL_NAME,
+        "sources": {s["id"]: s["name"] for s in sources},
+        "aggregation": daily[-1] if daily else None,
+        "articles": [{k: a.get(k) for k in latest_fields} for a in scored[:LATEST_ARTICLE_COUNT]],
+    })
+    if daily:
+        d = daily[-1]
+        print(f"Latest day {d['window_date']}: {d['article_count']} articles, avg {d['avg_score']}")
+
+
+def run():
+    with open(SOURCES_FILE) as f:
+        sources = json.load(f)["sources"]
+    articles = load_articles()
+    fetch_new([s for s in sources if s.get("active", True)], articles)
+    score_pending(articles)
+    write_outputs(articles, sources)
 
 
 if __name__ == "__main__":

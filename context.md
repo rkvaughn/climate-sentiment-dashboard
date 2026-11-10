@@ -1,5 +1,7 @@
 # Climate Sentiment Meter — Full Project Context
 
+> **Historical snapshot (Feb 2026).** Supabase, FastAPI, and the scorers described here have been removed. See [PROJECT_STATE.md](PROJECT_STATE.md) for the current architecture.
+
 ## What This Is
 
 A web dashboard that displays climate news sentiment as a "gas gauge" dial. An automated pipeline fetches articles from climate news RSS feeds, scores each article's sentiment, stores results in Supabase (Postgres), and a React frontend renders a D3.js gauge plus an article list.
