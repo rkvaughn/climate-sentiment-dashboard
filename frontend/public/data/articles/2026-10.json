@@ -720,6 +720,22 @@
     "model": "climatebert/distilroberta-base-climate-sentiment"
   },
   {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOV9mOGJKajNETC1rRHFXZG15Ti1kWEZBOWdQZzZ1Vm15Q01sQXlpaENBa0RrWlRvb1UtSk5XUzUxM0YtTEgxUGJzZU9TVTVtV1pjc0JUR2Z4LUwzNF9tTy10dkUyd0NJbVpkRzFjZWpmR1l1bjdrTmZYT2tHWGVjRUl2UlBrbVNTNGdYaldPcEd4RkZkTW1DcENvMVF5c3dh?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Super-rich get ‘double dividend’ from causes and costs of climate crisis, report finds - The Guardian",
+    "published_at": "2026-10-27T07:00:00+00:00",
+    "summary": "Super-rich get ‘double dividend’ from causes and costs of climate crisis, report finds&nbsp;&nbsp;The Guardian",
+    "fetched_at": "2026-11-11T04:13:30.982206+00:00",
+    "sentiment_score": 0.3692,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.4598,
+      "neutral": 0.4496,
+      "risk": 0.0906
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
     "url": "https://news.climate.columbia.edu/2026/10/26/climate-risk-meets-retail-inside-princess-pollys-soho-flagship/",
     "source_id": "columbia_climate_school",
     "title": "Climate Risk Meets Retail: Inside Princess Polly’s SoHo Flagship",
@@ -844,6 +860,22 @@
       "opportunity": 0.9752,
       "neutral": 0.0206,
       "risk": 0.0043
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUlVKYV9YMzdjWWVhMmNZNUdQdlZvTEp5dF92M2xRdnRJUlV4d0Q5TXE3bnlkVzBndHo0amNYc2Fub2xlRjVhb3hjNEFLLW82eGs1ZHl2bkJMNDI1SnNsRkRIbnYyT1hWUHZyeklNUXdxOGJqZVVHcThSYUVVTDh3S1ZfazZIV2dEM0szME9aMGhhVTFxaEowMlJ5Ti1mejd3cW5XR21VVG1HMWZ6NlNEcXRmYmVJN19j?oc=5",
+    "source_id": "google_news_climate",
+    "title": "EU Framework for Climate Resilience - climate.ec.europa.eu",
+    "published_at": "2026-10-26T07:00:00+00:00",
+    "summary": "EU Framework for Climate Resilience&nbsp;&nbsp;climate.ec.europa.eu",
+    "fetched_at": "2026-11-11T04:13:30.982206+00:00",
+    "sentiment_score": 0.0048,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.124,
+      "neutral": 0.7568,
+      "risk": 0.1192
     },
     "model": "climatebert/distilroberta-base-climate-sentiment"
   },

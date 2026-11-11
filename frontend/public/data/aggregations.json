@@ -306,8 +306,8 @@
       "max_score": 0.7769,
       "label_counts": {
         "neutral": 2,
-        "opportunity": 2,
-        "risk": 1
+        "risk": 1,
+        "opportunity": 2
       }
     },
     {
@@ -348,23 +348,24 @@
     },
     {
       "window_date": "2026-10-26",
-      "avg_score": 0.369,
-      "article_count": 7,
+      "avg_score": 0.3235,
+      "article_count": 8,
       "min_score": -0.6045,
       "max_score": 0.9709,
       "label_counts": {
         "opportunity": 5,
-        "risk": 2
+        "risk": 2,
+        "neutral": 1
       }
     },
     {
       "window_date": "2026-10-27",
-      "avg_score": -0.0321,
-      "article_count": 9,
+      "avg_score": 0.008,
+      "article_count": 10,
       "min_score": -0.9222,
       "max_score": 0.7801,
       "label_counts": {
-        "opportunity": 2,
+        "opportunity": 3,
         "neutral": 4,
         "risk": 3
       }
@@ -501,26 +502,50 @@
     },
     {
       "window_date": "2026-11-08",
-      "avg_score": 0.0654,
-      "article_count": 81,
+      "avg_score": 0.0687,
+      "article_count": 82,
       "min_score": -0.9593,
       "max_score": 0.9655,
       "label_counts": {
-        "neutral": 42,
         "opportunity": 20,
-        "risk": 19
+        "risk": 19,
+        "neutral": 43
       }
     },
     {
       "window_date": "2026-11-09",
-      "avg_score": 0.012,
-      "article_count": 125,
+      "avg_score": 0.0124,
+      "article_count": 141,
       "min_score": -0.9686,
       "max_score": 0.9662,
       "label_counts": {
-        "neutral": 81,
-        "risk": 25,
-        "opportunity": 19
+        "risk": 29,
+        "neutral": 90,
+        "opportunity": 22
+      }
+    },
+    {
+      "window_date": "2026-11-10",
+      "avg_score": 0.1009,
+      "article_count": 108,
+      "min_score": -0.9755,
+      "max_score": 0.9657,
+      "label_counts": {
+        "neutral": 57,
+        "opportunity": 28,
+        "risk": 23
+      }
+    },
+    {
+      "window_date": "2026-11-11",
+      "avg_score": -0.1608,
+      "article_count": 36,
+      "min_score": -0.9576,
+      "max_score": 0.9305,
+      "label_counts": {
+        "risk": 16,
+        "opportunity": 7,
+        "neutral": 13
       }
     }
   ]
