@@ -720,6 +720,22 @@
     "model": "climatebert/distilroberta-base-climate-sentiment"
   },
   {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSGE3UUtkS094ODEyZVkyQm4xMmQ4UWNIdllfdDdDd1hyZEF4aXRLRTBJWkh2NmJKZUI0alFiaXZDTUNsS3l3amljYktnX1JtS3NuaGZlRFJ5M0UzZUZLb1JSbThYbU5EeUczY2lSdXIyNVRlVVdkal9BWk0xaHRvTC1LTklJT2JRNDU1di1Md3dOUmloU2xaSVd0cTJkRHg1bzNVb1J3?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Disaster Divide: How Climate Chaos Deepens Inequality and Enriches the Few - Oxfam",
+    "published_at": "2026-10-27T07:00:00+00:00",
+    "summary": "Disaster Divide: How Climate Chaos Deepens Inequality and Enriches the Few&nbsp;&nbsp;Oxfam",
+    "fetched_at": "2026-11-14T14:49:04.213354+00:00",
+    "sentiment_score": -0.8782,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0208,
+      "neutral": 0.0802,
+      "risk": 0.899
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOV9mOGJKajNETC1rRHFXZG15Ti1kWEZBOWdQZzZ1Vm15Q01sQXlpaENBa0RrWlRvb1UtSk5XUzUxM0YtTEgxUGJzZU9TVTVtV1pjc0JUR2Z4LUwzNF9tTy10dkUyd0NJbVpkRzFjZWpmR1l1bjdrTmZYT2tHWGVjRUl2UlBrbVNTNGdYaldPcEd4RkZkTW1DcENvMVF5c3dh?oc=5",
     "source_id": "google_news_climate",
     "title": "Super-rich get ‘double dividend’ from causes and costs of climate crisis, report finds - The Guardian",
