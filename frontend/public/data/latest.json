@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T15:24:42.079300+00:00",
+  "generated_at": "2026-11-16T17:59:55.037296+00:00",
   "model": "climatebert/distilroberta-base-climate-sentiment",
   "sources": {
     "carbon_brief": "Carbon Brief",
@@ -19,406 +19,406 @@
     "google_news_climate": "Google News — Climate"
   },
   "aggregation": {
-    "window_date": "2026-11-15",
-    "avg_score": 0.0149,
-    "article_count": 81,
-    "min_score": -0.9791,
-    "max_score": 0.9755,
+    "window_date": "2026-11-16",
+    "avg_score": 0.0516,
+    "article_count": 139,
+    "min_score": -0.9807,
+    "max_score": 0.9734,
     "label_counts": {
-      "opportunity": 19,
-      "risk": 17,
-      "neutral": 45
+      "neutral": 70,
+      "risk": 30,
+      "opportunity": 39
     }
   },
   "articles": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUeE9lbEZyelgya29CcUJFdUhseHUwUk9yVmdDellsdEdfZWROTVgyUWlWOWI5MXZsaVhQQy1jN0RRQ09ySjdvQ2JQbzF5N0J3cVMzMnJkNnp2SEFkS3RpbUFiV0c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWZnVzBpWkU1SzhBYVRTUVhkU1VEcjVWTVV6RDRtY1gyYVVEVGY1TFpKLTlJS19rNnVva2paVXFTMXJkcVVSR2diLTNhRHg3TUlLazJpazNFNnFYYWk0QnlYdDNuQ2p0QVJHTUlTWFg2TFlLXzhzQnczekt4U05zekVKWTF2dUVCZXhFdXh5bk5QRWViMGtwNFRrZkRNTE9Wa3NzbnQ2bjljV1padXc?oc=5",
       "source_id": "google_news_climate",
-      "title": "UN chief warns of climate catastrophe as emission cuts lag - TRT Afrika",
-      "published_at": "2026-11-15T14:50:38+00:00",
-      "sentiment_score": -0.8704,
-      "sentiment_label": "risk",
+      "title": "Tackling super pollutants for a more stable climate and cleaner air - UNEP - UN Environment Programme",
+      "published_at": "2026-11-16T17:32:06+00:00",
+      "sentiment_score": 0.5268,
+      "sentiment_label": "opportunity",
       "probabilities": {
-        "opportunity": 0.0133,
-        "neutral": 0.1031,
-        "risk": 0.8837
+        "opportunity": 0.5529,
+        "neutral": 0.421,
+        "risk": 0.0261
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Bb21Ga0NtUUxqbm9ESmhzamZsUW43Yk5HYnV1RGZiU1hKcGlhOHljZ3NkLTJvNGJGandSaG1sX2JYSUxXUXppbEJpOVFLdm1Qc1lnTA?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Every region of world is getting closer to critical climate threshold - AzerNews",
-      "published_at": "2026-11-15T14:48:00+00:00",
-      "sentiment_score": -0.3805,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.0363,
-        "neutral": 0.5469,
-        "risk": 0.4168
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSXJCX1FldGg2Y3BLQmlqTmtscjJ6ODc5ZmtyQ1pHMEdGbkliOXZKR2lrd21tTWNjTGxqci1pbVpSZmRYRTNURU9LS3l0VUhPM0ZkVlRRQmMxX0VMbndMaVI0dXVRZnc0SmVBaXMydmQwXy00OEhmT1NFYmxSNlg0UUF4UVZhV1FZYWZkdzVaUndmLWwtY0NfdkJhSzBkWC01YXpjNGtJRG04TDBWNmc?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Kyrgyzstan highlights climate risks to mountain tourism at COP31 in Antalya - AKIpress News Agency",
-      "published_at": "2026-11-15T14:47:00+00:00",
-      "sentiment_score": -0.9105,
-      "sentiment_label": "risk",
-      "probabilities": {
-        "opportunity": 0.0108,
-        "neutral": 0.0679,
-        "risk": 0.9213
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSC1MbUtoeld3ZDNzeXllMzJrNTl5M3lhbjMwUFNrdXFKaVVfdVFFMTVuWXA3U0tadlBMU0JpS2Y3Sm1DTGg3X3NqdmtkTEZHeFEwam1HX294Vjd2TGI5dTFVMV9jU1NGdkdpV29YeWl1NGlWZHFZc2w2ai15NDBzZnJzVDV5WTQ?oc=5",
-      "source_id": "google_news_climate",
-      "title": "‘Risk multiplier’: super El Niño looms over Cop31 as climate pattern fuels global disasters - The Guardian",
-      "published_at": "2026-11-15T14:36:00+00:00",
-      "sentiment_score": -0.9758,
-      "sentiment_label": "risk",
-      "probabilities": {
-        "opportunity": 0.0044,
-        "neutral": 0.0154,
-        "risk": 0.9802
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbXp3UXdaWk1ST2U0SE1iRXBYc2RlSVllcnp4UHVTdmZ1aldCMjNpeGZSZUwtUV9rSk5Td3BlSnlWbDh3NjdRM3lxVnU2Y01KTmhCNFdMMHF6SG5HSzBqVXVCNGREWm9adUpBdnZnWkRfVDhJbjAzV0NMQndUSDVkLVEzQmt4Q0J1bjdtMw?oc=5",
-      "source_id": "google_news_climate",
-      "title": "US Abandons Climate Change Programs - Yahoo",
-      "published_at": "2026-11-15T14:26:33+00:00",
-      "sentiment_score": 0.004,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.0751,
-        "neutral": 0.8538,
-        "risk": 0.0711
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQWmZqeXlXMzZqOVFQazdTVkhZaXJLRERQS1EzTVM0VGVLWDhSNXV4OUtsLTBNZ0RMdUZYSDNtaXFGaUZvcnA4SXl1cjUyNnZZa09kWHp5aUM5dzFEdUM4MWVFekVtNmZpVzlLTEp4bks0RDNJUWxpa1RjV1pnVGVHU0k2S19NdjJpSy12X2NXZ3JLRUM1aFN0SnZJMDlFN2FlcWVNc2R2LUNVamNDTGN6MGVCLXlFWWJ1QlRIUmRXZEc5U3h3Tk0taEx3N1VkMEwyWW5RNUhacHJsRGozaUxtX2RtZm9RM0c5djh2a2hlaEFTbTlwbEFRRFJBTWlPRWczbmRPOXRHTlpXYlZUNGxBZTRxa2xUVGtwS1pCUnYxcHl3VjNrQkVtQVJaTDJFUQ?oc=5",
-      "source_id": "google_news_climate",
-      "title": "From COP31 to COP32 — climate talks cannot ignore the development crisis - Daily Maverick",
-      "published_at": "2026-11-15T14:22:17+00:00",
-      "sentiment_score": -0.0786,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.0795,
-        "neutral": 0.7624,
-        "risk": 0.1581
-      }
-    },
-    {
-      "url": "https://cleantechnica.com/2026/11/15/accelerating-electrification-can-unlock-the-full-benefits-of-spains-renewables-leadership/",
+      "url": "https://cleantechnica.com/2026/11/16/cop31-leaders-summit-spotlights-electrification-transition-away-from-fossil-fuels/",
       "source_id": "cleantechnica",
-      "title": "Accelerating Electrification Can Unlock the Full Benefits of Spain’s Renewables Leadership",
-      "published_at": "2026-11-15T14:17:31+00:00",
-      "sentiment_score": 0.9628,
+      "title": "COP31 Leaders’ Summit Spotlights Electrification & Transition Away from Fossil Fuels",
+      "published_at": "2026-11-16T17:28:27+00:00",
+      "sentiment_score": 0.7357,
       "sentiment_label": "opportunity",
       "probabilities": {
-        "opportunity": 0.9677,
-        "neutral": 0.0274,
-        "risk": 0.0049
+        "opportunity": 0.7448,
+        "neutral": 0.2461,
+        "risk": 0.0091
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWjdrYk9QaGpBQ1pMTlBHZ3hpZEt1U3FwRFJsam5qUnBXWkY4SDZPMjRTUnFCaV9FSHJHMExrd0tZZXZ6bzBHQTJuU1hBV21KaE9tWXh3eEg0SUptS2VmMFM4emVmQjc4c2VaOEg4TW9SbllfaWN4aEtoM2QweFhpSlU5SUVIRVkyci00OGtoWWtVY1dDV3RVeFJOX3U0RVJwVzUxTi1VSi1aOGJuX2hFeWxJaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN25GbTlDaU52YkdkZjN3UnllbkZHNUtKUmJNOTBXdWVoWXpkeWlFdlFDT2xFVDlvcDRIdEx0UF9POTlObm9MektCUGR1UnBGUlM0UlF5dFpqV3dCMVNVMU43c1AyaUwyelJoT2NEMlNDcHliWnM3d2JaMGViQ3RTZ1Jqd3JZV2hWbnVEaHdSVWx5UUdKMno5Z3oxUjlLUFdtRXRHOEQ5bGJxQlFWV1VKa2hlaw?oc=5",
       "source_id": "google_news_climate",
-      "title": "LGED reviews five fact sheets on climate-resilient infrastructure - The Business Standard",
-      "published_at": "2026-11-15T14:06:52+00:00",
-      "sentiment_score": 0.117,
+      "title": "Can Africa's human rights court help make climate polluters pay? - RFI",
+      "published_at": "2026-11-16T17:15:36+00:00",
+      "sentiment_score": -0.0462,
       "sentiment_label": "neutral",
       "probabilities": {
-        "opportunity": 0.1542,
-        "neutral": 0.8086,
-        "risk": 0.0372
+        "opportunity": 0.1721,
+        "neutral": 0.6096,
+        "risk": 0.2183
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR1BaWTlOUG9uSEFoZ25Qem1SWUZaQjdiQUFmUE5qVnlNalF1RGRSY3Zkbno5TEZkZGRYbTVwWlFHd2lnQ0F6em9pNmlNR1dVQzVWX2tpYTRuUEZoTVlycENWeEZXZXJfTDI2Nm82eXZjUkE3U19iUlFkOXJyOGZadzNpbGZhWXV1Y0ZlcGV1TEgxWTlUVUNVb1BSN3VmdzZaN1Ziby1oQ2c1UFNqRUxJYmlseWxrWGs3bEpncERGRGpsckdMUlUw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TS25SQVlUM05PUGNhelpycVliZTNKUTdET0pRWmtpOHVnVjFDNEJFRm9QYjlKRmxoQ214Q3pNYlVZc0ZNOW5xZkhSQnBFbnRWWHY3aVRaQzJkMldIX0lqMmR5YmNzSjZkQVRjLXczZWdsSzdN?oc=5",
       "source_id": "google_news_climate",
-      "title": "Why debt justice, democratised development and demilitarisation matter for climate action - https://thepoint.com.au/",
-      "published_at": "2026-11-15T14:05:09+00:00",
-      "sentiment_score": 0.3174,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.3769,
-        "neutral": 0.5636,
-        "risk": 0.0595
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUEs4M044VkotUnZSdHIyX2k4UFExYkc5LTI0OWRJYzJLTktDNDhINnZpSDZZUWMxM3hOb2psVkJkamMyX0VNV09yeEsxc3M5Qi11RUhTbVllYzZYN1duYW1HLUhoXzZwVWZXMWtSMGJ0WVY0ZkVkNUw3V2dUNGJ3Y1Y3V0NMamQ2VHZFVDlNZU9VNXk1RHh4cktxZldGQ1hhRHltamtiSFFzV2FNSTVNbGN3Q09tb01wa1NF?oc=5",
-      "source_id": "google_news_climate",
-      "title": "The creeks are dry, the rain is contaminated and food is scarce. What lies ahead for the people of Ahus Island? - The Guardian",
-      "published_at": "2026-11-15T14:02:00+00:00",
-      "sentiment_score": -0.807,
+      "title": "Pension Funds Sound Alarms over Climate Risk - Impakter",
+      "published_at": "2026-11-16T17:04:15+00:00",
+      "sentiment_score": -0.9431,
       "sentiment_label": "risk",
       "probabilities": {
-        "opportunity": 0.0247,
-        "neutral": 0.1435,
-        "risk": 0.8317
+        "opportunity": 0.0041,
+        "neutral": 0.0487,
+        "risk": 0.9472
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONDh1eDBfTTBVMzZBQ1ZrMmNSQUhSMG02S0RHdzFOcm56NHFvVm9lTEJWX016c0g4Y3FfNEZUSFdEY3ZYTXMwcjFMZ1lZaVFQdWFMM181ZHR4WDAwSU5JU3RQSk1JYUdRZENVaTlqMEQyWW5aZnRTejRVcEl4a1BOOGRJRzNnaDkwWnJVMzV6WWJvbnYtNFdSb0R0ZjFnb2ZOb0ZHbmtTYnp1T2pFeFo0dmwzb1NZMzlfaHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS21XYXRISkZFejlRcEQtN3I2UnoyWDBxaERaTmI4UzJBdlkxd3VxZmNQNEFoMHNmQUQxZFExbVZSNGdTdHBoNTM4UVptUFBCUGNMMGpSdDZCUzhNZUdRMjlxcHgzSlhzM1hOSERQR1lBMC1Jd2Y5VTZTR1FwaFFtcXM3SEpCc2o2YmdSOFlXdlJRWGJpUVJjeHpDNGhSNHNjTE5ETjVTWF9nSUZydktnZ3NpTnMzT1ZpUGZXaER6UVlQSmltV2RpZkRrYVpmaHozY2prbk1jTERqQWFySl9hcllQU0hDVzkx?oc=5",
       "source_id": "google_news_climate",
-      "title": "Data center carbon disclosure gaps make AI boom’s climate impact tough to assess - The Seattle Times",
-      "published_at": "2026-11-15T14:00:05+00:00",
-      "sentiment_score": -0.6775,
-      "sentiment_label": "risk",
-      "probabilities": {
-        "opportunity": 0.0115,
-        "neutral": 0.2995,
-        "risk": 0.689
-      }
-    },
-    {
-      "url": "https://grist.org/accountability/as-texas-embraces-carbon-storage-a-black-community-questions-the-risks/",
-      "source_id": "grist",
-      "title": "As Texas embraces carbon storage, a Black community questions the risks",
-      "published_at": "2026-11-15T14:00:00+00:00",
-      "sentiment_score": -0.8279,
-      "sentiment_label": "risk",
-      "probabilities": {
-        "opportunity": 0.0195,
-        "neutral": 0.1331,
-        "risk": 0.8474
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0VzN2ZFV1JqSVhubU81cUo3anEyeWpVbG1WeXJKeG9OWVFvVHdKMllBdXBIWkpfZ2dJV0J5WXRxNHZaZU02cjMzYlE4dk1RZnItcFRUSlNqUWthZFlCMWotNXgtVHBvTHdqV3dDd2ppOTlKeUV3RkFSYnFka3NXR09yaUJZRmUyOVVaY3ozRDY5d1lPaE12V1ZjS05FaVZBY3FZNUdDSQ?oc=5",
-      "source_id": "google_news_climate",
-      "title": "COP31: SA takes water, jobs and climate finance fight to summit - thenational.co.za",
-      "published_at": "2026-11-15T14:00:00+00:00",
-      "sentiment_score": 0.4867,
-      "sentiment_label": "opportunity",
-      "probabilities": {
-        "opportunity": 0.5276,
-        "neutral": 0.4315,
-        "risk": 0.0409
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOejRxMlJSb1h1bU5rNjJMczEzRk9VeS1tVl84TXBEOWNZeE14SFdoa3VMM0tMNHljZ196aEptSjVWVnpUYUZaTFg4VndLcDNwQVU4cU9IYWY5WFpvMGllekM4Wkwtbm1ybHF2S2JwUVRDaFR3ZUZxNnZxNnJMeXBrc3JJNUpOU1Nic0Y4UjFuVTRwNjJCSkVQMF93QnJ4dw?oc=5",
-      "source_id": "google_news_climate",
-      "title": "COP31 honours nine buildings delivering climate solutions - Cooling Post",
-      "published_at": "2026-11-15T13:54:57+00:00",
-      "sentiment_score": 0.9089,
-      "sentiment_label": "opportunity",
-      "probabilities": {
-        "opportunity": 0.9146,
-        "neutral": 0.0796,
-        "risk": 0.0057
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFdwajMwd1pBNFlhWjVaUmdubmYyY2dUVFNKYUtyR3VkNTFQZnB3VDhKcHZWWW9pbk1wc0IzYjBURlpwSzZjVV91U3EyVHpOcC1vYzNtRVhzX2ZmWFBqRS1VbF91aGsyUldMdUM1Vm9xTldIcFVZeFI0SkVla1pDN0gxOG5HbUs4Ny13TG1CZTdiZ0hEaUllRjktalBTUQ?oc=5",
-      "source_id": "google_news_climate",
-      "title": "“Climate of Denial” – a song for a better future - East Anglia Bylines",
-      "published_at": "2026-11-15T13:53:49+00:00",
-      "sentiment_score": 0.6727,
-      "sentiment_label": "opportunity",
-      "probabilities": {
-        "opportunity": 0.7131,
-        "neutral": 0.2465,
-        "risk": 0.0404
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN2c1SzY5azBmME9DTy1xV0EtMzdQUF9OQWxDTFoyTVdxMC00c3dGeDNPOWZsYUNwTEZjS2ZmdU1Wek9kMzZzNFJnNVNEaHUxUlF0aUZOdU04bWpmUlZBZkdOWFFYN285RlVqMTZBQkx2NFdsRlduSlkzdTd3OFZGMA?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Taiwan Indigenous farmer revives climate-resilient millet - Phys.org",
-      "published_at": "2026-11-15T13:40:08+00:00",
-      "sentiment_score": 0.4306,
-      "sentiment_label": "opportunity",
-      "probabilities": {
-        "opportunity": 0.511,
-        "neutral": 0.4086,
-        "risk": 0.0804
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNE9CaW0wMVNWdjg5NHBvS2hOMHVzMGdtZUJsXzlhWXQwNk1IeUVRRG5BXzF3TGhsTmdFM3lEMFlvNXh1enJIdEtPcG9tZ3l1NmQ3SWhaZHhTZTdHUzN5T1BHOTVsQ19tVXRLODRxbktXbTd0X3p6cnFzQVNsVEpxY3BxMFItTFJjNGxwYQ?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Central Asian states seek US$20m to address climate damage - UzDaily",
-      "published_at": "2026-11-15T13:38:01+00:00",
-      "sentiment_score": 0.7764,
-      "sentiment_label": "opportunity",
-      "probabilities": {
-        "opportunity": 0.8176,
-        "neutral": 0.1412,
-        "risk": 0.0412
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGd5bjJ3M29WdVZ6dlBvN3RZZFRXT2ZCd2NDNTRaZEM2eU5hMDZaY3dCalRvQjdvS2pWN3EybzBuU25Rb0kzdVJ0VUdQQTNmRWptQWRjNTZ4TU1iMzJFR3FxdWFOR25BRXlvNmdYbGdPbkp1ZVNCZURfVmNUM1dLOEEzdXhXOVVGdUIwNVQ4UjNEY3RxMFktMmhILXlDdWM?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Universities should follow communities’ lead on climate research - The Conversation",
-      "published_at": "2026-11-15T13:32:43+00:00",
-      "sentiment_score": 0.0267,
+      "title": "Letter | U.S. must lead in fight against climate change - The Cap Times",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "sentiment_score": 0.1024,
       "sentiment_label": "neutral",
       "probabilities": {
-        "opportunity": 0.078,
-        "neutral": 0.8707,
-        "risk": 0.0513
+        "opportunity": 0.22,
+        "neutral": 0.6624,
+        "risk": 0.1176
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVhaRVYtcnZnRzI3TkdISFNzZmE5ak5yajdQZ2dqT3hKNlhSWUYxbzgyLThWWEx3N09rbTVUeGo5d0ZIRUNGRl9ZaVBqRTNrUzFrb2NoekV0RlY2cmhCZFFvZnhDS0NGV2xuWkR0SldHc3Y5a3o0NlZNZmswR251X3ptY3NLUTlFZjB5aDBxWmtGc3IyZHppQ0pjUDEyVVptUlRYb3FydV9CQUU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sT04xQzZJSkg5WEg5SWhhWjA0a0JhdlFqeldyUk1JdlFBS1RtSU1sbzFFaXZkX1p0aUQ0LTMwYjNTa25rRWxRYlpfbmhHaVh1MHotTzdndXp4Zw?oc=5",
       "source_id": "google_news_climate",
-      "title": "Experts demand major polluters provide climate grants not loans - Daily Sun",
-      "published_at": "2026-11-15T13:28:20+00:00",
-      "sentiment_score": 0.1083,
+      "title": "Climate Advocates Decry ‘False Solutions’ and Vague Promises in First COP31 Draft - Common Dreams",
+      "published_at": "2026-11-16T16:59:21+00:00",
+      "sentiment_score": 0.2098,
       "sentiment_label": "neutral",
       "probabilities": {
-        "opportunity": 0.2765,
-        "neutral": 0.5553,
-        "risk": 0.1682
+        "opportunity": 0.2674,
+        "neutral": 0.675,
+        "risk": 0.0576
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmc0WEdPLXlBcXFsZWhtamtVTGIwckRoWjJrR3VxajdlWUtSV0pFNFpiRHpUUHZLY2RUU0hMV2p1dGtYYVRRNW5CcFlsZFlwZG9XNkJvdnlKcGV0R1QxOFJKM1NrNlU1NXp4VG85V1NrMkUtUHQwWDZ6OHRIT0V0ZTluNXdkTkNJZGwyNU5rb0Z3eXpPS2ZuMXBRdXZhRmlHemVGREEzV1diVU0?oc=5",
-      "source_id": "google_news_climate",
-      "title": "November 15, 2026: Las Vegas Temperature at 8 AM CT Climate Prediction Market - Robinhood",
-      "published_at": "2026-11-15T13:02:56+00:00",
-      "sentiment_score": 0.2394,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.3694,
-        "neutral": 0.5007,
-        "risk": 0.13
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNazhJRUVEZ1NyeUhrMzlseWJic1JTMVhOekNoNnBSdmR0ZEMtbFYxZWFIVllvcjk3VjdmZ3pDaWF4a1Q1S3Q2M3pWYnlZWVhVZjRJSVJtcThjOVhxZ3Q4cWdvV2NvdXR6MWFoa1B1aHRHVUpOWmt3MG9qS3F1d1k5R2lSSnJrM2h1VlllMFM0MVVMdHdkZVk1Zy1NUWQzckROeGpGV2o3QUI4b0hsNHNUTNIB5gFBVV95cUxOaGVwZ3lveTc1ejFRY1NsbDJQNWttZnNCZTcwRHh1MGVGdnRpYk5LR1Y5UVFRUWxTOGhNdVRuOXEzT3NjeEx2QTRWQVZzQzFXVzVDdWhxdVZpbWhJN2FCb1hOS1NxalVEa0hOX2h1UmxVSnBBdTNxdDBPR0Fud1dIUGU1T1hhMkFkNlFZY0pVLUFpX0ptSXM4b1A5aDBNaGN2WlhKNl84clpMWWkxazcxcmNzQ01CU1JlbUxUdEMyZmJoRVp0aC0wVUxNTjVwZl93UHQ2RkVLaVlhTkVVVW5EMlFoVFl0Zw?oc=5",
-      "source_id": "google_news_climate",
-      "title": "5 Things To Know In Stonington: Charter Revision, P&Z, Climate Task Force At Mystic Aquarium And More - Patch",
-      "published_at": "2026-11-15T13:02:38+00:00",
-      "sentiment_score": 0.1733,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.3057,
-        "neutral": 0.5619,
-        "risk": 0.1324
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejE4TXRGUmZhU09VMGp6Mk1IMjAxbUlyMktRb3lYb2Z2Uk5QXzExbHBiSXFsZEdIR05lUEwyekZvTExHWlNqYVFLbWFQZ09qTXZLRGxuaDFjLUNVRkpxSDZtNGhacndScFZqNUJaZWpCTWNoY0pibHVuLW0yd0dpR0kwOE1pSm1Sa1VDbjJLeTVrb0w1eHlhVGlkSWk5Y0dDWk5HVm1NNmdjdnIyQTBv?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Massachusetts Gov. Healey Hands $170K Climate Chief Job to Deputy Joroff - New Bedford Guide",
-      "published_at": "2026-11-15T12:51:13+00:00",
-      "sentiment_score": 0.507,
-      "sentiment_label": "opportunity",
-      "probabilities": {
-        "opportunity": 0.5618,
-        "neutral": 0.3834,
-        "risk": 0.0548
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ180ZDFNT1d0eDFmdTRmaTJETTBLbDU3WWI0NUs3UlFwNllIR3RvRUJhSVh3d2c2eGdrUXE5cjJjZDlUa1B1RXRJV0Zwa2xheEVkVzg1eFhsdDlLQzBYMl9HQktXQmNldXBrU3ZWNlRva1JvT09GS1lGQllpcGg1M1RtMkFkMll2SGFoX05fcGhvN0RlZGFVMm1peWtrUEdVbWo2bkp0cFFFa25zTHFsOFlKNlFKSWlwenJrc2JHRHBsdFBzMF9kSUlYVEpkVEFVSTE2cXNMQkNEQmozOWNv?oc=5",
-      "source_id": "google_news_climate",
-      "title": "El Niño’s “Risk Multiplier” Warning Looms Over COP31 as Climate Funding Lags: how 7 outlets framed it - NewsCord",
-      "published_at": "2026-11-15T12:37:50+00:00",
-      "sentiment_score": -0.7335,
-      "sentiment_label": "risk",
-      "probabilities": {
-        "opportunity": 0.0283,
-        "neutral": 0.2099,
-        "risk": 0.7618
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS0VlZS14N1lOdHR6SVBPNGdnOVRSS05yRWM5SjZFcUJJcjNvNENPZWR3MXRXUTNCSEd3QVVad0I4R3FRQVczOE83enBpOWhhM2V2dE5WNUVudEplbGtGa245S1o3Rjc4UU4ybHYwaHY2TFd1cms3ZnhfdFdxX2VwUEI1UXV2ZDBsdGdMMk83VjVXX2wzYjkzUTU4YWtvQW0xVXBiVm1KYWFJTGV5aG44MTBR?oc=5",
-      "source_id": "google_news_climate",
-      "title": "COP31 president urges countries not to delay climate targets — Anadolu Agency - UA.NEWS",
-      "published_at": "2026-11-15T12:35:25+00:00",
-      "sentiment_score": 0.0354,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.1376,
-        "neutral": 0.7602,
-        "risk": 0.1022
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWklKUExURnJaNzBpc1F3ZEdyTWltb0FOVHZubjRLR21MQTlfUjVZc0NnRE0xSDZzQWdjdXl3MWxWYU9DZlIxckJKR1c0R204OEVrSm5iOTdkVmdUWmNnNHNST05JekU2TnI2Z1VUTlZwZjZ3LUxpRGZkLWJBZVRuWVZCMVVoeU92dENhNjZJa1F4MmZu?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Shakti-The Climate Watch COP31 Climate Dialogue Series: Day 07 - The Climate Watch",
-      "published_at": "2026-11-15T12:23:57+00:00",
-      "sentiment_score": 0.1262,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.2133,
-        "neutral": 0.6996,
-        "risk": 0.0871
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1dmOTlfajBnT3poeXRTSjlLVWtETThJZThKd1c1Q1FWbnRoNjIxSjVDMmNDM0FIM1BMX2xYNnFiNXRuYmtwSTNMWktrMTl2V1lJYnU5MzhxSU9EdzkwblFNM20wRHRkTExJbndmaVB3b05EbXdYZHZnUV9tOThtMF9DSTBJazhidXcxdjNfS0Z2TnVFbUZsYmRJdVJfZjNpeFBodmtNVUZEZ0xlNnE4ZVVZZw?oc=5",
-      "source_id": "google_news_climate",
-      "title": "DIU hosts COP31 discussion on university research for Bangladesh’s climate priorities - The Climate Watch",
-      "published_at": "2026-11-15T12:23:55+00:00",
-      "sentiment_score": 0.2431,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.27,
-        "neutral": 0.7031,
-        "risk": 0.0269
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2tBYTY4R1NtajNPbmMxZko1WnN6QllTWjNqSFdscmtPdXduSkpzcWowX2h2aVR5eTY4SHF4RnhYSEN5clJHR1AtcmN4X2w4eC1WcWJsSFhDb2V2Nzl0M1o3TlgyUjN6TlBPbl80R0xxbUNCZmRQNUtIMnROUDYtVmVfQ2ZVNFc2T0JPQjZXTG9wWjFDQXlnbEZMUGxMZHRhTnc?oc=5",
-      "source_id": "google_news_climate",
-      "title": "COP31 president calls for decisive action on climate change - Anadolu Ajansı",
-      "published_at": "2026-11-15T12:21:32+00:00",
-      "sentiment_score": 0.1498,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.2521,
-        "neutral": 0.6456,
-        "risk": 0.1023
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN2RTdjZ3b2RrU19kTmhvYk1YMTNWc2FMM0tZTlVLWWpnZ3dkZG4xaGgwOXo2Y3dHV2JOWEVua3NIRWluLWFJVnJJM2FqemhsOWttMWZYLTZXaTFsRWZNNWNENU9EV3JDSm0xSXFZZ3NZc2J0WEpGVzhTNWRZd0lKNVBPZ1VvanU5QWF1UUktQXFKSzkzZGxmZ21tNWVreGw0OHFUUS1kWQ?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Cobb climate summary & weather forecast for Sunday, November 15, 2026 - Cobb Courier",
-      "published_at": "2026-11-15T12:20:18+00:00",
-      "sentiment_score": -0.1075,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.187,
-        "neutral": 0.5185,
-        "risk": 0.2945
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ095NlZZak5MaGRLYXpfUkVQLWN5dFpnRW01MmljVWtEd09uYktNNER5bjljS1ItNENiY3pnZGwwbDBZRWpWMktHcjZkVG02UEl2V1NhT1JsODRTdGdmVlR6ejZQTXVfUmtocENteWRCdmtpdGZZNTBJZjMtUWdSSU90TnF4NGZvWHpVU3RrYVhyUGxwN0xCVlBtV3BxUEZ0a3c?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Climate progressives won the midterms without saying ‘climate’ - Michigan Advance",
-      "published_at": "2026-11-15T12:04:40+00:00",
-      "sentiment_score": 0.252,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.317,
-        "neutral": 0.618,
-        "risk": 0.065
-      }
-    },
-    {
-      "url": "https://www.theguardian.com/environment/2026/nov/15/surgery-by-fairy-lights-and-truckloads-of-fruit-the-sanctuary-saving-cameroons-chimpanzees",
+      "url": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
       "source_id": "guardian_environment",
-      "title": "Surgery by fairy lights and truckloads of fruit: the sanctuary saving Cameroon’s chimpanzees",
-      "published_at": "2026-11-15T12:00:14+00:00",
-      "sentiment_score": 0.5635,
+      "title": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
+      "published_at": "2026-11-16T16:54:42+00:00",
+      "sentiment_score": -0.023,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.1004,
+        "neutral": 0.7762,
+        "risk": 0.1234
+      }
+    },
+    {
+      "url": "https://news.mongabay.com/short-article/2026/11/pope-in-peruvian-rainforest-demands-justice-for-environmental-defenders-killed-for-protecting-amazon/",
+      "source_id": "mongabay",
+      "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon",
+      "published_at": "2026-11-16T16:49:57+00:00",
+      "sentiment_score": 0.4335,
       "sentiment_label": "opportunity",
       "probabilities": {
-        "opportunity": 0.6282,
-        "neutral": 0.307,
-        "risk": 0.0647
+        "opportunity": 0.4941,
+        "neutral": 0.4453,
+        "risk": 0.0606
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNkFkcnlUaTRvLWZrdUhuWmFmUzRzOTBfb3NoMy1uTlZxb0VmZFBlZEtMY3JwRko2b0lpblZ3dURkWDZabjFZVnAybU5hZjE0WVpHbFU5NE1KOWctNTk1amd2SEZLVEdNbFFvaDZFRjk0ZE5TMFJ2ZXE3MDVfTlNUSC1xRmc1UkxqQTNUc2s4OVhweWdyLXZqa1FqMFZ6WC1Oakt5eGhmYXdmTEhEZ0Z1Z1E4bGxTSTNGM2RkbV8yMVhVVlFjZVB3aVdrN2V3VkNmcXU4cGZ6d2Zmdlp4REpuZlg3NklZSUY1YmtsMEZkZTI1anNwSTdSa0MycWF4TXpyN0NFNmQzMGUtX0RnUXFrbV9hek5aY3B6?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge - Loudoun Times-Mirror",
+      "published_at": "2026-11-16T16:48:51+00:00",
+      "sentiment_score": 0.0397,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.1677,
+        "neutral": 0.7044,
+        "risk": 0.128
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fS3dFMmNRb3BNdTVpLWdkWHkwLU5ieTczaWV5M0NZMl9VeFBQeGlZMXFaY0J5WWlodkZLZERMS1dveWJJZmFXaFlrSjhia0x3aTFPaUlHcUp4ZDN6d0ZCQkdONXEtQTRVNDQ3UUpUSWhZQ19MYXFoNkhIUQ?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Climate Pledges From 129 Countries Depend on International Support - Legis1",
+      "published_at": "2026-11-16T16:43:36+00:00",
+      "sentiment_score": -0.0067,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0877,
+        "neutral": 0.8179,
+        "risk": 0.0944
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0tybWxMT0d3VG5LdlhVYVRWSF9fcUFTVDNOcjFQM3hxdVpoRzRROTI5b0pCUGwtUzNqMFRvbkROQWFGMWRsX0RyaXhzcnZ6MmFERTVtZUJ4WXdDT0UwUW1xRFRQNkxabjUtOGVOak1rS2IydmgwcWNBVTBSVDM2RUdHakZ4Q3FqNDZrd0d4YmpLSVhFQXJvSGFtenpPZTZzcExlWXI2NHN6VUk?oc=5",
+      "source_id": "google_news_climate",
+      "title": "US Democrats bring hope of climate comeback to COP31 - Reuters",
+      "published_at": "2026-11-16T16:42:50+00:00",
+      "sentiment_score": 0.4114,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.4686,
+        "neutral": 0.4741,
+        "risk": 0.0572
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6QzZBbHNwc0gtNWlCSGJybUV5RGd4SGd0NW5GSmtrWlMwNTR3QUxoVUQxSGppckJvcm41Nzk0SWJIVEdMeEdjMHhOWGI2eldLaTllVzY5aw?oc=5",
+      "source_id": "google_news_climate",
+      "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace - UN News",
+      "published_at": "2026-11-16T16:42:05+00:00",
+      "sentiment_score": 0.5072,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.5577,
+        "neutral": 0.3918,
+        "risk": 0.0505
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV0NpYUhXckdtVE9CcldwRndhWXBFTG1nb2ZEMFVtNmh2ZE5wTGk1bTlXSk5HaWt1ekQyLW5uUVlyOGRUM09KN0s5aWU5NUlyWGxYdTdSZUVsSkZhdG8yX09KQVh6dENYVmxLbGc4dHl3c2NPWWJpX0lQUkN5OUtQRkk3ZktPdw?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Urban climate is also shaped beneath our feet - Materia Rinnovabile | Renewable Matter",
+      "published_at": "2026-11-16T16:25:53+00:00",
+      "sentiment_score": 0.5117,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.5252,
+        "neutral": 0.4612,
+        "risk": 0.0135
+      }
+    },
+    {
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/16/hero-villain-or-victim-why-are-refugees-so-rarely-seen-now-as-fully-human",
+      "source_id": "guardian_environment",
+      "title": "Hero, villain or victim: why are refugees so rarely seen now as fully human? | Zoe Williams",
+      "published_at": "2026-11-16T16:22:51+00:00",
+      "sentiment_score": 0.6462,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.685,
+        "neutral": 0.2762,
+        "risk": 0.0388
+      }
+    },
+    {
+      "url": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
+      "source_id": "utility_dive",
+      "title": "NRG to sell 4.9 GW of gas plants to LS Power for $4B",
+      "published_at": "2026-11-16T16:21:32+00:00",
+      "sentiment_score": 0.9573,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.9649,
+        "neutral": 0.0275,
+        "risk": 0.0076
+      }
+    },
+    {
+      "url": "https://yaleclimateconnections.org/2026/11/under-trump-black-lung-disease-is-surging-among-appalachias-coal-miners/",
+      "source_id": "yale_climate_connections",
+      "title": "Under Trump, black lung disease is surging among Appalachia’s coal miners",
+      "published_at": "2026-11-16T16:21:19+00:00",
+      "sentiment_score": -0.8701,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.0172,
+        "neutral": 0.0954,
+        "risk": 0.8873
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS0xoa3FfREs0N0RBd19xOUxKTXBFOW90UkVGaHlsY2YwTkRwS2RJbDhmSlhTSExMaGpKYjNhQWZlR2ZPamM2RkdlemwyUnVhVUJjX3NVRWtVU1Q4M3dVd1ZHTVZlcmo2cVk5R3E2ajlmTkxzel95aDZGRVZHSU4yVXN3QzRRemtGaE1ZTUwtWU1ZdTJiTHp3?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Climate conference draft admits 1.5 degree rise not obtainable - Yahoo",
+      "published_at": "2026-11-16T16:18:37+00:00",
+      "sentiment_score": -0.1458,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0826,
+        "neutral": 0.6891,
+        "risk": 0.2284
+      }
+    },
+    {
+      "url": "https://www.climatechangenews.com/2026/11/16/countries-take-up-industry-push-to-loosen-un-carbon-market-rules-at-cop31/",
+      "source_id": "climate_home_news",
+      "title": "Countries take up industry push to loosen UN carbon market rules at COP31",
+      "published_at": "2026-11-16T16:16:15+00:00",
+      "sentiment_score": -0.2006,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0476,
+        "neutral": 0.7042,
+        "risk": 0.2482
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmTDJ4RE9adVc5RU41UDdnYnpoYUl2YkNPalpkd1NQclB3NGk3cFhxMVVWdVllZ3BmOUk3dUdqUlk2aWFSNXpLeXJ4WE9xVk1EenZHZVFHbW9iSXBrMWJIUm96T2VHREVfZk1RUTFR?oc=5",
+      "source_id": "google_news_climate",
+      "title": "New report highlights action across European Region to tackle mental health consequences of climate change - Unric",
+      "published_at": "2026-11-16T16:11:34+00:00",
+      "sentiment_score": -0.1861,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0571,
+        "neutral": 0.6997,
+        "risk": 0.2432
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2lPUm40VHluY2J0ajd2UGc2alBsaFlOTkpaMGV2STkxd0QwVnZnZ3Q2dWlGSGJqaUhWaDFrTmV0T2NGOHY1eW1aMHVPbEJrN1dpU2gtaXNyTU0wMnJWbzNtdUZuQ282ZnhTN2NhWXdJMWhsRkdiNEhtejAwSjJDZU54VktzaWRaUjBhQWpFWko2UkJxYUVjVkx5WFpDQVd5cVhPeGQ2aWZqM1Juem5WVmRDLWMwNGFtRHk5Tw?oc=5",
+      "source_id": "google_news_climate",
+      "title": "MEPC85: Researcher on how first global climate deal could pave the way for fossil-free shipping - American Journal of Transportation",
+      "published_at": "2026-11-16T16:09:00+00:00",
+      "sentiment_score": 0.6382,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.6818,
+        "neutral": 0.2746,
+        "risk": 0.0436
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmhlRldOOXBrTGdmcG51endOeHM0dWRObFJYNUZ0cU5LRDl4dG9pQm1xbWxHcjhZSGc1VGRPYjJ3ek9WeFUtbDVtTDVGMm05VmxnY044WDcwcUlWZE9WMDZNcDFLWkZVLTBRQnFLMkZtdkZ1RlFXMEtXWEl6NWE3SGJRT1FkR0R1c3MzYVlyeDNPTzUtaFZWMVUyVWpOMDZiVlQyODUyd2FfZw?oc=5",
+      "source_id": "google_news_climate",
+      "title": "AI models ‘weak and fallible’ on climate science, UN-backed study reports - The Guardian",
+      "published_at": "2026-11-16T16:07:00+00:00",
+      "sentiment_score": -0.1582,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0237,
+        "neutral": 0.7944,
+        "risk": 0.1819
+      }
+    },
+    {
+      "url": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
+      "source_id": "guardian_environment",
+      "title": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
+      "published_at": "2026-11-16T16:05:58+00:00",
+      "sentiment_score": -0.1748,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0483,
+        "neutral": 0.7286,
+        "risk": 0.2231
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWGRYZ3h1WEFUSmQ0dDNWbDVwM0JkZWZKWkkyUGxfalpuSWVnQWhxdk5VZmVHUV9QZkNoQ085Ti1qbHVZaGNiS0pMWlFqNDhaREpleEVxdWplREVadGxHNjlFX3dycUEwbXpzN0k3a05TLWFQbHVLc2F2eDFwMk53bDVkcFVSNl91ZTBLMXpNeWZraE8tTVBpNFJkdmU5SzNTVWc5MExhTEI4VmdtZUUzNTdMbUMtdkhHUU41c3NIb0ZmakNqRzdDU3JhWkZrNzJsRVVBbUFIMDNZVjQycnlHNHdOeHh5WW1pWktnTkg1enl6RUNHbWZEcE5nRjNiMWpjRHA2WE5HcV8?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge - KTVN",
+      "published_at": "2026-11-16T16:03:37+00:00",
+      "sentiment_score": 0.0439,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.1938,
+        "neutral": 0.6564,
+        "risk": 0.1499
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcUxlY1J2RkVYWVRqcnRxczRpSE9lc0JvTnVDT29hSFJGalVPbDB6UFlXem9HZVVQMWxEaWtadzlTakpVVUF6cGYzcjF5TTk1T1RZVDRBcEltdGhyNWlnNzV6enBjMWJxaXRqUVh5NFNEYzlQUnc5QlNjWGJ1cjY4eDdrU3VoSzIwRGI3RG9WUVBiYWoteTJnbjB1MXdJcFFyUWxzNVVVZVJXcVBmM2UyMXNncnJFS2pjV1FmTWsybDRGSGF2cTI1SG0wYUtEOEFTandibTM0ZkFlcmFxcUdiQU9aXzZMWWNfMGJXS2hWaGhJcHVQaUpEYUJQX2pGMlFUQ01heVlvMjZnQQ?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge - CoastTV",
+      "published_at": "2026-11-16T16:03:37+00:00",
+      "sentiment_score": -0.003,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.1735,
+        "neutral": 0.6499,
+        "risk": 0.1765
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOOFhrRmdyWGxGZHM0QjZPUmpfdDZnSW5LNHZvTGVROEQ4R3JlTEdvOC1ySHpZZFhHRFpmR04wbkxVeC1jMlhobU8tTWhlSUhiM3lHU3NJak81bUVKcnhsZFh6TW5OTkdnYlZxYXl0TjEzVDlrMm5vUThqMlphM1lISXh1SUxTVTlCT3RETTZ4cU1EaXN5V09DcEhhWmtFM2pIVjcyWHl0U3VtZ0w1eUhiWHVRNkFOQmdZRHFjZjVxaWJmbUtyb202N3plYjBCMzB4SHZsQ3RFREpFWlNQNjlDd2RncGtFbTE3ZWtxbTAwRUhIcXJXS3N3VUYtZjFUVndfejZkVW5vQTdTUHdNUUhqaw?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge - Marietta Daily Journal",
+      "published_at": "2026-11-16T16:03:37+00:00",
+      "sentiment_score": 0.0241,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.1108,
+        "neutral": 0.8025,
+        "risk": 0.0867
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONURBclFCNmpUMWpaUDlCbnRXTHVhcVdsUTlNZ0UxNnpaTjZVNlZCajhYZ003WGpUaUMxOXlhNFlZY04tcmFWRUVYZkpCUElnTGlyZmZ5MnhzalJPaVVnX2VFMzdHYkRuZkV5X241TDZ0T3pkdFNOZ0RXeGxOX2dlcVlsQWd1TWFmZUVmdjJVX3hTT1dSNUxtZ1VWWllONFdZQWY3VDZpamV2X01rOHZva0NBRjU1ek00eFcwM2JudkV2bkFvdm9lTEN1d2ZqOHBmd2EtT2Zna2lPV2UyVFRr0gHkAUFVX3lxTE1ieFZjdG1ZYjBXRzN2UjA3SGlUemVlUE1RVzFUQTA1dWViWkZVWGhnLWs1VWVKMzlJQWJXU3VURmdZd21iX0xXa0hzbzU3WllmakdyTGtQOFMxTnoxbWtsVEhFUlVCXzY3RS1Lb2hNQ1RCX1N1VUlHbHBVQjFEcHhxWlhZMm9OSWR1RWo2TjdJLW5WdDFiSlFnaEdOenR0TmJwUHZFdmdCcFdjZTF3Vmg4N3hyNE91RjMybzNHN01VZVBYZkJrUkl6eFB6SGEwM1dYWEFjT2Iwa1NlV2lQa3NEUFRpUA?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge - The Hill",
+      "published_at": "2026-11-16T16:03:00+00:00",
+      "sentiment_score": 0.022,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.1346,
+        "neutral": 0.7528,
+        "risk": 0.1126
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTFqY1VncEd2YzN6Z3dUT2lqVXNmVDVxOXROdERRaVFrcDN3ZlhxZVNXdFQ3bnVMNjBYeW1lVk90WGxJRW9VUnpnMU1QQ01vSGJmbmNKdWZWSHVYeElhMUpSMFhFeVk4eG5JakcyNjZ1NTh6ejhMU1RhWVA2N1BiU3lyX1VDRTJGVmpOSjBXd1V4b2Z0OVFWbXozRUJUdk5x?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge - AP News",
+      "published_at": "2026-11-16T16:03:00+00:00",
+      "sentiment_score": 0.0632,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.2006,
+        "neutral": 0.6621,
+        "risk": 0.1374
+      }
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
+      "source_id": "guardian_environment",
+      "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
+      "published_at": "2026-11-16T16:00:47+00:00",
+      "sentiment_score": 0.2574,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.2939,
+        "neutral": 0.6696,
+        "risk": 0.0365
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVXIxbDFsQ2RQSzBWZ1FqWWdrRXM3Wm1vVm1JS2YxTTgyWGJESHEtTFM3TFVSQVVyQ1FpYXFOZlhqOW5YYWhqY3ZsV0g3VUhJcjllc3JFZENERTRLbUtGdkhMMTQ1UzJMc1BWSjBydXNrRUVadDgxcWdCdW5aLUpKaWEwWi1oSm9XcnZRYXNoc3NhT3ZDUlR0eTNZazFwMFRGX1ZCZVNkMktHMTFVemVXVm0xTkFFdjJrSUtUWjhHWXAwLWxmYzRmQkZQNk1WbHZZ?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Babcock Ranch: Health, Wellness & Climate Resilience - Bisnow",
+      "published_at": "2026-11-16T16:00:01+00:00",
+      "sentiment_score": 0.319,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.4368,
+        "neutral": 0.4454,
+        "risk": 0.1178
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQnQ1NU1RNjNoTnJwTTVBQ2FIdWZTQVRfY0lBRGdrWV9xRlQwZWVsRU1TVFdXejJhZW1kM1ZrQ2EzNU0xbTR3UEtFR3pKTU9TeFRXU3JnV1hBOFcyRXZkNkd0UTFZZ0hvYjcycXAxT1JlLTJRYldFc0xLQk9uem4xdnlrc0dZZENrR3BZRzl1cGdsa2M3bWl3VnFvNWVJUV9oUmtSVUt4ZUZOSlZsMlJDVXZwY0k0dw?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Why the Electrification Push at Global Climate Talks Is Stalling - Bloomberg.com",
+      "published_at": "2026-11-16T15:57:56+00:00",
+      "sentiment_score": 0.1458,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.3235,
+        "neutral": 0.4988,
+        "risk": 0.1777
       }
     }
   ]
