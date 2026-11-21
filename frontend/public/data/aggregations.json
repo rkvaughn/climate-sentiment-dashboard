@@ -634,26 +634,38 @@
     },
     {
       "window_date": "2026-11-19",
-      "avg_score": -0.0642,
-      "article_count": 141,
+      "avg_score": -0.0623,
+      "article_count": 143,
       "min_score": -0.9787,
       "max_score": 0.9689,
       "label_counts": {
-        "neutral": 67,
         "opportunity": 30,
-        "risk": 44
+        "risk": 44,
+        "neutral": 69
       }
     },
     {
       "window_date": "2026-11-20",
-      "avg_score": 0.0211,
-      "article_count": 128,
+      "avg_score": 0.0447,
+      "article_count": 167,
       "min_score": -0.9547,
       "max_score": 0.9801,
       "label_counts": {
-        "risk": 28,
-        "neutral": 73,
-        "opportunity": 27
+        "risk": 35,
+        "neutral": 92,
+        "opportunity": 40
+      }
+    },
+    {
+      "window_date": "2026-11-21",
+      "avg_score": -0.0133,
+      "article_count": 72,
+      "min_score": -0.9665,
+      "max_score": 0.955,
+      "label_counts": {
+        "neutral": 44,
+        "opportunity": 13,
+        "risk": 15
       }
     }
   ]
