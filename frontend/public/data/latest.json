@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:57:52.627656+00:00",
+  "generated_at": "2026-11-23T19:53:59.130952+00:00",
   "model": "climatebert/distilroberta-base-climate-sentiment",
   "sources": {
     "carbon_brief": "Carbon Brief",
@@ -19,406 +19,406 @@
     "google_news_climate": "Google News — Climate"
   },
   "aggregation": {
-    "window_date": "2026-11-22",
-    "avg_score": -0.1989,
-    "article_count": 87,
-    "min_score": -0.9746,
-    "max_score": 0.9242,
+    "window_date": "2026-11-23",
+    "avg_score": -0.0913,
+    "article_count": 118,
+    "min_score": -0.9721,
+    "max_score": 0.9601,
     "label_counts": {
-      "risk": 33,
-      "opportunity": 4,
-      "neutral": 50
+      "neutral": 52,
+      "risk": 41,
+      "opportunity": 25
     }
   },
   "articles": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONTI2X2NMbWVvbjZ2ekJPTlNLS2ZITldCcnVHTGMxbktEb2FjRVdxNGZjcjFOSzVNX0VkNmJsUlVUTEVjTXlYdnQ2VWdmU05jZXA4VXViVWtGazlZdnRyRGJtcGtWSGc1b1hFaUJTMVlkc3pjTWQ4Y2Y2cE1VOHQ3TlJ2ZTRCNFJLZEJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSVNYdDhRY202M3IyR0pBRVZaVURXZk5rNTNadmJBazJITm5MbU9qNDg5REt3Y3d5OURiRnNndGZIQ1pXRVR2X25xc3dqU0l1dXNwLU1TbWtxZ1FnV3cxbGV6aVFqYlZBMHNWQWZKQkNyaTRLb3VRUkpjbkxHSTRtemRsdE1aUzltQlBBc01JMUxnMU5reEFrWWNPQkdjMENKOWFick9oZ3EzS3dvRElyQVdjTVd6ZFdTbkdJWVVIR3RIQ2JBWUgzV21jUE4zQQ?oc=5",
       "source_id": "google_news_climate",
-      "title": "Climate Talks Fall Apart Over Fossil Fuels - Newser",
-      "published_at": "2026-11-22T15:44:00+00:00",
-      "sentiment_score": 0.0626,
+      "title": "As climate change creates ‘disasters on steroids’, it’s time we asked: what happens after an evacuation? - The Conversation",
+      "published_at": "2026-11-23T19:30:32+00:00",
+      "sentiment_score": -0.9421,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.0052,
+        "neutral": 0.0475,
+        "risk": 0.9473
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TdGY1QmxNSjVfelhPZkZubmJlaEZmMURleEpOZ3JvX1VURmtKQms5TWdYRHF2ZmVNcVVUTl9YQ25zOG4ySm50SVNMY0w0QTJXUUljdm84cWw3OWFGS0hzeUNrbEUzdFUtenZ1eWNuM0RHanJzSVE?oc=5",
+      "source_id": "google_news_climate",
+      "title": "It’s a ‘very sobering year’ for UN climate summit - The Allegheny Front",
+      "published_at": "2026-11-23T19:28:34+00:00",
+      "sentiment_score": 0.1576,
       "sentiment_label": "neutral",
       "probabilities": {
-        "opportunity": 0.2398,
-        "neutral": 0.583,
-        "risk": 0.1772
+        "opportunity": 0.1929,
+        "neutral": 0.7719,
+        "risk": 0.0353
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUhkTXBKcTQxMmltZmtMbkJWY2RsdE5SbDU2bHRTLXdhUnEtNnZ5ZUEzNTJSaDItbkNOMmw0NFktb2htNlBzNHI2TDRIcUVFNm5GenNjdHY1N0loYThLLXkwSGpMNjZkWC15UHphQWhucGlFYkdMdjNONWVJUmxwYm1Ga1oxT3YtOHJzV2FINlc0WUl4Z3VkeGdCczJ4S3laOG5rVA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV2JWZTI5Q01hS2gydTFQcm1zVTZjOExEOWR0Mlh0SXdDTU5ZR2VmWVJ0N2tEMWl0bVJyLTFFWHdmREdQSjRNQlk0aUpTVjRiZERoUnRLdlJWQ2tzNDN2dGZFbWRYXzFpRGxvMGlOTy11WnR4eGUzcTNwV3UzdzBfRzVNdC1DRVBIWHJvRm53czUySmdjSkFkUlpWamdSV25nS1k0bko4aC04dENSRVlaMlFnOFZuY0JpWjlQWUNMUQ?oc=5",
       "source_id": "google_news_climate",
-      "title": "PIK assessment on the failure of the COP31 UN climate conference in Antalya - YubaNet",
-      "published_at": "2026-11-22T15:40:07+00:00",
-      "sentiment_score": -0.6374,
-      "sentiment_label": "risk",
-      "probabilities": {
-        "opportunity": 0.026,
-        "neutral": 0.3106,
-        "risk": 0.6634
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTHZzZXVIbW54R0pMVElHSUhNeDVWUWlqU1NqNE0xNG5TMFZGeS1uRGFic0VCTDBCeTBEUmJidXBRcUwzV1ZvazE3ZzA5WlA5eG90MXpnSm9BUFZ6cTdLZU56N3dDQ1VDa3VUZEhQRVVwRWJvUDg2SkwwUXR0aWN4ajMxWTl0d2M4VEZqWmxXRlpiU1NxSEpoajlNbUQ2QdIBqwFBVV95cUxObEtLV2NkTWp4aDBvQTR0YWl2dzRsWkp0NFVaQmZkUVVTWHhicUpDcHhCX3NJSXQwZlhzMGZZNFJ5WmNOSl91ZTFpVVVpZDZ1Wi0zc21sZk5VX0Z2LVdvaWJ5bUxHT1lXVjhLaWFWdzRpMlEwZk9vMm1raXhkbFZ2a3o5bVJuYlBxbkVNaUhxVTA0NnJ1WFhndlRBUUNBaVNrT2FYaDFmcVVfRGM?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Climate deal collapses in chaotic end to COP31 - The New Indian Express",
-      "published_at": "2026-11-22T15:33:16+00:00",
-      "sentiment_score": -0.5599,
-      "sentiment_label": "risk",
-      "probabilities": {
-        "opportunity": 0.0827,
-        "neutral": 0.2747,
-        "risk": 0.6426
-      }
-    },
-    {
-      "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-      "source_id": "guardian_environment",
-      "title": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
-      "published_at": "2026-11-22T15:32:36+00:00",
-      "sentiment_score": -0.4878,
-      "sentiment_label": "risk",
-      "probabilities": {
-        "opportunity": 0.0665,
-        "neutral": 0.3792,
-        "risk": 0.5543
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaktnVmVBTFR4NlBwcmNmLVlkQXlUbDJnM20tam1MaGZmeGF1YTBQSDVjMkM3U21sVWdrRER5a2UzZ3ZrQkF1Sm5kd1U5UXBzNGdMRTlWcVprNVF3M2xjRUV5SmlZMGR6VXU1OVh4M2RXOGFvY25hN1Z3MTJWWXNiWE5ESk13U0o0?oc=5",
-      "source_id": "google_news_climate",
-      "title": "U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels - The New York Times",
-      "published_at": "2026-11-22T15:31:36+00:00",
-      "sentiment_score": -0.5866,
-      "sentiment_label": "risk",
-      "probabilities": {
-        "opportunity": 0.081,
-        "neutral": 0.2514,
-        "risk": 0.6676
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lVnFob2lBdm1DVHpCNnhwLTRuWjh6TkY4eUJBR052cFBaZnExY2J0cTIydC1YdTVtMTNMLU9ORC1JTUtLQTBoYk10SG11alNYa2YwUl8xS25aMUNiaXJVYUJ4WlRZRkk5bzBVQw?oc=5",
-      "source_id": "google_news_climate",
-      "title": "UN climate talks break down in fossil fuel dispute - Axios",
-      "published_at": "2026-11-22T15:30:20+00:00",
-      "sentiment_score": -0.3772,
-      "sentiment_label": "risk",
-      "probabilities": {
-        "opportunity": 0.1189,
-        "neutral": 0.3849,
-        "risk": 0.4961
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmhzMWhjTnREVklyYjlKTjYwNzdrUS1NQnVZOE1MbVdjZTlxSzZrMzVUTG41dnc4R2NXNTM3STRrenZ2NkF4SWJhWkprUkdlTkFGZk9udmlkYVdiNlZyUWs1QS11Y0lLY1p0QlpKZ3VGRVoxNW5ZbktXZmN3VmtydEY2UmJIcHVMR3pxeTR5dXNmTk43QUNnSmhEOFUzZlk?oc=5",
-      "source_id": "google_news_climate",
-      "title": "'We cannot delay': N.L. scientist observing climate change on 8-month Arctic expedition - CBC",
-      "published_at": "2026-11-22T15:30:00+00:00",
-      "sentiment_score": 0.0884,
+      "title": "'No way' to confront climate change without addressing fossil fuels, say leaders after botched COP31 - AgFunderNews",
+      "published_at": "2026-11-23T19:27:53+00:00",
+      "sentiment_score": -0.2171,
       "sentiment_label": "neutral",
       "probabilities": {
-        "opportunity": 0.1834,
-        "neutral": 0.7216,
-        "risk": 0.095
+        "opportunity": 0.0919,
+        "neutral": 0.5991,
+        "risk": 0.309
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVJLdVFodFFJZDk0a2pkTWdqSlBDSF93eDhyRGZLSmRDLWl3YUZFaldwZjlmWDB0Wmk5amJ5RUVVUGJIODFNbWlray1fWVY4bEEwTEtUYUhHVlVWZTZrZmhmR3FTUGFQVkJ6NFZqZ3NJNGpvS09PMWZUbWU3TG5Ucnp0OTllZ2tvcW5UVi1YRjJLU3l2QklGeUNKM1NtN2o4ODBFRndWSEhzLTZyOUVGag?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnRITUdneTA0V0NSRTVCWGdhaXIwLW1SdjRtcGdZTTNTdllTMGdIWVlQLV85Zkx2dlh0Nmg5VFVaSW9GWjFzd0tHRlhaUnhiNDE0blRTaUswQVVsS0dnOGZacVFDblFVXzVwT3R5SldKUXVCRnU3SHFNVzdkdF9pS0o1amN1dXJkazUzWnVNdUxCTTZYdW1YX0txWlBIM2pZSUx3TGszT2ZNZw?oc=5",
       "source_id": "google_news_climate",
-      "title": "UN Climate Talks Collapse as EU Rejects Deal Without Fossil Fuels - La Voce di New York",
-      "published_at": "2026-11-22T15:20:53+00:00",
-      "sentiment_score": -0.1454,
+      "title": "How a Fight Over Fossil Fuels Sank the U.N. Climate Talks - U.S. News & World Report",
+      "published_at": "2026-11-23T19:25:59+00:00",
+      "sentiment_score": 0.1554,
       "sentiment_label": "neutral",
       "probabilities": {
-        "opportunity": 0.2139,
-        "neutral": 0.4268,
-        "risk": 0.3593
+        "opportunity": 0.2634,
+        "neutral": 0.6286,
+        "risk": 0.108
       }
     },
     {
-      "url": "https://cleantechnica.com/2026/11/22/elon-musk-ukraine-spacex-starshield-democrats-government-contracts-risk/",
+      "url": "https://news.mongabay.com/short-article/2026/11/mongabay-kids-launches-wild-guardians-a-free-education-initiative-to-engage-children-with-nature/",
+      "source_id": "mongabay",
+      "title": "Mongabay Kids launches Wild Guardians: A free education initiative to engage children with nature",
+      "published_at": "2026-11-23T19:22:18+00:00",
+      "sentiment_score": 0.9215,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.9307,
+        "neutral": 0.0601,
+        "risk": 0.0092
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWJRRUZVUDc0ZlZSWWxYcFREbjdYWDlKeUNjbktNQXZ5UllmdDhIajAySDluOHE0a041eUEyeF9JdXgtS29GMG5scHltWUlORUZmZXBsWnlRLU81ZlVQN0QyZE9wdXdnNVk4a0Uxc0o0aTRPQ2luRzZLWjJoanJhdm1NU3BORWwxenh4NVQtSk9KMHlZeGl4SklTcHZoSE9zZmY4ckZuUmh5eFkzRWJMZjJsam1zZlR0NHc1b3AxMXAxeE5sb1lUXzh3?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Pediatric mental health care utilization varied by climate vulnerability and historical redlining - 2 Minute Medicine",
+      "published_at": "2026-11-23T19:06:53+00:00",
+      "sentiment_score": -0.4594,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.0305,
+        "neutral": 0.4797,
+        "risk": 0.4899
+      }
+    },
+    {
+      "url": "https://news.mongabay.com/2026/11/longer-droughts-dry-amazon-waterways-and-threaten-floating-health-clinics/",
+      "source_id": "mongabay",
+      "title": "Longer droughts threaten floating health clinics as Amazon streams run dry",
+      "published_at": "2026-11-23T19:00:50+00:00",
+      "sentiment_score": -0.9669,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.0074,
+        "neutral": 0.0183,
+        "risk": 0.9743
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oTUVSVnlJenV0SkdHdEc1WTNldjNLeDFOenlFZzc5LUpfc1FMRnlpVUIwSG9taFZZVDEwelRuQ1FKZGlwV1UzMktmSGxnU0FaU280aWtyVW1nTTdJZkluX3c2eWxJZldyR3ZWb3U1aENFcDhnMUpNOWF3UXFXUQ?oc=5",
+      "source_id": "google_news_climate",
+      "title": "New modeling tool sheds light on how climate change could reshape marine ecosystems - Phys.org",
+      "published_at": "2026-11-23T19:00:01+00:00",
+      "sentiment_score": -0.1663,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.2299,
+        "neutral": 0.3739,
+        "risk": 0.3962
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMGUyd29vNTd4dHdXbHp2OGNZTlJXdGlRa3R6ajIwdWFjT0liRlh3SFpaSU8zZWc0WUg5SmVFZVRXUFVkeGR5ZFBGVU1PbF9uanRDTk5PTWRjd2Z4aURKTFNKUkVqWW5sTGQydDJGa0ZRaElWMXkwUEdrdlA2N3d0QnNORW5JVGV5SnhHblYtOW8wZnMyR0prR1dZWjFELVg2cG0yZGJudWx2R2hnOEFuV3FFR25iRVI3aXZQUC1SQ2l6dkh2bEQ4UjlwRGhad1prcWZZZ0ExUkwxUFBiWGVfdlhFR3AtNjAxRThqbzFlSQ?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Will your winter be snowier because of El Niño? Rainier? Look up what your area will face. - The Washington Post",
+      "published_at": "2026-11-23T19:00:00+00:00",
+      "sentiment_score": -0.7842,
+      "sentiment_label": "risk",
+      "probabilities": {
+        "opportunity": 0.0244,
+        "neutral": 0.167,
+        "risk": 0.8086
+      }
+    },
+    {
+      "url": "https://news.mongabay.com/short-article/2026/11/chinas-mangroves-have-bounced-back-birds-have-returned-too/",
+      "source_id": "mongabay",
+      "title": "China’s mangroves have bounced back. Birds have returned too",
+      "published_at": "2026-11-23T18:57:25+00:00",
+      "sentiment_score": 0.3511,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.4601,
+        "neutral": 0.4309,
+        "risk": 0.109
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11XzBnbGdZeTBYVWpBSkF4WGRXdi1xUGgzSlp1LVJXV21XcklNN0NWbUhGLXdTcTBHcGR6SnFQZmNXS2xBVFVXM0lGcE91S0Z5MVdiaFpSbnp5YjlMWlhZ?oc=5",
+      "source_id": "google_news_climate",
+      "title": "An uncertainty-aware geospatial framework for climate-resilient cultivation planning of Panax notoginseng in Northern Vietnam - Nature",
+      "published_at": "2026-11-23T18:48:23+00:00",
+      "sentiment_score": 0.2527,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.3168,
+        "neutral": 0.6191,
+        "risk": 0.0641
+      }
+    },
+    {
+      "url": "https://cleantechnica.com/2026/11/23/adani-cement-to-deploy-410-electric-trucks-cement-clinker/",
       "source_id": "cleantechnica",
-      "title": "Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery",
-      "published_at": "2026-11-22T15:20:11+00:00",
-      "sentiment_score": -0.5216,
+      "title": "Adani Cement to Deploy 410 Electric Trucks, Cement & Clinker",
+      "published_at": "2026-11-23T18:43:25+00:00",
+      "sentiment_score": 0.92,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.9234,
+        "neutral": 0.0732,
+        "risk": 0.0034
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQy12LVpnTUFERk5qZVVBOHZ3UUpheWJST1o0UWxVaTdRaTJWVERPNVJhMGY0eE5iQy1tTlVKQVh3Z2JVTjF2ZFRpVlZ2RFQ4ODFzaHNFUTYzUTd0eFpjU3dicUVUUWtwTDhDVnJOZ2hQUk0xTFBVVHIxVldtaUZUbDJYckIzeEZ5VVUzajcyOGV0aTNRX25PZEZjaUFiSXA0OEpKM3VBcw?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits - The Guardian",
+      "published_at": "2026-11-23T18:35:00+00:00",
+      "sentiment_score": -0.3791,
       "sentiment_label": "risk",
       "probabilities": {
-        "opportunity": 0.094,
-        "neutral": 0.2904,
-        "risk": 0.6156
+        "opportunity": 0.0822,
+        "neutral": 0.4564,
+        "risk": 0.4613
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0t5cmIySl82N0cwb0wzTEFpbVBKYjZrNkVraHJkZHFQUXJXcldoMWE2c0d2U3Z6OXMtaEVGMEwycERJd05nZzNmR2JmdnNHVWl2UVQxb3ZPeXZkMElpS2dyZm9RUUxEeTI0V0ZiM0ROUW9BOWNCWnN3Szd6NmJlLVdmWU9BRVVYUmZ3aG9PZ1FqTjNuRFdCLUlKOFk1OGZXTkdBUGRhdXJzdTVITFE?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Cop31 ends with no deal as longest climate summit ever collapses into disarray - The Independent",
-      "published_at": "2026-11-22T15:18:00+00:00",
-      "sentiment_score": -0.3865,
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/23/ben-jennings-failure-cop31-cartoon",
+      "source_id": "guardian_environment",
+      "title": "Ben Jennings on the failure of Cop31 – cartoon",
+      "published_at": "2026-11-23T18:32:07+00:00",
+      "sentiment_score": -0.6468,
       "sentiment_label": "risk",
       "probabilities": {
-        "opportunity": 0.1203,
-        "neutral": 0.3729,
-        "risk": 0.5068
+        "opportunity": 0.021,
+        "neutral": 0.3112,
+        "risk": 0.6678
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWmNqWW1ZOHpsbTBKQ0pOR0h0VkJYajJkWTdsZG5oOXM3MFd3R203aXh2eFVzaEZTd1RXbThWbDlnbmJUN1JvRUdjUXZQVW9GSVJ1TElrZGlFaHVZRENWNjFQQ3NYMl9zWXdDTHdsREhZRjlUdFpvOHF0Z1VkdkF0ZndhT2UxbDFpTm05R1VqM0hsVE9TMFk5Mk5ReTdkMjA0bVpGSkV5bVp5Nmd3Y2FyMENXejdNRGQySzI5cW11Rm9DVE1GTlE?oc=5",
-      "source_id": "google_news_climate",
-      "title": "UN climate talks break down over bitter disagreements on fossil fuels - AP News",
-      "published_at": "2026-11-22T15:14:00+00:00",
-      "sentiment_score": -0.1836,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/23/the-guardian-view-on-cop31-a-just-transition-needs-more-than-fine-words",
+      "source_id": "guardian_environment",
+      "title": "The Guardian view on Cop31: a just transition needs more than fine words | Editorial",
+      "published_at": "2026-11-23T18:29:05+00:00",
+      "sentiment_score": -0.3634,
       "sentiment_label": "neutral",
       "probabilities": {
-        "opportunity": 0.1613,
-        "neutral": 0.4937,
-        "risk": 0.3449
+        "opportunity": 0.078,
+        "neutral": 0.4806,
+        "risk": 0.4414
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVdscVFfdlo0dXhGUlZXSEFyQ0lyZDdHMVF2ZHVzTnoyLU9UTzBRQk5fQl9xempLWlBGdDA4X3FZcVdQYmdiLWViWTFsSTJqQzFlTHBDVkpKWVo2S2dNbzRQbE1EWGFsd3BIMDl1cFZiWW5zYm1OU1VhOGV2ZlZhTS1WbGNzZ2trbm9BRWdOaUNmazgwdGxxdm0yTE1ZQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJbW1qMU9IQnBzNG1uV2xzdUZFOVRlNG50d3BUaV9XczJvUmpVRFA3Y3dlaXRCODdpN1p0Uk96dmlwWjJnT3FVWmhVaThQTDZhWGNSdXZBaWlBUjJnME1WTkFFc3FtZ0ZqX0dVdEwxUkdmLWZOR1FZQw?oc=5",
       "source_id": "google_news_climate",
-      "title": "The collapse of Cop31 reveals an uncomfortable truth about climate change - The Telegraph",
-      "published_at": "2026-11-22T15:10:00+00:00",
-      "sentiment_score": -0.6339,
+      "title": "Why the UN’s climate conference fell apart - 1A | Speak Freely",
+      "published_at": "2026-11-23T18:28:09+00:00",
+      "sentiment_score": -0.2304,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.0275,
+        "neutral": 0.7145,
+        "risk": 0.2579
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrYXBpM0dyN296NWU0aS1PTDViMnhoX2duQVVmTmVNc1dZcG1LaG52WHhJQjJqY2xUQTc4SjZIYkp5ZG9ldFAtWWlDOWlqR2ZNel84Wk9SWWdQTlVGT3ppdVM5eG9IS1JmX1RLelBoTWkyclFaTmdfd2NR?oc=5",
+      "source_id": "google_news_climate",
+      "title": "A New Beat on Climate for a Times Veteran - The New York Times Company",
+      "published_at": "2026-11-23T18:17:06+00:00",
+      "sentiment_score": 0.1627,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.2666,
+        "neutral": 0.6295,
+        "risk": 0.1039
+      }
+    },
+    {
+      "url": "https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146/",
+      "source_id": "utility_dive",
+      "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO",
+      "published_at": "2026-11-23T18:00:00+00:00",
+      "sentiment_score": -0.1205,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.1494,
+        "neutral": 0.5807,
+        "risk": 0.2699
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPdHlvYkVCOG5neVEteVh0aTd3bWRZbjAtNkwxNlZSZnlST1FtWTlQbjJkWl9YSU9venVxREEzcFRhTkQzX3JXRkI1bkVsZDRBSTJEOFVzaUZmNTNYWHpsZFQ0bTd2eGx0ZjQxdlpBa0hkejlKWGpINUtadWZUS09kZWdUSnBXZlVnWktEa2MtYTB5WFFJX0huSGRhek95VXg3VlBfajRaWFVnWHVWVE1wMTM5NkM1SjdqRjhwTk1EdUtoeWY1WkNiem5BZzMzVnBMb1NMYXhBLV94TkQwUDJPcmM1dHBLSDBDb2F2OWZvMml0bUZuUHNvR011SUZjNDZ1ZU1HN1A1NW84MXppRmdQVU9HYzFfN0M4TDFYU09ELWhaTW5RcHR1RGcwSjVHNVVIR3BCbEVQT1Y5c2wya092R0FHNnBHZG1mUy1nUjBjbUcwWkZq?oc=5",
+      "source_id": "google_news_climate",
+      "title": "COP Climate Talks Could Benefit From More Feminist Values, Less Focus on Tech Solutions, Experts Say: Addressing gender equity under existing United Nations initiatives could be one of the best ways to improve outcomes of the annual global #climate talk - coyotegulch.blog",
+      "published_at": "2026-11-23T17:58:11+00:00",
+      "sentiment_score": 0.7923,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.8064,
+        "neutral": 0.1795,
+        "risk": 0.0141
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS3pYYnNUSTI2a0RmQV9ld2dMVWpGSkRGSHdnLUJVNk1CQm1xVXZkT1J2aWhvOHphQVRDMUVWQnN4NmVJT0VUQXhDM21kMGEtQ0RIUG9FbGVkVlhKVE5kLVZrSUE1YjEyTFlZOFo2OW4wckFFbFpTUUgtVzNSUEJkNjk4LVVtNXRYUjBwR244bzBiT0ZqdU0tcVRUWHRVNFpVd0lFMm1FblE0LWE1blUwbkxuVlVpdXF0OHZMdXAxVlhCcHB3cTdHNHdiMGM?oc=5",
+      "source_id": "google_news_climate",
+      "title": "Why Chinese Cinema Might Be the Secret to Better Climate Change Movies - New York University",
+      "published_at": "2026-11-23T17:56:18+00:00",
+      "sentiment_score": 0.3653,
+      "sentiment_label": "opportunity",
+      "probabilities": {
+        "opportunity": 0.4703,
+        "neutral": 0.4247,
+        "risk": 0.105
+      }
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTIyekV4VGdiM2lpMFNrRnRLUUpuZnpDbUdGcDlLbTlHWVQ2N1M0cWtoUGl2LVlPaGFmWkZSSF9yNzRRXzdPZlVPSXVwQWtuNllVdHFxRUJjb2hRcG9WTGV3cWtJU0tuY1FSNWFLcmFmTlhvdDRGd01ETEtCdUFsSmpnZzZSc0ZObDJISHFXUXR2SEQzUWgzcXVJTkpKQQ?oc=5",
+      "source_id": "google_news_climate",
+      "title": "EFC welcomes clubs to Football Clubs Alliance for Climate - EFC - European Football Clubs (EFC)",
+      "published_at": "2026-11-23T17:56:12+00:00",
+      "sentiment_score": 0.2643,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.3116,
+        "neutral": 0.6411,
+        "risk": 0.0473
+      }
+    },
+    {
+      "url": "https://yaleclimateconnections.org/2026/11/whats-causing-major-coastal-flooding-in-california/",
+      "source_id": "yale_climate_connections",
+      "title": "What’s causing major coastal flooding in California?",
+      "published_at": "2026-11-23T17:55:00+00:00",
+      "sentiment_score": -0.9721,
       "sentiment_label": "risk",
       "probabilities": {
-        "opportunity": 0.0269,
-        "neutral": 0.3123,
-        "risk": 0.6608
+        "opportunity": 0.005,
+        "neutral": 0.0179,
+        "risk": 0.9771
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTdqaVc4WENwQlpqTS0xRTBhQXZ5d3BiZWNxZlNQZy01OXNTdXF5U1JCT0JVMFhFdVVOMVNaQVJUbmowUzdxWlk4bWs0NVlXdGYxNEE3MUN6a01fTG9zMUVpNTNBSC0yQ1NjbzNVRnlWa0JFRkRqRE9SbnpzblRoTXRad1k2N3PSAYwBQVVfeXFMTXk0akRJVUxXRndxMW81ajhXS2l3NDdlTjJSZEJOMzc2RmRJYmM2emJVVm0xY2NLVV9jeVNvaXM1c19yamJxdWNNQW40SWN0ZE51eHN6eFZQYmhaMmZ2Ym1kUElXWUE0UG9sMEFGZWpoSnlFU0NfVHRsUE9JV1dPV3ZTRFY4a1o0SVpHUjY?oc=5",
-      "source_id": "google_news_climate",
-      "title": "COP31 climate talks collapse as countries reject political deal - NewsNation",
-      "published_at": "2026-11-22T15:07:20+00:00",
-      "sentiment_score": -0.3126,
+      "url": "https://news.mongabay.com/2026/11/in-south-africas-limpopo-residents-wonder-what-the-next-flood-will-bring/",
+      "source_id": "mongabay",
+      "title": "In South Africa’s Limpopo, residents wonder what the next flood will bring",
+      "published_at": "2026-11-23T17:51:59+00:00",
+      "sentiment_score": -0.9207,
       "sentiment_label": "risk",
       "probabilities": {
-        "opportunity": 0.1433,
-        "neutral": 0.4008,
-        "risk": 0.4559
+        "opportunity": 0.0088,
+        "neutral": 0.0617,
+        "risk": 0.9295
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHhBWldUdzAxM3JtaEVFSGxqakFCNDA1M3B4TVdNWFlUSG1NZk53cTIyOE9STEpKbE1PcGNEcWxXZmFXa19iU1U3eURjUFBrN0NfLU53SVFtUm1LZTBlcnVza01KVm9zaFF1S25lWjEzYzN0RkZfeVVtX1A3VTVvakwxdEJsNFdHOGVtdTV0X1VUaGUybzVLWnFzTFNDVWhYRjd5OEV4anhrRmFpX2wzVlpB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOczhrUGsycTRLalA4X1JlRllSSDlhWmYzaEt0bzZYQ0d2LVFIdWxkR2xqT3RxYjlNU2FFbGUzTGpmZkk0ejYycFR4ZDRDTWlKRXh6UGNkQnR1SkxNN0Z6U2EzNVdTVmlxVmVLY1BmTnBOeXpybDQ5dUNxcE9aUTlrcEJTdVlWcG5XWWlESGd5eUxiTVlq?oc=5",
       "source_id": "google_news_climate",
-      "title": "UN Climate Talks Slide Toward Collapse as Nations Reject Deal - Bloomberg.com",
-      "published_at": "2026-11-22T15:03:55+00:00",
-      "sentiment_score": -0.4996,
+      "title": "How climate impacts Wisconsin cranberries, a Thanksgiving dinner staple - FOX6 News Milwaukee",
+      "published_at": "2026-11-23T17:49:50+00:00",
+      "sentiment_score": -0.1379,
+      "sentiment_label": "neutral",
+      "probabilities": {
+        "opportunity": 0.1408,
+        "neutral": 0.5806,
+        "risk": 0.2787
+      }
+    },
+    {
+      "url": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
+      "source_id": "guardian_environment",
+      "title": "‘Scapegoating’: green groups condemn plan to axe Environment Agency and Natural England",
+      "published_at": "2026-11-23T17:47:58+00:00",
+      "sentiment_score": -0.6584,
       "sentiment_label": "risk",
       "probabilities": {
-        "opportunity": 0.0986,
-        "neutral": 0.3032,
-        "risk": 0.5982
+        "opportunity": 0.0295,
+        "neutral": 0.2826,
+        "risk": 0.6879
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMklnUGw5aFV6WURzRzNOT2R2OWFPeHgxcXI5UUNOV3p2M2UtSWFmOWs4eUhycEZQeVpsLVdGUy1OZ3NvaThENjZIT3JmUmJtY2JXdWw2M3FzOE5OeGhxajFNcEpTRV8yaC1oVExleG1EVG9nY2RJbkkwZDd5SE1GaW9fRnFLYnBHaVIzZDRkdzBueTA3UHBwa0pEQm0xaGxSQ3E3QtIBpAFBVV95cUxQaE83M3FWdGtwQ05QZWltbGlNbFBzUks0Vy1lck56SUZyVjBWRm1FU2djMUZZOGdiY0FEdFNfWTRsTDB5N1FBR2w1Y2xsVXRPdWRDb1dBWmFLbDMzbFlqc3dsLWRHU0hBQ0R2cUFjclFNVWpyU2J6RW9XXy1hLW1tclo4cjNiOFVGd2ZpYUhaa0w4TC1MYnhYQl9HQ1c2X2xvNXgzcw?oc=5",
-      "source_id": "google_news_climate",
-      "title": "COP31 climate talks collapse as EU and others reject deal - South China Morning Post",
-      "published_at": "2026-11-22T14:57:45+00:00",
-      "sentiment_score": -0.3497,
+      "url": "https://cleantechnica.com/2026/11/23/barcelona-is-suffering-from-the-hydrogen-transport-death-spiral/",
+      "source_id": "cleantechnica",
+      "title": "Barcelona Is Suffering From The Hydrogen Transport Death Spiral",
+      "published_at": "2026-11-23T17:44:59+00:00",
+      "sentiment_score": -0.9641,
       "sentiment_label": "risk",
       "probabilities": {
-        "opportunity": 0.1197,
-        "neutral": 0.4109,
-        "risk": 0.4694
+        "opportunity": 0.0063,
+        "neutral": 0.0232,
+        "risk": 0.9704
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0dwdXY3VkZiR2NfOW9kS2xESVNoVHU2WWxaYVh3cDdRNi1yYkx5SUZJVVdMR2wyV0Vpd1NDSFQ1UkVvd0VZZ1AxU3doSm1GSjBWOEZJVVpmUDlDbzdZQ2YwT2I3cGdBR3I4SW9COF84dVdQWGRHNFlJbnlfWktWclduSEZoNTBMTUdydG91NC1FR3lqbms0ajhCbHlxQi1FcTVsQm9wdzhPSFlGM3VxcHZwdTc?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Climate COP31 Turkey - Goshen News",
-      "published_at": "2026-11-22T14:50:28+00:00",
-      "sentiment_score": 0.2376,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.3711,
-        "neutral": 0.4953,
-        "risk": 0.1335
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFFuZzlVNUJjWjdUeUlqb0VJSmREbWNFY1hTLWNEYUp0RHVlYU1CRkF1eEY5bF8wbVFVTThPOTRYVXBhRk1YdVdodU5aZ2s5NGVGQURsYXBQeTdJZElGbGtOZ3g4NVFnY1cyWmg4LUhfM0tqVFk5NWxOdS1mMk9iUUVEX291bHFvNXBfNWpzVDBENlZEczhxY043Vm83LVhkRXM3cHk4VXFWRWw3c0NiUDlUWC1FTG8?oc=5",
-      "source_id": "google_news_climate",
-      "title": "COP31: Climate Summit Fails When It Can’t Even Say ‘Fossil Fuels’ - Bloomberg.com",
-      "published_at": "2026-11-22T14:45:42+00:00",
-      "sentiment_score": -0.3598,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.0837,
-        "neutral": 0.4728,
-        "risk": 0.4435
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUkNuWjNLcENITko4MVo0NmxPemtjc0ozMHVwb21uWE5VNEJ5U21qUS1NUDNKbkR0TkxRQ2hfaDlGbTlLWWh2Vk8yd2N4RkQ3QzlyNUd6OTV6YWlET01BY3lvTjFNRUNVbURyanhuRUFwd0NBLUxjOGRSZDhlUXBrbmhTemNYazFJSjI5NjJ0d2d5dkNxR1Jkelp5dF9QWW9kMm5MOTVhZnFuQ0ZKM29vSU1QN0djLUNRWEtVag?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Cop31 climate talks break down as key deal rejected - The Guardian",
-      "published_at": "2026-11-22T14:43:00+00:00",
-      "sentiment_score": -0.1076,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.2045,
-        "neutral": 0.4834,
-        "risk": 0.3121
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGFvZVIzRWpoOWNURXhZOXhSemxYMzBTMlhLM2RwWWw2ZldTTXZVelJyVnRDeE96MU55eDExNm1ScUNfcy15RVJiMkw3TjRuWlRBM1QyRWI3UzY0T3RyeUwzeFhhTG8wWjRzRk0zZ3Qwa3B3Y1F2OHNXYkVFMlI3dU9NeFBpQ19vendLajl3VHBLVk01RW1EN0g4T3h6Y25PZ0V4ZVdONG1uRE5NRUNycDJvcnR3c0VSYlE?oc=5",
-      "source_id": "google_news_climate",
-      "title": "EU and Panama reject draft deal at UN climate talks, putting agreement in doubt - Vatican News",
-      "published_at": "2026-11-22T14:42:35+00:00",
-      "sentiment_score": -0.1464,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.1966,
-        "neutral": 0.4604,
-        "risk": 0.343
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcTltQ1ZaT24tM2lHZ1VWdlg2RmlEY19rODk5QnFYODZyc0pvdFZ5RERmRmh2Q3QtSTFHZWVsOTFNMm1QWEhlMG9xdndhWm5kdnlfNVNtRnhHX2lHVlZkbjhnSms3MEVnNGdfLWRhaTNWNS13WnR5eVI0a3VQamxpbXlUQldEdV9rSUp4c2R4amRXbzVKaGRaSUN6SUZsMmZ4dnptQ2ZFbmhDS21jRS1LNQ?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Climate COP31 Turkey - chronicleonline.com",
-      "published_at": "2026-11-22T14:41:41+00:00",
-      "sentiment_score": 0.2294,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.3448,
-        "neutral": 0.5398,
-        "risk": 0.1154
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWFQ3M20xeFVyTDBVUnlOa1lZUnpyaVVfbXN4RnNaN0MtUzJwMFZUMkdVTXJIdVM2dUN6Wld2d2Vwa29LSGNCWVpUbmcwVjFlR2tJWVFLN2kxX2JMdTdrWnB1MUtPMjlON3piQWVtbmc1Z3NFeTlPNmdpdlRNUGlJSU5ncnB0WlI3YnllSTlQamwwN01VY3lhSEx5M0pjemV4SXZvZXRGNlZwUQ?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Climate COP31 Turkey - WV News",
-      "published_at": "2026-11-22T14:41:41+00:00",
-      "sentiment_score": 0.2146,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.3455,
-        "neutral": 0.5236,
-        "risk": 0.1309
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVU5ab0ltTTFjZGFHS2NaTGJYSFhsRVoyU1NqX09RZ1V4NDdXR0NsWkliNDI3eGQ3TUFUajZyOVVvYTllcllPZWJUeWRtVDF3UXpnWmZWeF9saDdZOGJJRm5Ddk0wVTl2c2JKalRmNHEyN2tuTXBGblUzeFNRNUczUzFsU3M5OHhPdFMtNHpySQ?oc=5",
-      "source_id": "google_news_climate",
-      "title": "UN climate talks break down without an overarching agreement - khbs",
-      "published_at": "2026-11-22T14:39:48+00:00",
-      "sentiment_score": -0.0376,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.1526,
-        "neutral": 0.6572,
-        "risk": 0.1902
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vSW11ME9oTzNhclBhcnhSYUc1Um9lYnpDWDFKdjVtcno1R21ZLUYwY01UMjl1TGxVeGNWQzVQUktxOEF0QjZGLTBGWnNlQW53VC1xalU2SQ?oc=5",
-      "source_id": "google_news_climate",
-      "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’ - UN News",
-      "published_at": "2026-11-22T14:37:47+00:00",
-      "sentiment_score": -0.1368,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.0412,
-        "neutral": 0.7807,
-        "risk": 0.178
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRWN4VzFsVlFJT0NjSXVaOEMyaml6aW9EaTVsbVMxb0R5MTZxanM2RDZDZmE5QkpSNy1XTDRYZ0RDOXFScWhCVXFTVlJsSkVXN2FPTnVhTEl5S2g4YlhQNEhucnR3NEpKalB1a3pFNHVnNDRpbmV0QlpOcENUTHJQdTdBODM?oc=5",
-      "source_id": "google_news_climate",
-      "title": "COP31 Climate Talks Collapse Over Fossil Fuel Dispute - 조선일보",
-      "published_at": "2026-11-22T14:37:30+00:00",
-      "sentiment_score": -0.4483,
+      "url": "https://news.mongabay.com/short-article/2026/11/analysis-the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
+      "source_id": "mongabay",
+      "title": "Analysis: The collapse of UN climate talks, over fossil fuels, was years in the making",
+      "published_at": "2026-11-23T17:34:45+00:00",
+      "sentiment_score": -0.889,
       "sentiment_label": "risk",
       "probabilities": {
-        "opportunity": 0.0776,
-        "neutral": 0.3965,
-        "risk": 0.5259
+        "opportunity": 0.0132,
+        "neutral": 0.0847,
+        "risk": 0.9022
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUZXYzJNYzg3eHNONlczY25TV2VHMFNCUVFMaFk5c0UxMGc4dlRwMDhycDYyZGd5dHZSU1Ruc0FTbXYxdHZUQjc0OXphU3M5NExpMGFreFNwa0hUcWI2SDRzUGlvUUNZaFRTd2lUdzJyY2E1MEEwZWRjUzZPQllyd0FlbHdEbHpCLV9WaXlFaHVBUW01c3prTkwwc0RGbFVpTGY1ZTBvUEozc1E2OGk3dnA3Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnp6cVBqOEdtRVBEakY2TVlWcEkwMWRqc0tESXl1cXJXdDZmOGFkY3BENm5ZNGNfUm1WSGlXNzAtRmFhYWJJWGF1MXN6NENvTGxwOUx3M09Bd0NoeHE2T0xPbmFGMFVJcXZpd1JzbTRMN1pvbDZ6VFd5NHU1bGxONk9NUk9sRFZSN0JRazF1Z01HTTJzbXNOV2tVeE50WXktVTYyS3RNcw?oc=5",
       "source_id": "google_news_climate",
-      "title": "'Immensely disappointing': COP31 climate talks face collapse over fossil fuel stand off - BusinessGreen",
-      "published_at": "2026-11-22T14:37:06+00:00",
-      "sentiment_score": -0.487,
-      "sentiment_label": "risk",
-      "probabilities": {
-        "opportunity": 0.0928,
-        "neutral": 0.3273,
-        "risk": 0.5798
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQakU0OWZBLUZBam5kLTdwS003Uk5BVmVUMVg3X3gzdjFWd2dfLVZuTGxhY2pzUWR5SkhEWTY3bFlWak1YV0g5X3F2Nkpka0RFY1ZIMlVXUkE0UmNiNjFIOWFDVC1jYTlLWnR1T19GNWhrRUJDWnlJUDV3THZSVXd0YmQ3Smg5a1h3OXU1SUxkS3BxbXQ5MkJtbWVqWF80QVdleTFwSm5nRHhUa2xfeVNzMHFlZExuYWJFSWNlRjlNTmlLLWFNT2xCYzJmQXR2QQ?oc=5",
-      "source_id": "google_news_climate",
-      "title": "Some countries blocked progress at climate talks by raising unrelated issues: COP31 president - Anadolu Ajansı",
-      "published_at": "2026-11-22T14:36:54+00:00",
-      "sentiment_score": -0.2418,
+      "title": "UN COP31 global climate summit collapses with no overarching deal - CBS News",
+      "published_at": "2026-11-23T17:19:00+00:00",
+      "sentiment_score": -0.1303,
       "sentiment_label": "neutral",
       "probabilities": {
-        "opportunity": 0.0804,
-        "neutral": 0.5974,
-        "risk": 0.3222
+        "opportunity": 0.1701,
+        "neutral": 0.5294,
+        "risk": 0.3004
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2JlVnVva3R2M0JpR3h1eExYQWdaV0h6NDBUNFZJQ2YtWmVab1dwenhSRG15Q3FsM05qeDFYcW14bFVhSnQyNGlXaGZmWDMtUVMxRkp1cnctOUlhd2lxTGE1MWJtOVVONl95ZERrTktJRm8tNlB6dklQS0VqZ3RYZUQzZm8ySGNFMHgzU1I1ZmtWd3hMWlZwMG5yVmpPSlFHOEFKRVRvQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHc4QTdLYlFCNXk1dE9VS3B5cFhVY3ZqZlVFeG1XZHhXdmZVZWNzMVJWdEkzSk1DWDNxenQ4QVdTajZoaVo1ODc3WVdiczJMeVFQcGM4S0w3VHVrdW8tYTRadEVYTUw4c1FqcV83cHVGZW9FaElmNzZLT25PTU41SGFtbmxMcV81ZnZoMDlOOUxneDAtTjI4alN3?oc=5",
       "source_id": "google_news_climate",
-      "title": "Dutch climate minister calls COP31 outcome \"disappointing\" as it ends without deal - NL Times",
-      "published_at": "2026-11-22T14:35:03+00:00",
-      "sentiment_score": 0.0244,
+      "title": "Calls for action beyond promises as COP 31 falls short on climate justice - The Lutheran World Federation",
+      "published_at": "2026-11-23T17:18:33+00:00",
+      "sentiment_score": -0.0238,
       "sentiment_label": "neutral",
       "probabilities": {
-        "opportunity": 0.186,
-        "neutral": 0.6524,
-        "risk": 0.1616
+        "opportunity": 0.0803,
+        "neutral": 0.8156,
+        "risk": 0.1041
       }
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVlJ6WlB4Nk45S3VIZVl0WFZXRTBjZFpGSHBHdTFJMU9PLVRucUZxQWs3ZXFrNGlVTl85bFNDSUdkNlJyeUxrRkZpVFU4eGlWWGE2dU5qRGVQMTZHNEhWUnBEVDNQMldMeUY0cVpVM3NIQ28xaVlQcnhPM21pSHoxZzg4cFlycGh4a3VRLUVPdlBTTHlONGRCS0loelcyM082X0JpQ1pxTVpzTmo0SDJ6eHV6cnJUeWlTZlhQdkRwNmlwV2VMczJ5U24zRllmekN6ZFcwdm1fUjUzYktnMkpqUk9RRWRvM0ZkY2EwbFplc3NFWHFHQUYyeVFKS2xoUllJTlh5UHZFbncyUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdjV3RU9JcTlBemNkLWx6ZFAzMVlNbE5jM04wZVgtbUVQeWpzZkRFTjRtUHVKUVpBNzRLYUhyQnJoZUNRbHFJLWZCcnJ4Y04tck1CbEZiR2FiWkZSRFYzbmFMQk9mdGFxNHZmaGZ2NXA3TlhQMmF6aS1fQUdUSWdqSUNrdDEzdHc?oc=5",
       "source_id": "google_news_climate",
-      "title": "UN climate talks break down over bitter disagreements on fossil fuels - The Frederick News-Post",
-      "published_at": "2026-11-22T14:30:00+00:00",
-      "sentiment_score": -0.1821,
+      "title": "UN climate conference ends with no new agreement - WORLD News Group",
+      "published_at": "2026-11-23T17:08:00+00:00",
+      "sentiment_score": 0.0871,
       "sentiment_label": "neutral",
       "probabilities": {
-        "opportunity": 0.1635,
-        "neutral": 0.4909,
-        "risk": 0.3456
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT055RW1ITTVkSTY1SDJPbzB3VEdqeXVWX1BBM2dCN0I1M3NWVEJvVkJCSmlWYlEyOFAyV2xEajJKS0dGRjkzTFcyZFZQaVZucHRPT1RpNmhtQWVOTHZ5RTdLMmtENkh1RFJ0SlVySXVQLUZwRjNuR1FtMGE5VGZFZ2VKS0dHVmZDbGJSYzBES3gzdlJ0bUE?oc=5",
-      "source_id": "google_news_climate",
-      "title": "UN climate talks break down over bitter disagreements on fossil fuels - The Boston Globe",
-      "published_at": "2026-11-22T14:26:15+00:00",
-      "sentiment_score": -0.2435,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.136,
-        "neutral": 0.4845,
-        "risk": 0.3795
-      }
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGl5VEVfNzFXQllnc2c0SEozc2FuWjJVRkcteml6S3ROa0pFZXZTUlRuSVJhRFdINFMyMnM4SzVzRlZjRFMtUkdoWjdmTGFwdnd1a1BoRW9ydTNCMlFmOThET054V3lPTl9HYWJ3WTRrMFI1aVJCanVsMk12YlRuMUFPVTMyV1Z2TE1WSUwzcmN5Q3pqOExXM09HdjRyQ2h0ZkJRc3Ewbkk5UjA?oc=5",
-      "source_id": "google_news_climate",
-      "title": "COP31 climate talks fail after EU and others reject final deal proposal - Euronews",
-      "published_at": "2026-11-22T14:23:49+00:00",
-      "sentiment_score": -0.2378,
-      "sentiment_label": "neutral",
-      "probabilities": {
-        "opportunity": 0.1411,
-        "neutral": 0.4801,
-        "risk": 0.3789
+        "opportunity": 0.1792,
+        "neutral": 0.7287,
+        "risk": 0.0921
       }
     }
   ]

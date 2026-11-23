@@ -1904,6 +1904,22 @@
     "model": "climatebert/distilroberta-base-climate-sentiment"
   },
   {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMW15T0cxM2tWNHZVb2ZJS1pIMFJKNml4dzVTXzBEZTZLT01OZVpVQUY0MWpMaTN1ZTNKd1VwU0NSTnpKUHU5MU9vYWRqOC05SFlJTEEwa0NJRlNMd0g4ZU5BZEFFRGxWQ2lVSVdwbXRWYjNZYnVPcXl1akVMdVU1d1ZNbUFJRGNpMnhlN0ZqWWlFaGlTMmp3cXg5MWEzT1gyUWlLMnhCVVdKR2hP?oc=5",
+    "source_id": "google_news_climate",
+    "title": "IPCC is under pressure to delay publication of key global climate report - The Guardian",
+    "published_at": "2026-10-13T07:00:00+00:00",
+    "summary": "IPCC is under pressure to delay publication of key global climate report&nbsp;&nbsp;The Guardian",
+    "fetched_at": "2026-11-23T19:53:44.815890+00:00",
+    "sentiment_score": -0.5322,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0328,
+      "neutral": 0.4021,
+      "risk": 0.565
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
     "url": "https://theconversation.com/california-is-taking-a-beating-from-an-unusually-destructive-2026-pacific-hurricane-season-294207",
     "source_id": "the_conversation_climate",
     "title": "California is taking a beating from an unusually destructive 2026 Pacific hurricane season",
@@ -2140,6 +2156,22 @@
       "opportunity": 0.9253,
       "neutral": 0.0636,
       "risk": 0.0111
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ01QSl9JNlZoZ2Z1QkU3Z1dqajZ6b3RSd1NpZnNCS1Z5SjlqdTZUTUo2SUhDbjVYUjF4dzFDZ1lsczJzQVlrMG9SejF6WGtlaHVCY1JFV1Z0U0o2NGYtc1k2TzZUVnFSZGxmcTY3ZXBzcVRVWjBTZkRhZFpyUXh1V0RxVTBhNDB6M3NuNm03QQ?oc=5",
+    "source_id": "google_news_climate",
+    "title": "New Documents Add to Evidence in Climate Deception Case Against ExxonMobil - Inside Climate News",
+    "published_at": "2026-10-07T07:00:00+00:00",
+    "summary": "New Documents Add to Evidence in Climate Deception Case Against ExxonMobil&nbsp;&nbsp;Inside Climate News",
+    "fetched_at": "2026-11-23T19:53:44.815890+00:00",
+    "sentiment_score": -0.5589,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0546,
+      "neutral": 0.3319,
+      "risk": 0.6135
     },
     "model": "climatebert/distilroberta-base-climate-sentiment"
   },
