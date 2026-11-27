@@ -1,5 +1,1685 @@
 [
   {
+    "url": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+    "source_id": "guardian_environment",
+    "title": "Rosebank-supporting MPs warn PM blocking oilfield would mean ‘lights out for Labour in Scotland’",
+    "published_at": "2026-11-27T17:39:10+00:00",
+    "summary": "After nearly 100 colleagues called on Andy Burnham to block the oilfield, as many as 80 Labour MPs are planning to urge the oppositeDozens of Labour MPs in favour of Rosebank are putting pressure on the prime minister not to block the North Sea oilfield, warning that doing so could spell “lights out for Labour in Scotland”.As many as 80 pro-drilling MPs are considering writing their own letter to Andy Burnham after nearly 100 of their colleagues called on the prime minister not to allow the proj",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.6321,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0507,
+      "neutral": 0.2664,
+      "risk": 0.6828
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/short-article/2026/11/international-jaguar-day-big-cats-hold-on-at-the-edges-of-their-range/",
+    "source_id": "mongabay",
+    "title": "International Jaguar Day: Big cats hold on at the edges of their range",
+    "published_at": "2026-11-27T17:37:23+00:00",
+    "summary": "International Jaguar Day has been marked every Nov. 29 since 2018, to raise awareness of the threats faced by the Americas’ biggest cats and the efforts to protect them. Jaguars (Panthera onca) were once found across some 19 million square kilometers (7.3 million square miles), from what is today the southwestern U.S. to central Argentina. [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.5985,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6489,
+      "neutral": 0.3007,
+      "risk": 0.0504
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDVRNGJKZldvZVltcjA2YWpvRC1MbDJGNndmcUlHTGtxc19SZ3ZGYW5XbXNNb1RJdGtyZW9tVlFXelVENk1xN3BoV3k2ZjhoXy1NRnR0eWJ6cVpCcGZKQTdoVld3Q2xGQmVNMlk2dTJrRGZibEZtQXBudnFPRkoyS0lvN05oQjZWOE45WVRnYVh5dlRlekV0RGpmaXdoZktfeTc1VG03WGZMVFYw?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Climate-Informed AI Delivers 24-Hour Early Warning for Off-Grid Mountain Hydropower - Bioengineer.org",
+    "published_at": "2026-11-27T17:37:15+00:00",
+    "summary": "Climate-Informed AI Delivers 24-Hour Early Warning for Off-Grid Mountain Hydropower&nbsp;&nbsp;Bioengineer.org",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.0447,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2617,
+      "neutral": 0.432,
+      "risk": 0.3064
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTRBVXRLcDZEMGptVi1RYUdtdWZhV0NQTGtONGVOd3k0c29mOUJFMGJzcXQwWnZPYVRPOHlhREo3aVUwMUNyMFdHTzFEUDRXSFBPdURHZDNPdmhjRkNkZENDRXQ0VnVILWloWWVncHB4VGtkTFdLWTRtSk1PNDVoRnU0SnQ4UW9faU5kclBHTmhNY0FTV0Z1Qk5qQ0FWa3RSWWd3UTY1SQ?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Cop31 president slams EU and defends climate summit that ended without a deal - The Independent",
+    "published_at": "2026-11-27T17:37:00+00:00",
+    "summary": "Cop31 president slams EU and defends climate summit that ended without a deal&nbsp;&nbsp;The Independent",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.0412,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2024,
+      "neutral": 0.5541,
+      "risk": 0.2436
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFZuUnRnczNHOGpERFdmejZOa2dlSG5Tenh0WmVaa2hQQUcwTWhCZ0JrQy1WaC0yZXB4WnJweWRPSV9rZUdBSlBOSnpES0tFaWlfaHpGNHU0UVBUbGZPYUJ2UTN3MGtLNDFnSnliUnlhMzdRYnNZR3pDN2lUaFZpUWJtUTc?oc=5",
+    "source_id": "google_news_climate",
+    "title": "When and where storms could slow your post-Thanksgiving travel - CNN",
+    "published_at": "2026-11-27T17:27:36+00:00",
+    "summary": "When and where storms could slow your post-Thanksgiving travel&nbsp;&nbsp;CNN",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.7273,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0586,
+      "neutral": 0.1555,
+      "risk": 0.7859
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+    "source_id": "guardian_environment",
+    "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
+    "published_at": "2026-11-27T17:21:18+00:00",
+    "summary": "Greenpeace publishes report showing tech firm is continuing to build despite planning appeal still unresolvedBelgian authorities have ordered Google to halt construction work on a large datacentre in the south of the country because the US tech firm’s requests to modify the original terms of the planning permission did not have approval.“Inspectors visited the site and observed that the building was almost finished, with the structural work completed, even though the permit had been refused,” Ra",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.3325,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.134,
+      "neutral": 0.3995,
+      "risk": 0.4665
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaU9vQjA2N0Y2SFdxd0RoT3luQTF0M0pqVWYzRzBadm9PUGtyTVI0Q1NTMWhLbW9rTXJtQmlTMHdNN2hnTmZ1U2R6d2VNUkZnbEo0aUFSMGNldXFtbDEwNDdiYXFNdlIwVXBHWXJmOFNUQkFqTlFkNWxKX0N0dnhLclVBUXUweV9xbGNHS3Y4VWI3amdWd0hOX1N0Qm9QWnVxSjVsNXQwbGhzbUFKTW0wdnRVX21xazlMVmc?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Nearly 400 glaciers have vanished across the West as climate warms, study finds - TahoeDailyTribune.com",
+    "published_at": "2026-11-27T17:11:04+00:00",
+    "summary": "Nearly 400 glaciers have vanished across the West as climate warms, study finds&nbsp;&nbsp;TahoeDailyTribune.com",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.5499,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0739,
+      "neutral": 0.3023,
+      "risk": 0.6238
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeUJUS25vTEtFb3J0OUwtVW1aTkY0MmJHZ3oteWdjRDM0d2NfeWNSNTlqN0tFMDl1czBJT3lleTdndDl0WjJUNjhaM2xwSzRfODhjd0hVQUJNUU9hLVRXc1R0cGkwSldRSmJITHNtbTQ0R29HOVkxX2VCQmZfUHFkdzRWSVAzRUtNRFFBUlZveDBoazZFcmVB?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Catholic alliance criticizes breakdown of COP31 climate talks - EWTN News",
+    "published_at": "2026-11-27T17:00:00+00:00",
+    "summary": "Catholic alliance criticizes breakdown of COP31 climate talks&nbsp;&nbsp;EWTN News",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.1764,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.14,
+      "neutral": 0.5437,
+      "risk": 0.3164
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmNBYjczNFZNdk1GaGowc3hMZkNuc05ldjZVY1lwLXNRSUdpOE4xeVBURnduTE1HM2tQZGctUlh3UGxZUjF1ekp2aTJPLUtDNFFIU1VyUmNlZS1LVklBZmZIM3NWWjdHVEhtamFmMUlESmlPNTRzMWZMTW9uSUhHeEJ4NEVlcTNrNF9EU2t3RnFlRkM0NXpIWkl6ejRjVzFDVmNoSXVEbEZzOEpxdVdMdTFza0w?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Quantum-Enhanced Transformer Predicts Long-Term Wind Farm Losses From Climate Variability - Bioengineer.org",
+    "published_at": "2026-11-27T16:52:14+00:00",
+    "summary": "Quantum-Enhanced Transformer Predicts Long-Term Wind Farm Losses From Climate Variability&nbsp;&nbsp;Bioengineer.org",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.9124,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0126,
+      "neutral": 0.0623,
+      "risk": 0.925
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdHFCTGx4QUptQzJJVnhGNG5fUzAtT0JkTjhWQkRPQWswcy1MMk9YeVlkV0dVSHJNbjFZa21teTgzQ01WaFA3MXhZazVMZkczU2xGM2RsZ25iSkgzc053dDlYOUFJWTRZd09ZSjZhZmhkUHlSUkNEOXg5VlQzdUlwb3RkcU1WRHpUMklXS3d4UVBocXVjS0FYOEhwNHRLa193NWRrWDZGeTNwUWdVZUdMb0pROEJWcW5ydDQwdg?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Geospatial Framework Assesses Climate Vulnerability Across US National Park Cultural Landscapes - Bioengineer.org",
+    "published_at": "2026-11-27T16:41:15+00:00",
+    "summary": "Geospatial Framework Assesses Climate Vulnerability Across US National Park Cultural Landscapes&nbsp;&nbsp;Bioengineer.org",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.2226,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0974,
+      "neutral": 0.5826,
+      "risk": 0.32
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjJoMHFBbHhvQUllMkVQbUdZRGxfYnQ5ZFU0bTEzVEZleG9nYUdSdUcwVlkzUVhTWmJ5MEF0VGdLTm51NG1ZYWtoZW51bC1TVTJFX01Sdk44Uk5tWG5KcDRIWUFCM0lEZk1LYUlFZ3hwZDhyQzFGV2poQWNjc3pxS0F0Uko?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Opinion | Are We Out Of the Woods on Climate Change? - WSJ",
+    "published_at": "2026-11-27T16:37:00+00:00",
+    "summary": "Opinion | Are We Out Of the Woods on Climate Change?&nbsp;&nbsp;WSJ",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.4838,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0159,
+      "neutral": 0.4844,
+      "risk": 0.4997
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbnpwaGVXRDZoQnVoZmdxTTNwdExUQkQ3Qnp5WEowZF9DTHVlaF96U29scjZQS2xKR2k4bVZTYks1TTlCWWFwajRHXzZKMUVRWTBRN0o1M09BcWZNTVlYN2l0cjFtaWZWcWFoYmZuMUJOWWlFejlzSV9qNVR1UEVrZG5oSXdmRm1sekE?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Climate change could expose underwater internet cables to fishing damage - Tech Xplore",
+    "published_at": "2026-11-27T16:20:04+00:00",
+    "summary": "Climate change could expose underwater internet cables to fishing damage&nbsp;&nbsp;Tech Xplore",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.9579,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0089,
+      "neutral": 0.0243,
+      "risk": 0.9668
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMLXhiVWxkTWVfUV9RZWM4VGRIeklvZHpOWGJhVEoza3NaS013Unh1YXhTVkc2ZGpjUUplMV9MS2w5NVZjZ2F4YW5DeHlxOUtJRjVtS05QWjdnY3FVTHBWTWplaHU1dE9uV18yQ1E5ZjFxNjh3cmN6VDl5MA?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Facing climate realities after COP31 - International Viewpoint",
+    "published_at": "2026-11-27T16:18:28+00:00",
+    "summary": "Facing climate realities after COP31&nbsp;&nbsp;International Viewpoint",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.1382,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0458,
+      "neutral": 0.7702,
+      "risk": 0.184
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORkw4dTNHVzZlTl9PYU9wWkV2cXcyYXBjNUtreGVLUnFLQ2dtZ0J6TkdibGxaLTBnaXlXUmRvNnJ2alktM3JscE1qcTNWcmc5dTBKSEUwQWtnVVBHUGRnVW4zemkwaFJDVDl4S3M4WVZLQk54UF95a0xvZWU5VmdrU0pNMFdDeTZCQjM2Ug?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Who should pay for climate change costs? - Yahoo",
+    "published_at": "2026-11-27T16:14:39+00:00",
+    "summary": "Who should pay for climate change costs?&nbsp;&nbsp;Yahoo",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.4564,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0452,
+      "neutral": 0.4532,
+      "risk": 0.5016
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNjVVYmQ2ZDdGaDFTekZjdGRVOFJjanlyQUlXRV9jc1NSZi13LVk1VDlTTkhudjZyNjUwblMycWNaQk1nX3dlMGluSXhFcjRZY19xM0VVS0Vqa2ZwVU1pdm1PT3dodko4S3lEUDVZYnVTTUdWU2ZDVkxIenI3WUkwLXR6Y05la01pcmRPMHhhMzBHZUV4Um9yWExjM3VfUGpNUFMtSkw2cVk5ZEpPTWVuRnBLUGVCY1VGcTFKSA?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Flood-hit Nepal faces gap in climate solidarity after COP31 letdown - Climate Home News",
+    "published_at": "2026-11-27T16:14:23+00:00",
+    "summary": "Flood-hit Nepal faces gap in climate solidarity after COP31 letdown&nbsp;&nbsp;Climate Home News",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.5041,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.127,
+      "neutral": 0.2419,
+      "risk": 0.6311
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHhDQ1JUOFJpN0Jiemg3bzVZZG9RcWVkZ0ZFdmtGbnEzRkQ0ajVwaF9JZDFCMXV5R1JDai03QU82c1FjNjdhaUFFdWY1TmRoSDFjRWNwTDJmWGxnaS1LZi16alNXb3JCNkh5SzFHVGE2R25hZDlaN1JoNk1hQldxUmxnRGg2RDZWczBhM1FiNkhPMzB2cks0Tjc0cw?oc=5",
+    "source_id": "google_news_climate",
+    "title": "How Risilience Turns Climate Risk into Operational Value - Sustainability Magazine",
+    "published_at": "2026-11-27T16:11:17+00:00",
+    "summary": "How Risilience Turns Climate Risk into Operational Value&nbsp;&nbsp;Sustainability Magazine",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.828,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0196,
+      "neutral": 0.1328,
+      "risk": 0.8476
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc3VnWktudVJNaHJwYWpiZFA3TDJYWGNTR2wxVGlMR2h2MThVcDZyTnNoY0Y5M1JJTlJfdjZjV1RDZFd1M0VTbDRDSWxGd0ltcjNzbnVoRF9Mdlo0ZGdvZUI3d3JqQkp4T0tJTXdJbDczb2M3VmVBSUljZTdHU2lLa204LUZuQ1BQbnZhNFFUVFh1OXdPYjFnX0xUWWN3eWVOTjdGcg?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Can a Deck of Cards Inspire Climate Action? These Catskills Artists Think So - Radio Catskill",
+    "published_at": "2026-11-27T16:06:13+00:00",
+    "summary": "Can a Deck of Cards Inspire Climate Action? These Catskills Artists Think So&nbsp;&nbsp;Radio Catskill",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.7657,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.7869,
+      "neutral": 0.1919,
+      "risk": 0.0212
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+    "source_id": "guardian_environment",
+    "title": "British Gas owner seeks urgent government talks over future of storage facility",
+    "published_at": "2026-11-27T15:56:32+00:00",
+    "summary": "Centrica boss memo to 400 workers at gas plant off Yorkshire coast says utility doing all it can ‘to save your jobs’The boss of the British Gas owner Centrica has told hundreds of staff at its largest gas storage facility that he was seeking urgent talks with Andy Burnham and would do everything he could to save jobs.Chris O’Shea, the chief executive of Centrica, reportedly told staff at the Rough gas storage facility off the east Yorkshire that the government had rebuffed the company’s plea for",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.001,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2446,
+      "neutral": 0.5117,
+      "risk": 0.2436
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUTNIUTBoUVQ0YUZCWkx0NXJKd0JOSE1Wa01tZHRPZlNMZU5YVTEybzVWY1lROVhYQ3g0Qm9zOHFNZmVCT0tTZlFKZ0NlU25YX01WTWRCb1lNNVVkcDE4WkxHMVEzOVpSbUtVQWR4elJENmQ4U0V3d3Zzc1FkX2UyM3I5VlNNeEpwY1lPMjlSTVNLV01RcXk2UDdTaEw5Mk9xXzRvUzYwMVJrQXRtSjQxag?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Restoring yesterday’s landscapes or preparing for tomorrow’s climate? - Open Access Government",
+    "published_at": "2026-11-27T15:52:51+00:00",
+    "summary": "Restoring yesterday’s landscapes or preparing for tomorrow’s climate?&nbsp;&nbsp;Open Access Government",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.5274,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5783,
+      "neutral": 0.3708,
+      "risk": 0.0509
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkbktlOVpjZ2RLMmZsM2V3QnZ2Qk9DQVptM01JNXJXV3VqNV9fMEVVUTRtMkpiSTF3Yl9CUFRMN0ppTWx1TFlNSDlGWVFkUXFUX3A1WTl0M1RmT3lMazVOSnk2UHd1ekhTR2RsUGVKN0lNVlUxc1RQWFVqbFpiZWM?oc=5",
+    "source_id": "google_news_climate",
+    "title": "THE TASK AHEAD AFTER COLLAPSE OF CLIMATE TALKS - PressReader",
+    "published_at": "2026-11-27T15:37:42+00:00",
+    "summary": "THE TASK AHEAD AFTER COLLAPSE OF CLIMATE TALKS&nbsp;&nbsp;PressReader",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.1657,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0584,
+      "neutral": 0.7174,
+      "risk": 0.2241
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/2026/11/refugee-families-use-agroforestry-to-restore-degraded-landscape-in-bangladesh-camp/",
+    "source_id": "mongabay",
+    "title": "Refugee families use agroforestry to restore degraded landscape in Bangladesh camp",
+    "published_at": "2026-11-27T15:32:02+00:00",
+    "summary": "KUTUPALONG REFUGEE CAMP, Bangladesh —&#8221;It is like a jail, but it isn&#8217;t a jail,&#8221; says Roshid Ahamed Bin, a 47-year-old Rohingya farmer, living in what is now a refugee camp in Bangladesh. It is far from the farmland where he used to live in Myanmar, before he and thousands of Rohingya people like him fled [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.041,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.3093,
+      "neutral": 0.4223,
+      "risk": 0.2683
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/stage/2026/nov/27/play-12-year-old-ecojustice-influencer-wins-shakespeares-globe-prize",
+    "source_id": "guardian_environment",
+    "title": "Play about 12-year-old ecojustice influencer wins Shakespeare’s Globe prize",
+    "published_at": "2026-11-27T15:30:14+00:00",
+    "summary": "Timothy X Atack wrote Tiny Alarms after workshops with children, who felt theirs would be the last generation of humans Tiny, a 12-year-old schoolgirl, is an ecojustice influencer, whose funny and disconcerting takes on the climate crisis go viral. She is also an alien, sent to warn humankind of its impending doom – but her mission is far more difficult than she anticipated.This is the plot of Tiny Alarms, the first winner of Shakespeare’s Globe’s new climate playwriting prize. It was inspired b",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.6553,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6924,
+      "neutral": 0.2706,
+      "risk": 0.0371
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/2026/11/in-republic-of-congo-residents-and-a-scientist-take-on-a-fight-against-lead-pollution/",
+    "source_id": "mongabay",
+    "title": "In Republic of Congo, residents and a scientist take on a fight against lead pollution",
+    "published_at": "2026-11-27T15:19:59+00:00",
+    "summary": "Nearly 120 residents of Vindoulou, a neighborhood in Pointe-Noire, Republic of Congo, have filed a civil claim before the city’s High Court in relation to pollution allegedly caused by a foundry. “We want tests, but also compensation for damages and losses,” Cyrille Traoré Ndembi, a plaintiff and president of the Vindoulou Residents’ Collective, which represents [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.6266,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.066,
+      "neutral": 0.2414,
+      "risk": 0.6926
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDhtSlRYblpMWGxQYVpDQ05GUmZZbkVVNXNNbW5YTkkwMmZTMFMxVTVqN2tQU2FpVklHWW1yWXN0Z3MyRHdiN1ZKb1pPOUR4dUo2NWN3SWxPYVJXQ09qek44NG9KbnF1eGlKdmhLMjBXMEREalVhLTl1UkQ3Z1V1bTV6VzRINjlzTzhSRllIWQ?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says - The New York Times",
+    "published_at": "2026-11-27T15:18:58+00:00",
+    "summary": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says&nbsp;&nbsp;The New York Times",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.1503,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2841,
+      "neutral": 0.5822,
+      "risk": 0.1338
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://cleantechnica.com/2026/11/27/perovskite-solar-quantum-dots-lettuce-water-conservation-ubiqd/",
+    "source_id": "cleantechnica",
+    "title": "The Proof Is In The Lettuce: Perovskite Makes Things Grow Better",
+    "published_at": "2026-11-27T15:17:54+00:00",
+    "summary": "Greenhouse lettuce thrives under natural sunlight filtered through specialized glass from the perovskite solar startup UbiQD, while conserving water resources, too.\nThe post The Proof Is In The Lettuce: Perovskite Makes Things Grow Better appeared first on CleanTechnica.",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.9466,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9528,
+      "neutral": 0.0411,
+      "risk": 0.0062
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://cleantechnica.com/2026/11/27/graph-of-the-day-the-world-now-makes-7-solar-panels-for-every-tv/",
+    "source_id": "cleantechnica",
+    "title": "Graph of the Day: The World Now Makes 7 Solar Panels for Every TV",
+    "published_at": "2026-11-27T15:06:22+00:00",
+    "summary": "In 2015, the world made six solar panels a second. In 2026, it’s on track to make ten times as many. At an Australian clean-energy conference in 2015 hosted by Renew Economy Disruption and the Energy Industry conference, I posed a simple test for the solar boom. If the world   ... [continued]\nThe post Graph of the Day: The World Now Makes 7 Solar Panels for Every TV appeared first on CleanTechnica.",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.9125,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9178,
+      "neutral": 0.0769,
+      "risk": 0.0053
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
+    "source_id": "guardian_environment",
+    "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA",
+    "published_at": "2026-11-27T15:00:13+00:00",
+    "summary": "Experts say NIH research raises concerns about chemical companies’ influence on US agency’s pesticide divisionThe US government’s top medical research agency has released three new studies linking glyphosate, the world’s most widely used pesticide and an active ingredient in Roundup, to cancer. The National Institutes of Health (NIH) findings contradicts a controversial recent Environmental Protection Agency (EPA) conclusion that the weed killer is not a carcinogen, and deals a blow to the White",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.6073,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0402,
+      "neutral": 0.3123,
+      "risk": 0.6475
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/short-article/2026/11/what-kind-of-wealth-do-borneos-ancient-rainforests-hold/",
+    "source_id": "mongabay",
+    "title": "What kind of wealth do Borneo’s ancient rainforests hold?",
+    "published_at": "2026-11-27T14:42:01+00:00",
+    "summary": "What kind of wealth do Borneo&#8217;s ancient rainforests hold? Industries such as logging and palm oil have generated vast monetary wealth for some. But for the Indigenous communities who call the Malaysian Borneo home—its forests, rivers and mountains hold a different kind of value. These forests are interconnected ecosystems that sustain communities with food, medicine [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.7369,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.781,
+      "neutral": 0.1749,
+      "risk": 0.0441
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQXzJwMV9EWEpzNXFoUDdUcU4tbmVaakhiTC1OZjF0RmRpWnFxalJtcXA3MTNEa20tUHR3N29ObjBoYzhSNlpPMVBwQ3p4N3VKLWFlZWcwdTZBMk8za2hoOHJJWUFGOWVKV2VqTGxHVGg0TGVqU2hMcml0RXBIc2pmY3ZrSWYzdi1YR2l4d0l1M1RTVGRMMGU0aFhhRXBzbEhtRFl4ZXlXZ0EtSUVQeXlYWlZhSlQ?oc=5",
+    "source_id": "google_news_climate",
+    "title": "NEWSLETTER: Climate Focus: Thanksgiving disruptions as storm hits US East Coast - Reuters",
+    "published_at": "2026-11-27T14:32:38+00:00",
+    "summary": "NEWSLETTER: Climate Focus: Thanksgiving disruptions as storm hits US East Coast&nbsp;&nbsp;Reuters",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.7309,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0442,
+      "neutral": 0.1807,
+      "risk": 0.7751
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZGJHTi1sV3gxQ3ZpTGpBeHp4SXA5VHVaRmhOcUpFajNvRHdnMlZVLURJcTRyXzZjc3NKZ1RLWS0yRVZjeFFKU3pYZ0NYTDZ4bVZkZlpuVl9UczZGSWlfYmFPYmY5SXBFeHFWMFl4Q0tPRU1NQ0JPbG5EYUhXTkFsR0YwUTZOX1lZYW9uckNKUnhmcE15QmJlekQ0TThZU3F0djByakpXSUhJYU8yQTdDeWpra19zeWdGaDF4RjMyREN5bGdfODdDYzZvTjZRMVU2bTlJ?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Permitting reform has driven a wedge into the US climate movement - The Detroit News",
+    "published_at": "2026-11-27T14:06:00+00:00",
+    "summary": "Permitting reform has driven a wedge into the US climate movement&nbsp;&nbsp;The Detroit News",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.3206,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0405,
+      "neutral": 0.5985,
+      "risk": 0.3611
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/custom-story/2026/11/aerial-photos-show-recovery-of-florida-bay-us-as-restoration-sends-everglades-water/",
+    "source_id": "mongabay",
+    "title": "Aerial photos show recovery of Florida Bay, US, as restoration sends Everglades water",
+    "published_at": "2026-11-27T14:04:23+00:00",
+    "summary": "Freshwater flows into Florida Bay, significantly reduced by decades of Everglades drainage, are slowly increasing under the Comprehensive Everglades Restoration Plan. Helicopter surveys by avian ecologist Mark Ian Cook document returning wading birds, wintering waterfowl, American flamingos and threatened American crocodiles. Wading bird nesting reached a record high in 2018 but has since declined, while [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.6262,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.678,
+      "neutral": 0.2703,
+      "risk": 0.0518
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUWEydmN1ZjNzWUEzOFN5b0ZpZTY1VXV1MDY1NlEzanFRclJWY1U2WTlpcmg5V2gwODk4dzUwWDgzTDhOTnh5TjEwUENzUkJ6TTJ0SE9aV2lUcGNjb21fWjVCTThfcmo2TnA0ODJvTnotaDlqSTRHVm94UHRfQmp0UlFSWXRmb2JqdWVJUHhoMjVPSzZBV1VCQVotaEkyZEJBWWR2NmQ4MS04bGhCTEE?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Portland-area water bills have spiked, partly driven by climate change - Oregon Public Broadcasting - OPB",
+    "published_at": "2026-11-27T14:03:34+00:00",
+    "summary": "Portland-area water bills have spiked, partly driven by climate change&nbsp;&nbsp;Oregon Public Broadcasting - OPB",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.7208,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0368,
+      "neutral": 0.2056,
+      "risk": 0.7576
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/2026/11/vote-for-trees-taiwan-community-pins-hope-on-forest-grandma-to-save-beloved-woods/",
+    "source_id": "mongabay",
+    "title": "‘Vote for trees’: Taiwan community pins hope on ‘Forest Grandma’ to save beloved woods",
+    "published_at": "2026-11-27T13:52:03+00:00",
+    "summary": "KAOHSIUNG, Taiwan — At dawn, just as the birds begin to sing, Chiang Huang-nu usually puts on her traditional straw hat and walks through the wooded grounds of a former sugar factory in Ciaotou district in southwest Taiwan. Along the way, the 83-year-old might greet around 30 other regular strollers, most of them retirees. Chiang [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.8405,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8562,
+      "neutral": 0.1281,
+      "risk": 0.0157
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMy1LVXhJLUlGNHp4dkcwSDNaVU1EanhHcWdBYW9qZXVpalV0dGpwMF9lNHpuXzNrMVNId090d0UwNEp3UVloZk9FZTQ5YUFJQXp3Q1RiYlNpSUpFU0RJZ2RnN0JKZkt2S1lsdkJpdndzVUIwX2IzUTNBTHBBeGtJSXo2b29qYUlZRDJuOGVxOUUyVG5pbnY3eEtMQ3BTTDNZdFprNS0wVl9QSElYRHE5N1lENFdoeE43Z2h5Z1RhVy0?oc=5",
+    "source_id": "google_news_climate",
+    "title": "How Much Does a Failed Climate Summit Cost? For Turkey, Nearly $700 Million - Bloomberg.com",
+    "published_at": "2026-11-27T13:45:32+00:00",
+    "summary": "How Much Does a Failed Climate Summit Cost? For Turkey, Nearly $700 Million&nbsp;&nbsp;Bloomberg.com",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.6771,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.7537,
+      "neutral": 0.1697,
+      "risk": 0.0766
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ3Jucl9UZXpuelN3MUNGNlZjUHpKbGtrMV9zUnAyR01mR3NybGNvdnJ0NDdKOXA3WDB4bkRQQTJReGFhVXVyamNNTVdrQlhFaTBQWjRXWHI4dWZKTFVLckQ3dnlnWTVCYVB0Y09uMWlaYmpWVWNueEJCQ3N5VWNDSjc5bjRtajg4WC1OelcxOUdSUjFVYkFYTTlDZzdNeV82TVlRek5GX19lTG1JS0JoZG5XRG9oRDBydXVVZkVpa1FMR0syU3JzNGRDUDg?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Oregon environmentalists gearing up for another attempt at climate amendment in the state constitution - Seattle Red",
+    "published_at": "2026-11-27T13:25:36+00:00",
+    "summary": "Oregon environmentalists gearing up for another attempt at climate amendment in the state constitution&nbsp;&nbsp;Seattle Red",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.0809,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2792,
+      "neutral": 0.5225,
+      "risk": 0.1983
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZzhkRXh4M3d1anBzc0JQZl8yX1NqcnZTZGRORXNib2JSejMxRzd4M1Z4VjFybE93N2tZOThyRElCQTNHb0M2M2tyT1BCV2U1cEdKS3g2dEtURUEwaUNMLW5IZjFwdVgyRXJrcEJhZ3RLaDlqcmp5WGkxVzVPR3N1SVVTby0xZXZRbWpnS2pvdGtZdEdpNmNraF9CZFM0QklPZnk5VllfVWljSHlSbllSa1JJVkVxRERCOU5hLUl0d25FNTF1eDdwNXBlaEtrZmQ0ejkwTmVhTTFmRkNJVzhRVGpnVERoSTR1TXRmazJXczhGVWxyMHAyMlRMYjczNnFuMm9uQnlaQjVMbG9pU2QycFdiaER3d1R4QTNxTlFENGhhUWprQ0tGeUVaSGJQS3JUNEE?oc=5",
+    "source_id": "google_news_climate",
+    "title": "GEF Capital already outstrips previous climate fund by 40% with $615m first close of latest India-focused vehicle - AltAssets Private Equity News",
+    "published_at": "2026-11-27T13:22:13+00:00",
+    "summary": "GEF Capital already outstrips previous climate fund by 40% with $615m first close of latest India-focused vehicle&nbsp;&nbsp;AltAssets Private Equity News",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.9518,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9585,
+      "neutral": 0.0348,
+      "risk": 0.0067
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM0pTd2F2U2g0MFJhRmh0aUFPeDRxTmRBZm82Z2hwazVwR0hiTkFrMnZpNmk3bEExSk1oVnFfMjBacWxYUHlDX1JMa3pXc0RWMFdseGRTLUFkYmMxZ0U3cXR6TE0tZTVkNk9LS2tWWGlobS14dmRQd2hVcEVHOG1hMjRuY3pvRFRlVmszQjF4N2E?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Holding climate science hostage: inside the IPCC deadlock - Bianet",
+    "published_at": "2026-11-27T13:10:00+00:00",
+    "summary": "Holding climate science hostage: inside the IPCC deadlock&nbsp;&nbsp;Bianet",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.3922,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0788,
+      "neutral": 0.4502,
+      "risk": 0.471
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRkZEcFQzTGhXcHR5SHBqTWNIMlUzcEF0Q2RhcnlVWUFmUnVwb0gxeWFmU2ZxRFdKaVh2YVk3X05SQ0FOM2Z1c1F3ZnQ4dUNKNndsSWNYS0JMLWZrNmJPMlJoQUY0azlpVHpJamFhQVlndXVuMG1jWF9QVVhlVWREeUx6OXNEZExqb3dzczRKRmpkMmxCcHBjd0FhekdhZ3dYVUtzLUdvUHhoczlGdm5qODNncWtnd1BxenJDazh6VnlINWZTMGx5UVl5LVlnR1Zoa2lYa25qRnljbnpLeHh6RHJmdXZKUlRLSUFqUm9mTXB5RzQ?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Climate Box for Every Level of Education: UNDP Discusses Adaptation of Climate Materials with Kindergartens, Private Schools and Universities - United Nations Development Programme",
+    "published_at": "2026-11-27T12:44:53+00:00",
+    "summary": "Climate Box for Every Level of Education: UNDP Discusses Adaptation of Climate Materials with Kindergartens, Private Schools and Universities&nbsp;&nbsp;United Nations Development Programme",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.2568,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2921,
+      "neutral": 0.6726,
+      "risk": 0.0353
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwUldMNFdwYXZRR2pveDREemxCVlZjbTRDNFBKaTE0M19tNnYyUnlJWFk4RjZmLTZfRHo1MnBod25maVl2a0hqc2ZPQXJDc0JJMUpTdnhINV9sb1k4OTR0T3B3S3hwdmhGLUNFejMtdFZzdw?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Opinion | We Are the Rising Tide: Climate Justice Beyond COP31 - Common Dreams",
+    "published_at": "2026-11-27T12:43:51+00:00",
+    "summary": "Opinion | We Are the Rising Tide: Climate Justice Beyond COP31&nbsp;&nbsp;Common Dreams",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.3768,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.4209,
+      "neutral": 0.535,
+      "risk": 0.0441
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/",
+    "source_id": "mongabay",
+    "title": "A tiny deep-sea fish eaten 42 years ago has now been named a new species",
+    "published_at": "2026-11-27T12:40:25+00:00",
+    "summary": "A new-to-science species of deep-sea fish has been described from a single specimen found in the stomach contents of a predatory fish that ate it in 1984. The specimen sat in a Tokyo museum collection for 42 years until it was examined by museum staff and volunteers. The newly described deepwater cardinalfish (Epigonus masamunei) has [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.7108,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.7466,
+      "neutral": 0.2176,
+      "risk": 0.0358
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmJxcEJzdEw3d0FYMWZuRmhGMExlMkVoRm5UdDJBQkxpRHJWSzlkQ3hMdjJtMjFMSElxeXdxX005Vks0bU4xX08xSlNjaWZwQ2dGV0RpYVZ4RXpBWlJiUTg2dktuOWltd1F4cHNXNG5uMDJ5RXZMMkhxRjZ5ZVJuRFhKaUNnRnhvRGR2T2pCLXQyYTdUYlF1ZTZuTFNIMDhoOTZoQ3VwTXg2SnZ4?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Proposed Wetlands Bylaw Revisions Address Climate Change - Cape Cod Chronicle",
+    "published_at": "2026-11-27T12:39:40+00:00",
+    "summary": "Proposed Wetlands Bylaw Revisions Address Climate Change&nbsp;&nbsp;Cape Cod Chronicle",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.0273,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1287,
+      "neutral": 0.7153,
+      "risk": 0.156
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2t3TDZzQ0Uxd3BMWG1VTEhWRTRjdjNmRnliTVVDWDVQZXF4d2JSa1NRRGZXWHdSU0NfSWxVT0N5MnpBeEZnNUNrVEtPRDkyanZQMkZFU19nYWdqS0RUREhRai1RME1lbmVWZGRzMTJYYVdCZUh3TThwbUd5elR6UlFWVTB0ODJ4a1NkMTB5aTdDWDYzaHpRa0l2eWlqbVd5ZTBUd2M4QlBtSlJOb0RRUkl4ekg?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Himalayan Birch Shows Divergent Climate Resilience Across Eastern and Western Populations - Bioengineer.org",
+    "published_at": "2026-11-27T12:11:57+00:00",
+    "summary": "Himalayan Birch Shows Divergent Climate Resilience Across Eastern and Western Populations&nbsp;&nbsp;Bioengineer.org",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.0991,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2114,
+      "neutral": 0.4781,
+      "risk": 0.3105
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmEtV25HR0pzT3ZCY0VRcGZJWjNjelotRzlKNkhtSi1fQVBBR244QjJpRFFWLXFDOFM1U2dyNEpFZFdMT0RXX1EzWnZIakJjR3BRdUlQQTVWdlNmMHVTOUlkNGhMb2hKOHU5YzdZdlpjaV9yVlJ6VmRtVFVMLVVWSTUzTEU0OFY0TkNaeWppdFZ5b0RJUU1ucVAxWTZ2XzBmRGlzRVRZZw?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Cobb climate summary & weather forecast for Friday, November 27, 2026 - Cobb Courier",
+    "published_at": "2026-11-27T12:10:41+00:00",
+    "summary": "Cobb climate summary & weather forecast for Friday, November 27, 2026&nbsp;&nbsp;Cobb Courier",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.1239,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1768,
+      "neutral": 0.5225,
+      "risk": 0.3007
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM25ZNHVMMFFReEtsSnJPMW1HNkVzejBSa2pXcWJWNm5TeW5fUEIwT0tqZWE0dzhDREZpbk94MHF5ZTdWTEhvZ3NxNERNOXFzbHNmRTBIMnVCRG82RUxMY1pDZUVubG80X0tialZmN0o5MGxTSlZVMGk5THN6TktuU1dvZ1VwVmlIRXVOTG9XeUJOTEFFVTJSR05QenE3bUNkaUtuY0pubVJFcFBfdzFzSkJhTTRod2RR?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Inklings | Killer robots, COP capture, and WFP’s changing climate - The New Humanitarian",
+    "published_at": "2026-11-27T12:09:17+00:00",
+    "summary": "Inklings | Killer robots, COP capture, and WFP’s changing climate&nbsp;&nbsp;The New Humanitarian",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.3686,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.4599,
+      "neutral": 0.4488,
+      "risk": 0.0913
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkk1X2JqRS1Oc3NYNmVhdEd3dlpQbnBDYzdIRU51dW5uXzJHaXp6alp0TGU0Ui1NMkFMQ2FtV2pWcjNMMFJ2NzhPVGdpbUhPeTFEajV1dTJOc0wtdWtZdlE2QlYxQlIzeGFtY0lvWnEyQzNVa3Z6QUJzYnQySEtfTlBNRHRFWndTTklMaHdLc0tybjBQUF9rR3NrejJtYlR3dGE3bWxSNFowR213Z3FGdnpZWlliY0VnU05oa01PYU0zeTZOMVhUcUpR?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Policymakers should deal with commercial banks if they are serious about climate action - Sustainable Views",
+    "published_at": "2026-11-27T12:06:16+00:00",
+    "summary": "Policymakers should deal with commercial banks if they are serious about climate action&nbsp;&nbsp;Sustainable Views",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.0495,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0328,
+      "neutral": 0.8849,
+      "risk": 0.0823
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc1FKQWd1amh3bVhITWdtTWhiZlFfRml5MVRNbkNLcG1ISTItdTgtdkM3UHgtREJIWmMyOGxZMnhZTVpUR0M0UTRvbHgwUlFYYW1iLVZnQ1JqY09kZ2IwdC1MZk5jbzJYd09aQURjZVpCTXhxWmtRaWkwQTdZYWQzMGdaeVpaNV9VV0J0Y2hjS0s4Z9IBkAFBVV95cUxNaFNKTTlGZDdHUnlHUGZuek9tYV9fVnY5SVI2N0dpRndxSkZVZ2V5SWtWd3B5TlNDeExNcGx2Q0dHUFZUUHZiZC1UdXpPLVQ5b095MHFDaFUwdnRFUkxEbHQxTUVMSnN4eDdxNklic0hESnpXUE16c0NVTVNPaVA4aU1mbnMzbEpvS1BKMThmdWk?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Scientists used GTA V to model the consequences of climate change - Українські Національні Новини (УНН)",
+    "published_at": "2026-11-27T12:03:10+00:00",
+    "summary": "Scientists used GTA V to model the consequences of climate change&nbsp;&nbsp;Українські Національні Новини (УНН)",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.4033,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.05,
+      "neutral": 0.4967,
+      "risk": 0.4533
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzZUQV81YjhTWG9MTTFmM2dCQU1sbHVVa3RGa2J1TmR5TXk2TkY5bHRtVy1iQkRiZXB6MkI2eXRjV2xqbWNlTXJjYmVVZ0pqZ1VTNzQ4TThaZ1ZuMzhxemQ2YXpMSUViQnYtUmpZV2Q4ai00U0VxOFZHMU10OVkzRFYxUmktY0xLTUhTakVHam1wN3NzNE0tak5Ic0NrQjBOelRva1EzMFFyRGVKN0E?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Tom-Toro—Kid’s-Table-YCC-FINISH-11-19-26 - Yale Climate Connections",
+    "published_at": "2026-11-27T12:02:19+00:00",
+    "summary": "Tom-Toro—Kid’s-Table-YCC-FINISH-11-19-26&nbsp;&nbsp;Yale Climate Connections",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.3691,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.4163,
+      "neutral": 0.5365,
+      "risk": 0.0472
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1FQS0N0ZldkelVvckJ5c3ZfQjUxN0hlRkYzQTQ5dTRVY1BXOG9VVWtGcGdTcUVwRmlJTVZRMjZSY19yNVVMdzhRemxXdkxRWjVqUlhfdU5zV29nSG5BWHpnV0g3YVZlcXVGLW9xQkoyYjc3OGowUWRGY2tFNnVlR0dpQ1FqRUE4UzlEQklyZVNGUmZjc0pfT1JRYU85bTk5c3I4OVBYUWR6RFBsUTRPVnNZVQ?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Screenshot - Yale Climate Connections",
+    "published_at": "2026-11-27T12:02:18+00:00",
+    "summary": "Screenshot&nbsp;&nbsp;Yale Climate Connections",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.2403,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.3547,
+      "neutral": 0.5309,
+      "risk": 0.1144
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://yaleclimateconnections.org/2026/11/ringed-seals-face-habitat-loss-as-arctic-ice-declines/",
+    "source_id": "yale_climate_connections",
+    "title": "Ringed seals face habitat loss as Arctic ice declines",
+    "published_at": "2026-11-27T11:59:00+00:00",
+    "summary": "The small seals are adapted to living on the sea ice of the frozen north.",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.7056,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0472,
+      "neutral": 0.2,
+      "risk": 0.7528
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHNiUHBKS28taHRQMjNzc1BfWGpadGRHQ1lpcE5xbTF0SzhVNTc1aVJOV0RmZnBwNGxyajZsX2JYMklzWmFoREdIUXZfTDlQYVI4a0ltWnotQ2V3WnREa24zMzN2YkJ5ZEVOU2x4SjBSNlktclF0Tm5kZjBLRnpNc2lmYkNIc1dwVVU1Z2hYbHl0bzBrS3BjenY3bUlSaEt0S3pvMGRUdkFDOWU2eXhVTUN4WTB3X1NJd1FXTjVBMkswRUIySzQtRUtZdGM?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Uzbekistan Strengthens Regional Cooperation on Early Warning and Climate Risk Assessment - United Nations Development Programme",
+    "published_at": "2026-11-27T11:44:30+00:00",
+    "summary": "Uzbekistan Strengthens Regional Cooperation on Early Warning and Climate Risk Assessment&nbsp;&nbsp;United Nations Development Programme",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.2547,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1243,
+      "neutral": 0.4967,
+      "risk": 0.379
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW0wSnpQVFk0Y2l6VDdaM2RZbzN6TjJud1hXZWpZQ2JQMDBVZjU4Ulllbi1yYjJySWZqQ1NhSU9oZ2tNVWNzYzhVVVFLbDdINTNnRl9qQV9GZ0xiR2xaV3V3NjJqbUwzczhCU3NYUHVTbjVpemkxTVozVzNJbVdZWXYzcENmai1RYVNsZUZSdHBhUDBHd1I1NXlmS3NCTGdYdHkySDlhQWp0aGhnQkx6S3NB?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Turkey Spent Nearly $700 Million to Host Failed Climate Summit - Bloomberg.com",
+    "published_at": "2026-11-27T11:36:34+00:00",
+    "summary": "Turkey Spent Nearly $700 Million to Host Failed Climate Summit&nbsp;&nbsp;Bloomberg.com",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.8237,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8518,
+      "neutral": 0.1201,
+      "risk": 0.0281
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHN2dElDUm16RnZtcXNVZi1NcjNSNnJTRWMxcFhMZklSLUx5NFY4cEx5ejFkejU2UHZUQXU3dVdfVHhlQ0JVY1FtTk1DczNteDJINkxleE5uaDIzM01Pc2N0Z2FQSDRDLXVIVHl3V0lYdVdXeWFYODd4UU9wYTlkc0JFVUc5YlhMamt6NHBYTTlHbHRzMXBXMUZTVi13RDNXT1c4UWh2b2xtTlhURE5nVjhR?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Partners Capital eyes climate-related stress, sees credit GPs diverging on ESG - New Private Markets",
+    "published_at": "2026-11-27T11:20:55+00:00",
+    "summary": "Partners Capital eyes climate-related stress, sees credit GPs diverging on ESG&nbsp;&nbsp;New Private Markets",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.8929,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0078,
+      "neutral": 0.0915,
+      "risk": 0.9007
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kRDBPM3pXZFBKN1hTOE0tUm14N09JMkZhaUMwdm1vQjFFX0VSOXRta2lNZWRNS2dGcDlKaWVxa2tlX2xORFpGTTU3Zkw1eUpRaFhualhIbTNGTGtLN0dR?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Tree species diversity shapes forest resilience across current and future climates - Nature",
+    "published_at": "2026-11-27T11:16:52+00:00",
+    "summary": "Tree species diversity shapes forest resilience across current and future climates&nbsp;&nbsp;Nature",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.2205,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.4175,
+      "neutral": 0.3855,
+      "risk": 0.197
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uMHRxNHI4SV9lMFMteTQ2TThrMkFpUVRlaDRSdWUxZFk3YUxMZFJjNVpoR2paVFVaQ2VwZzVOOGpSUGpTVXRPR2tOenpBUUJvZVJCaVF5ZEFTRElJejF3?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Frequent co-occurring atmospheric phenomena amplify precipitation extremes - Nature",
+    "published_at": "2026-11-27T11:16:48+00:00",
+    "summary": "Frequent co-occurring atmospheric phenomena amplify precipitation extremes&nbsp;&nbsp;Nature",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.8346,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0251,
+      "neutral": 0.1152,
+      "risk": 0.8597
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hekdOZlp1NVVLV3Q2ZWUyVWo1aXRUUDl3cEY2UGFBV1BubmRQNHREWTFVSnl1M09HdEpYN1RHZTlEMWFscERfYWZ0cVZvdnRPUi0tTldtYkdTUVhqT0JZ?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Climate change signals for adaptation action - Nature",
+    "published_at": "2026-11-27T11:16:44+00:00",
+    "summary": "Climate change signals for adaptation action&nbsp;&nbsp;Nature",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.0337,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1534,
+      "neutral": 0.6595,
+      "risk": 0.1871
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9heHR3T2JmRllLekNzSmQtWEVfNlJtMi1tRXU5LXFtQXVSdTVmSUlqdzJWNUR0Sm9hcTVFRmwtRkhEWjlvRWMtUTliN2s0ek51aXdLajh0dDRDM3FnOFg3LXhqRGpWYzd3N1l6Mk11ZlVmbVYzODhmalhqUQ?oc=5",
+    "source_id": "google_news_climate",
+    "title": "The US climate scientists who left - DW.com",
+    "published_at": "2026-11-27T11:07:51+00:00",
+    "summary": "The US climate scientists who left&nbsp;&nbsp;DW.com",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.0467,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0572,
+      "neutral": 0.839,
+      "risk": 0.1039
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/2026/11/whales-return-to-patagonia-but-face-new-threats-in-argentina/",
+    "source_id": "mongabay",
+    "title": "Whales return to Patagonia, but face new threats in Argentina",
+    "published_at": "2026-11-27T11:07:04+00:00",
+    "summary": "Whales are coming back to Argentina’s coast. Decades after commercial hunting decimated their populations, different species of cetaceans are once again repopulating parts of the Argentine Sea. Scientists are now monitoring this recovery through new sightings and technologies that track their migratory routes and feeding grounds. While the growing whale population offers an encouraging sign [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.4405,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.571,
+      "neutral": 0.2985,
+      "risk": 0.1305
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTUx2OTBhTDFCM1ZyRVpoR3pBTDJpLTlzdFgxcGV0YVZiczZtUzVxTVUyTFNiX00xemZueExHa0FOVHo5MV9WOWhzZ3I3aWVHM0trUWlpN0dFcW9rMnhfZjg2YTRqTzVWUVF3bGdxMUtTNGY1dWRkdVM3RWJIQXBheGVTb0VoM1kxTUZRUXVTRnNfRlEzR0s5RXptd2FOd1N4OXU2ZTRJcklWLWdIdk1PTnFXUWMtUnpYWWJobk1WNUFhVjJtWTJhVmFQSjRUQS1EYllJa3hLd2ROR09xcUNIYkRMY1BnUmVoc1VNeGVLUzNILWUyb1QxRnZ3bnYwNGJCVXZJ?oc=5",
+    "source_id": "google_news_climate",
+    "title": "RI is seeing heavier summer rainstorms. Climate study explains why - The Providence Journal",
+    "published_at": "2026-11-27T11:06:00+00:00",
+    "summary": "RI is seeing heavier summer rainstorms. Climate study explains why&nbsp;&nbsp;The Providence Journal",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.5278,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0722,
+      "neutral": 0.3279,
+      "risk": 0.6
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGVVT0JVMUVUcDRmVjc4TU43ekZoRGpGYTZXZ0c4c0pXVXhKRHVIYXBqWmw1c3lkaUc5N2tRTXlvMm44MTJ0WWRaUERqeW9EWlliUkNjYS10ODlCdGdJQ0FvejZkXzNOazF6UlBLZ2hiR3loYzI0RXgxTUEyLTZQM05ST1hiTWY5RFZlWEVKMmNwX183M2RzZmM5MlpXWmlHNVQycjFmOHBKMlhVeDkxUmJMNkZyY2M?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Permitting Reform Has Driven a Wedge Into the US Climate Movement - Bloomberg.com",
+    "published_at": "2026-11-27T11:00:08+00:00",
+    "summary": "Permitting Reform Has Driven a Wedge Into the US Climate Movement&nbsp;&nbsp;Bloomberg.com",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.0045,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1578,
+      "neutral": 0.6888,
+      "risk": 0.1533
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOVBvaG50OV9qLTVMa0NIQmJFaWtBWTdxcUViaEVfS3YzZWI4ZXlQX2wwSlVhaGw1SmtmcE5QMDlwakpjUkdoc1VVbVFleVNLdDFkMGd5M2xCVkFVUm1fNW54YVQ0em56SkpMNW9IeXIwREdxRFkzTDRKbmNpa0FzNzFBNFVNdW10dHFzb3lZZDE?oc=5",
+    "source_id": "google_news_climate",
+    "title": "The U.N. Climate Talks Were a Disaster. But There’s a Silver Lining. - The New Republic",
+    "published_at": "2026-11-27T11:00:00+00:00",
+    "summary": "The U.N. Climate Talks Were a Disaster. But There’s a Silver Lining.&nbsp;&nbsp;The New Republic",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.5255,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0568,
+      "neutral": 0.3608,
+      "risk": 0.5823
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2hRM2VXSWMwQkRqZ3A0WXllR01wU19HaFZRM183RkoxSnk5dGdIVUNYbldoak11enhpc3RrT2JBR0xjQzFjZUptWFdSWnBrRGFsUVo2VmhGckc1TU9JSF9SWEM1emt6cDVmei1aYnE5T3RTRmtlWnRsSVc2X25PdFdiWkQwVGFWU3c0bnZpd1owQXNGUUx0UGFub1hPQ1ZT?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Scientists Use ‘Grand Theft Auto’ to Model the Effects of Climate Change - WIRED",
+    "published_at": "2026-11-27T10:30:00+00:00",
+    "summary": "Scientists Use ‘Grand Theft Auto’ to Model the Effects of Climate Change&nbsp;&nbsp;WIRED",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.3813,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0473,
+      "neutral": 0.5241,
+      "risk": 0.4286
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckRnSjg0WkFCNFFaRGZSYndZendvWnd2R3pEX3JuNTg4VFRCcDE5MTU5eHlZZC1aN1pXbnhCREpCVldFelM1NzctdDJCWF96Z0R2ZXZLTzVYcHlpaS1ZbmJpMk9sblpZS3o3RUdOS1RBMjVwQXZ4ZHFtdk11VXp4RkYxRGpWNllmTFZtbzVXY09pV0hpcm84U3k1U1JYeXZIN3otQjV0TlRZV2ZzNjlzRDFUZjNUd3J6SzVOTERrMVo?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Climate change could dramatically alter habitats for Britain’s birds of prey – new research - The Conversation",
+    "published_at": "2026-11-27T10:29:28+00:00",
+    "summary": "Climate change could dramatically alter habitats for Britain’s birds of prey – new research&nbsp;&nbsp;The Conversation",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.9305,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0084,
+      "neutral": 0.0527,
+      "risk": 0.9389
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/short-article/2026/11/zambian-court-again-delays-copper-miners-bid-to-block-pollution-lawsuit/",
+    "source_id": "mongabay",
+    "title": "Zambian court again delays copper miner’s bid to block pollution lawsuit",
+    "published_at": "2026-11-27T10:27:47+00:00",
+    "summary": "Zambia’s top court has postponed for the fourth time an appeal by copper miner Sino Metals, which is trying to block a lawsuit against it from proceeding. The latest adjournment comes amid ongoing concerns over disputed resettlement offers. In February 2025, the dam holding the mining waste at the Sino Metals Leach Zambia Limited mine [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.5785,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0525,
+      "neutral": 0.3165,
+      "risk": 0.631
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xbTZTa2d5NHc0ZHJ1XzFneFFYaHRHQjMyN0dFc1EwQ0gxRVdCTkFlblQtX3FOVWpKekQ1Ujl3QkxrNG53LW9qOFA2RzZ5RFdTVmNiYVVhN0d5UkR0MmVj?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Genetic frontiers of Himalayan treeline: how climate shapes evolutionary potential in alpine species, Betula utilis - Nature",
+    "published_at": "2026-11-27T10:22:07+00:00",
+    "summary": "Genetic frontiers of Himalayan treeline: how climate shapes evolutionary potential in alpine species, Betula utilis&nbsp;&nbsp;Nature",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.5191,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5862,
+      "neutral": 0.3467,
+      "risk": 0.0671
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWNNUXR6UkxRQlZHVWJlVmxXZVYzQUltVFF5QTZHOG1wNEdPb0g5eF9qWjlQa3o5YUVYMHdQRVFKRmhXdFlKLWhDMXN1c3c2TG9xYTBRS1pvWXlPZmVyQVRjaUpTRE9XOFhXcmhtWXcyd2liNTBCSG5vX0d2UXNkWV9XMC1wQXhwU0VUSXpweWVHQlBvVkxGaWJ5MEdpNW1nbUE?oc=5",
+    "source_id": "google_news_climate",
+    "title": "The Scientist Who Kickstarted Pennsylvania’s Fracking Boom Thought Gas Would Be a ‘Bridge Fuel’ - Inside Climate News",
+    "published_at": "2026-11-27T10:00:00+00:00",
+    "summary": "The Scientist Who Kickstarted Pennsylvania’s Fracking Boom Thought Gas Would Be a ‘Bridge Fuel’&nbsp;&nbsp;Inside Climate News",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.4174,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.473,
+      "neutral": 0.4714,
+      "risk": 0.0556
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://insideclimatenews.org/news/27112026/marcellus-shale-geoscientist-pennsylvania-fracking-boom/",
+    "source_id": "inside_climate_news",
+    "title": "The Scientist Who Kickstarted Pennsylvania’s Fracking Boom Thought Gas Would Be a ‘Bridge Fuel’",
+    "published_at": "2026-11-27T10:00:00+00:00",
+    "summary": "Almost 20 years ago, a Penn State University geoscientist named Terry Engelder published an eye-popping estimate of the volume of gas sitting beneath Pennsylvania. That calculation helped trigger the state’s fracking boom. It’s now the second-biggest producer of gas in the U.S., behind only Texas. At the time, Engelder says now, he hoped that his [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.4941,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.549,
+      "neutral": 0.3961,
+      "risk": 0.0549
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbE1pTzlqNTRwcmh0ZW9RT1hFNGxDMkV1bkItZ0FEMEtVRk9qanhGU3Zvc2d4SHNlcW5oOVZORGY4ZW9TdHNET2g2M21XQnJSM0M0Yjc4SHR1MEllOXV6OFBlcGdISkZ6VXkzSWxBZDVhdXFuRDc2aWdIQ25fNDBYX2V0M2pGbHBEMlE0Mm84QmVIZnhKdUNLbm5xQ2cwOFdIQ3Bj?oc=5",
+    "source_id": "google_news_climate",
+    "title": "How the EPA Let a Key Chemical-Detection Program Unravel - Inside Climate News",
+    "published_at": "2026-11-27T09:55:00+00:00",
+    "summary": "How the EPA Let a Key Chemical-Detection Program Unravel&nbsp;&nbsp;Inside Climate News",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.4417,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0319,
+      "neutral": 0.4945,
+      "risk": 0.4736
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://insideclimatenews.org/news/27112026/how-the-epa-let-a-key-chemical-detection-program-unravel/",
+    "source_id": "inside_climate_news",
+    "title": "How the EPA Let a Key Chemical-Detection Program Unravel",
+    "published_at": "2026-11-27T09:55:00+00:00",
+    "summary": "This story is from Floodlight, a nonprofit newsroom that investigates the powers stalling climate action. Sign up for Floodlight’s newsletter here. When an ammonia leak outside a hotel in Weatherford, Okla., injured 74 people last November, the federal government&#8217;s chemical-detection plane stayed on the ground.&#160; When a fire tore through a Valero refinery in Port [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.7766,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0321,
+      "neutral": 0.1592,
+      "risk": 0.8087
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWRLR3Zwc2xZczRDRXQ4UWJtbWZ6R0h2cnlQWHRtSUF2dnpnNEU0cXphNW1rbVM5UHNQOGlPWDY1cjNkdVRObDl1MFFIOHRZSVZlNU1KekNTN1hJeDY3RUlRVnlFWVljOEp3S1ByVmVBMDNrTkl2dDA4UGhTQjJVV1QtV0ZwNEpmbDM5dnFlNmNKNE9hdUNMRmp5NjdCbHVNbDkxRzFB?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Professor Callum Roberts: Climate breakdown talks break down - Oceanographic Magazine",
+    "published_at": "2026-11-27T09:45:55+00:00",
+    "summary": "Professor Callum Roberts: Climate breakdown talks break down&nbsp;&nbsp;Oceanographic Magazine",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.1018,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1537,
+      "neutral": 0.5908,
+      "risk": 0.2555
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORF9QVWctRmsySDNybnY2aXU3ZGVqRzU0NjBsTENELXlHbXdJSHlkR1lBdHE1R1VlVGQ2dHBaV0NGMnNWSkNGZDdZQktSMUQ0Mm1wRE5VMy1lSDNrRG9UODlIUE9jV1draDc2cFJ6NWxqRWhhSDcxOEJ4X3NEQmtUeUMyeno0ZWVwZ1VidEw2MHFNbE9RSHBB?oc=5",
+    "source_id": "google_news_climate",
+    "title": "The COP31 failure, and how climate disinformation makes us numb - EDMO",
+    "published_at": "2026-11-27T09:42:03+00:00",
+    "summary": "The COP31 failure, and how climate disinformation makes us numb&nbsp;&nbsp;EDMO",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.864,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0105,
+      "neutral": 0.1151,
+      "risk": 0.8745
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFk3WEZhYmxiRFUzdGo4eVpPZ0pVazZLSW5SUk5YdmFmNkxxS1p0UEw2LWxFQ3VkT3lTSFMyekJjM085Y0JpSEs1WlhSVkdSQk1GWTlvVGZTcmhFNm9zenZLSkF1YWJHX2JWT01tZExjVUt6VWoyZnJCSS1GdnB3ckNva2twcGdCXzNxbW95OENPeG13WWJZZmVtY2Y2VlNfRVo2Y1lRMl96SGE50gHAAUFVX3lxTFBydkZHS1NsQU5WYmhzdS1HU3o1aGluSzg4UTMtS3UxVjd4X191akFocFB1SUdpSjNZaGpjZWttY0NzakZxejNSOGQwTjZlc2ZqTzUtZG9HcXkzQmhpbVBqanR0ZElmWWtXbjQ0Nm9vSXNva3JTTGNTeUJjejlENkoyTmcxWDR6VlZWNDNCUnFXS2wtWnVnY1BDSHBJWXFDbmxSS0thbGZQQ2d4YjVnT1NNb2xaRU96VFRVR01mR1pVeA?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Thanksgiving storm leaves over 900,000 homes without power - EL PAÍS English",
+    "published_at": "2026-11-27T08:51:57+00:00",
+    "summary": "Thanksgiving storm leaves over 900,000 homes without power&nbsp;&nbsp;EL PAÍS English",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.6795,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0916,
+      "neutral": 0.1373,
+      "risk": 0.7711
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcE5aRWkxMzFDNVR5RFFjSUhGY0RMU3Q1aUpGOTZrMzU1X3FxaGZRRXFkS3ZxTHVaZGppNjlwa283Zm92ZlY3RzdtLVJSZDRCMnBDT2VKZ0JrdWU5dEtiT3E2X0VuMU0zTzFDTF9zWmIxRjhpZzFTQmNYelI0YW84VDg0MXVWZmJhVHhJ?oc=5",
+    "source_id": "google_news_climate",
+    "title": "WMO Members strengthen the rules behind global data exchange - World Meteorological Organization WMO",
+    "published_at": "2026-11-27T08:36:59+00:00",
+    "summary": "WMO Members strengthen the rules behind global data exchange&nbsp;&nbsp;World Meteorological Organization WMO",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.0549,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1059,
+      "neutral": 0.8431,
+      "risk": 0.051
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.canarymedia.com/articles/solar/solar-no-2-china-grid",
+    "source_id": "canary_media",
+    "title": "Solar is coming for the No. 2 spot on China’s grid",
+    "published_at": "2026-11-27T08:30:00+00:00",
+    "summary": "See more from  Canary Media’s “Chart of the Week” column  .  Solar energy is poised to become the No. 2 source of electricity in China, capping off a remarkable ascent over the last decade.  Hydropower has historically been the runner-up on China’s grid — a distant second to coal, which provides more than half the…",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.8409,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8488,
+      "neutral": 0.1433,
+      "risk": 0.0079
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXV5dllBX2hBNWhkNVdld0N6MmFSbXp4Z0lRd1RpYW9CRENZaF8yYklCNUpBREJKVVpVT3d0MktHaGtCTlhGanNmUjhYQjZ6ZldVUnJPdElZQ0JXaDhQNENwVlJLZ1R0ck9YMUFCaEdIZ0ZEck52MXQ0YUdESDc0cU9Bc3lfb2FzamVqRzJpVU5QY3dmemxGUFpCMVHSAaIBQVVfeXFMUEZoRnBYc0pJdEc1dmktTzNheVB2TUpZUHJqY2RaS09Ddm1rRk40dU1QRGhYdjJNay1UTmNMS2lFS3BCaXZXV0VsdjM0YlNteDRPTjNxOFFqRGJJVnZDSnZpM0JpUnNTMjhCX0dvZEZ5c2ozNHlqOHJzS19wdUs5bjd2ZUEtaU8xNVlLOUZoOU8yTmJpMy02TUJ2V0IxSnhENEJR?oc=5",
+    "source_id": "google_news_climate",
+    "title": "COP31 adopts 46 climate decisions as Türkiye secures $26B | Daily Sabah - Daily Sabah",
+    "published_at": "2026-11-27T08:21:00+00:00",
+    "summary": "COP31 adopts 46 climate decisions as Türkiye secures $26B | Daily Sabah&nbsp;&nbsp;Daily Sabah",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.5822,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6096,
+      "neutral": 0.363,
+      "risk": 0.0274
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/environment/gallery/2026/nov/27/week-in-wildlife-polar-bear-jail-baby-penguins-and-the-turkeys-revenge",
+    "source_id": "guardian_environment",
+    "title": "Week in wildlife: ‘polar bear jail’, baby penguins and the turkeys’ revenge",
+    "published_at": "2026-11-27T08:00:58+00:00",
+    "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.625,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6712,
+      "neutral": 0.2826,
+      "risk": 0.0462
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/2026/11/meet-the-few-liberian-women-rangers-in-a-race-to-protect-wildlife-and-forests/",
+    "source_id": "mongabay",
+    "title": "Meet the few Liberian women rangers in a race to protect wildlife and forests",
+    "published_at": "2026-11-27T08:00:23+00:00",
+    "summary": "ZORTAPA, Liberia — Grace Kotee-Zansi is living a dream she had as a child: patrolling the East Nimba Nature Reserve (ENNR) as a biologist ranger to stop hunters from killing protected animals. Her job today brings relief from her childhood memories of her grandfather hunting and farming in the forest. The ENNR, a proposed extension [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.8787,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8894,
+      "neutral": 0.0999,
+      "risk": 0.0107
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSm1oVF8wUWRVY19iZFVpUndaUlhXNnpYOTZZWENzclRMR2dtaDRVZnYySkE4RmJLbW1wOFliRlZjMnFpSHpqNHBtZG8wRmJlWHktbGZRcGZNV3pQajhBdjdCNmZocmpRV0NQbmFtSTBia3NIeXQzQmNZV0dseEU0RURuanh6ZWVERVlLSVExcElRZXp2NHNKRXRBVm5zbVdEQzV3YWZTNjFFbkFtVjZlRmpmMC1iTVdR?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Renewables key for 'economic, national security': Maldives climate chief - Nikkei Asia",
+    "published_at": "2026-11-27T07:54:00+00:00",
+    "summary": "Renewables key for 'economic, national security': Maldives climate chief&nbsp;&nbsp;Nikkei Asia",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.6706,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6895,
+      "neutral": 0.2916,
+      "risk": 0.0189
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaDJ3QmlIR3dBajVoNk52eE9GQl93aHl2NTdNNkZHT25pb19QcjdGSU9lVUJPOGYwZFY5RDZhNGZ4Rm9abGZYOXVrTGNucEZlMTRnSWNCQ1BvTlVxb05KN1RzdkRLY1FRTG95bFVUUkRJcTl2WlRqZ093c29zOGFOdFJIX0o2bU9rYkV5Q2hRb3JsbzBEdUFHcGZVTnBGTWwyVWJ1dGkzakpGNGJ2a21ES0xBSzVfR1NSNlo2YnpxSzAxcFQtTjlWN2Y1MUZmYnR0akt0RnJKV1Zwb1BYal9xMWhJMVlsanI1?oc=5",
+    "source_id": "google_news_climate",
+    "title": "African citizens increasingly look to wealthy countries for climate action and support, Afrobarometer survey shows - Afrobarometer",
+    "published_at": "2026-11-27T07:49:47+00:00",
+    "summary": "African citizens increasingly look to wealthy countries for climate action and support, Afrobarometer survey shows&nbsp;&nbsp;Afrobarometer",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.2426,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2935,
+      "neutral": 0.6556,
+      "risk": 0.0509
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTFUWnFjR0VfOE5ZdVJoYkV5VGVCLXEyZDN1YXo0LTFaeFExY25VWjlhS3hhQW9oWUlWaWx6dllLaUZaa0ZLdmNiMmt0NElUTVRJNjM5LXBGdkMtSkJ5bHNBLXhMRjZGTVVnMFd2b0xSd0s0cTF3TXlSTmgydmxlU0FqZE1SQXpFcDVpbEh6TGJMaTk0OFQxTWV5SHFrY2NHRXpxc2VxTG5ydnI0aGc2ZGN1OTZ0T2dBbVE?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Editorial Examines Climate Change Expanding Infectious Disease Ranges Across Tropical Regions - Bioengineer.org",
+    "published_at": "2026-11-27T07:41:18+00:00",
+    "summary": "Editorial Examines Climate Change Expanding Infectious Disease Ranges Across Tropical Regions&nbsp;&nbsp;Bioengineer.org",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.7355,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0365,
+      "neutral": 0.1915,
+      "risk": 0.772
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZXhsN3d5RllaQ3lRR3A0OE1Kdi1jUnFrcF9XRnZPNTYzcGxqR0lXek5VOXJJYmFoSkNNRTY4YmxueDBnM3UtU2xKNHpJdVZRdUE1Q05yMzhyTFU1ZnlnRXA4b00wYUVKTUFuS050anZtUzF0ZjJWWmRqOXNJd016TXMxS3dKU2xXNGtfSUs0QVNIck9EVXdFc2V2OHpHeUFnVWxmVHNSdkJHbW9sOElDWEYzdFo4bWo4c05LVA?oc=5",
+    "source_id": "google_news_climate",
+    "title": "What Cop31 tells us about small island states’ leadership in the global climate debate - The Conversation",
+    "published_at": "2026-11-27T07:39:37+00:00",
+    "summary": "What Cop31 tells us about small island states’ leadership in the global climate debate&nbsp;&nbsp;The Conversation",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.1254,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1758,
+      "neutral": 0.7738,
+      "risk": 0.0504
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUllMTnloV1g1VE5tRXhzUDljbVBUTGpGQndmZ1lBVzZaUGhHT29SS1JZY0dqMHpBZmZEdG5sLUJpd2hCTkpjWVF1YXltWHBPNk1GTUZtRm1TblljZHVTUVB4Njk4Nm1HMEs2dUIxOXhMUFhtejJzUUdaVXh5UXNKTFBuWDNIaEtmWW94T3dtZTlQZw?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Argent Energy’s climate targets receive SBTI validation - Biofuels International Magazine",
+    "published_at": "2026-11-27T06:03:20+00:00",
+    "summary": "Argent Energy’s climate targets receive SBTI validation&nbsp;&nbsp;Biofuels International Magazine",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.1116,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1311,
+      "neutral": 0.8494,
+      "risk": 0.0195
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON2U4UEdPTHMxdmZZWjJic0JDenBOc3BxTW5GX05jSG12cVdSUjZBTGJ1VTdMaVpsanhvYy1FZzRHMjA4cm5nSDl4ODM5TnpVSW9MNC1UREZFeUp2eVJBUEdvZ05wMzBSdmY1a1piR0wtVWI5ejhEMDdyUVhPdjU4X2hBNXdwajBUc0VNdzQ1M1JpNENoUVJMWlc5ZFQwSl9mZ01hTnd1RmF4T09D?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Pope Leo XIV Warns of Weak Global Climate Commitments, Urges Solidarity With Poor - Radio Veritas Asia",
+    "published_at": "2026-11-27T05:55:11+00:00",
+    "summary": "Pope Leo XIV Warns of Weak Global Climate Commitments, Urges Solidarity With Poor&nbsp;&nbsp;Radio Veritas Asia",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.126,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.164,
+      "neutral": 0.546,
+      "risk": 0.29
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://cleantechnica.com/2026/11/26/the-european-parliament-brings-the-eu-one-step-closer-to-a-sound-investment-policy/",
+    "source_id": "cleantechnica",
+    "title": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy",
+    "published_at": "2026-11-27T04:57:21+00:00",
+    "summary": "Being locked-in a race for technological leadership with China and the US, the EU lacks focus, coordination and financial firepower to transform its industry, ensure long-term prosperity while reaching its climate objectives. This could soon change thanks to the forthcoming European Competitiveness Fund that will become active from 2028. Yesterday,   ... [continued]\nThe post The European Parliament Brings the EU One Step Closer to a Sound Investment Policy appeared first on CleanTechnica.",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.8785,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8845,
+      "neutral": 0.1095,
+      "risk": 0.006
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/short-article/2026/11/hong-kong-becomes-key-link-in-illegal-trade-of-australias-native-reptiles/",
+    "source_id": "mongabay",
+    "title": "Hong Kong becomes key link in illegal trade of Australia’s native reptiles",
+    "published_at": "2026-11-27T04:55:14+00:00",
+    "summary": "From lizards to snakes, Hong Kong is emerging as a primary trafficking center for native Australian reptiles, reports contributor Selina Cheng for Mongabay. In December 2025, customs authorities intercepted a consignment from Australia containing 13 live lizards stuffed inside winter boots. Hong Kong’s customs agency said the air cargo was falsely declared as snacks. This [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.5004,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0736,
+      "neutral": 0.3524,
+      "risk": 0.574
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://cleantechnica.com/2026/11/26/high-flying-influencers/",
+    "source_id": "cleantechnica",
+    "title": "High-Flying Influencers",
+    "published_at": "2026-11-27T04:53:00+00:00",
+    "summary": "How do airlines push environmentally damaging flying behavior in digital advertising and via travel influencers? This briefing is based on the T3 Transportation Think Tank study commissioned by T&#38;E. This study examines the environmental footprint of travel influencers, and the role they and social media play in the advertising strategy   ... [continued]\nThe post High-Flying Influencers appeared first on CleanTechnica.",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.0363,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.0607,
+      "neutral": 0.9149,
+      "risk": 0.0244
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://cleantechnica.com/2026/11/26/over-70000-km-by-plane-a-year-travel-influencers-are-blowing-their-carbon-budgets-and-encouraging-europeans-to-do-the-same/",
+    "source_id": "cleantechnica",
+    "title": "Over 70,000 km by Plane a Year: Travel Influencers Are Blowing Their Carbon Budgets and encouraging Europeans to Do the Same",
+    "published_at": "2026-11-27T04:50:29+00:00",
+    "summary": "Influencers flew mostly long-haul flights (49%) and an average of 72,244 km each, roughly equivalent to circumnavigating the globe twice. EasyJet, Air France, Aer Lingus are among the airlines that spend the most on social media, including via influencers. Travel influencers have a disproportionate climate footprint, generating an average of   ... [continued]\nThe post Over 70,000 km by Plane a Year: Travel Influencers Are Blowing Their Carbon Budgets and encouraging Europeans to Do the Same appe",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.896,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9009,
+      "neutral": 0.0942,
+      "risk": 0.0049
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/short-article/2026/11/sri-lanka-deploys-elephant-army-to-protect-rare-tuskers-but-experts-urge-caution/",
+    "source_id": "mongabay",
+    "title": "Sri Lanka deploys ‘elephant army’ to protect rare tuskers, but experts urge caution",
+    "published_at": "2026-11-27T04:43:37+00:00",
+    "summary": "A beloved male elephant named Kavantissa that frequented a rural village in Sri Lanka recently died from a gunshot injury, sparking public outrage. Environmentalists condemned authorities for what they called a “lack of care” for this iconic elephant, while local animal rights groups demanded an independent investigation into the death. In response, the Sri Lankan [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.7022,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0537,
+      "neutral": 0.1904,
+      "risk": 0.7559
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSkRIenBVTXVSUDgtQ0JlOVktR1k3ZVFhYi1Lcl9kN2Y1N2JlZlQySFRDdE9ublJGTzZjVGZJZVRoNkpyODlpZGMzZnZQa3hMcFhhb0I4MVo0NzE5N0JvdjNYS2t1VXZqSUNpalhXSlpiNFJ0cWdEOUVydkswOC1YNjduX0NNMDZWNkNSYWxtZVU4RGNYR2NlZ3NrTUd5TUFKcWkyN3EzdG4yek5DUnZVdEFmOEdxZXBEMGNFZnlyVjk4dV85VkhRTmVWbGNVWW8?oc=5",
+    "source_id": "google_news_climate",
+    "title": "The world’s ice is in real peril from climate change – and will keep melting even if we reach net zero - The Conversation",
+    "published_at": "2026-11-27T04:21:00+00:00",
+    "summary": "The world’s ice is in real peril from climate change – and will keep melting even if we reach net zero&nbsp;&nbsp;The Conversation",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.8624,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0122,
+      "neutral": 0.1133,
+      "risk": 0.8746
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmFubEZnR1Fsc0lKdHQ3N0dHSEt1SGZjMGNsMWR5LXdXWDZuS3VfRzFCRHoxbFFwSFQ5Q0ZPYWU3RzhGVEJuaUtaRW1ON3RlS1hCdnY4Q25zT3BxTWtUc0lBcklnQWEyWDVxeWxnMTg3OVhINEdnY0VIZUtFUWtkN3RlUk1CYm4wWldsclAtVUlNZE8tNGs2VDhLNTZ2MzJ1OVhEUtIBpAFBVV95cUxNWHUtTDBQZ3RZNnRZc3R3WGI4MmIwdVFzVDFPbDNVclRjTzVVcnlJczRvQzRzT3R5Z1JrTURrNUpwWm00R25BQUtDa1U1aEtoQkZoSkdTNGlETkhzbEhQQ0pVN3FMckFHVjZlN1dlcVdCeW9zbHU2QUdVX3BmWkVTa3JtVXQ0OUUzWUdhYmV2dmFTZWxsMEh3Z21UanlVZ0dzQ1Q3bg?oc=5",
+    "source_id": "google_news_climate",
+    "title": "What is the US energy permitting bill and would it actually help the climate and affordability? - DW.com",
+    "published_at": "2026-11-27T04:19:51+00:00",
+    "summary": "What is the US energy permitting bill and would it actually help the climate and affordability?&nbsp;&nbsp;DW.com",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.3702,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.415,
+      "neutral": 0.5402,
+      "risk": 0.0448
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZVE3OTVreGFaUXN4SlVCeENvZWI5WHlNVUNNRUVVMkxDSlpTLTM1eHhNSllQcG15V3RfRXBMSmVROUNYRkpOdXpfRlNqRzBoeWNGZGdMN195U0VjLTlZMjctWnpvUm5fTU5Fem5BVHRmYnMtT3RLOFpNWmpiV3h1QUxYR2JLQWhneUxQOXBNeHF6Q3B0bVVRM09XWFE1NlRLQU9hQm1UaHVWT2RPQWsyOFdXVDk2T3hFbTlhTU5wbmVMQ243?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Boulder County’s Jack’s Solar Garden founder earns global climate recognition - The Boulder Reporting Lab",
+    "published_at": "2026-11-27T04:00:00+00:00",
+    "summary": "Boulder County’s Jack’s Solar Garden founder earns global climate recognition&nbsp;&nbsp;The Boulder Reporting Lab",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.6081,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6223,
+      "neutral": 0.3635,
+      "risk": 0.0142
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNl9vaWl0dVozYW1RVlRrY2F2Y1BIZlBtSnJoeHVOT3VUTHVPVVRjNHJXT0NPZDNRRHRtazdEeEpJdkdOSHZ2WjE0Ny1iVC1EdndjYlRuOXp0UTZCYTFKR2hObkptV0Nsa0VHZldnMktjb3FWWW9naDQyMmdYbENGRGt3aFFoNWZCa2RBSXpUMlo4WlRVbTBDclNHTVRwZWtZRERsLWFNdk5VRnYw?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Southern California Endures Historic Coastal Flooding and Devastating Waves Over Thanksgiving - Inside Climate News",
+    "published_at": "2026-11-27T03:25:43+00:00",
+    "summary": "Southern California Endures Historic Coastal Flooding and Devastating Waves Over Thanksgiving&nbsp;&nbsp;Inside Climate News",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.8952,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0189,
+      "neutral": 0.067,
+      "risk": 0.9141
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://insideclimatenews.org/news/26112026/california-endures-historic-coastal-flooding-waves-thanksgiving/",
+    "source_id": "inside_climate_news",
+    "title": "Southern California Endures Historic Coastal Flooding and Devastating Waves Over Thanksgiving",
+    "published_at": "2026-11-27T03:25:43+00:00",
+    "summary": "SUNSET BEACH, Calif.—Lara Mitry was prepared to host her first Thanksgiving in the beachside home she recently purchased. Then the combo of historically-high king tides, and a surge in sea levels driven by a super El Niño pummeled California. “We didn&#8217;t know what was going to happen,” Mitry, a 57-year-old retired nurse who moved to [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.7613,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0566,
+      "neutral": 0.1255,
+      "risk": 0.8179
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3p0R2FyN2RvMktxV1VCTUZCQ3RCaU91SVBoa0o4d2t5LUljODBZQUdES0J5WFBzd2ZMMU16S0dtYk1ETTRrazA4ZkgwcUFOQ3BCc1NObHZOREo5b1QxeVpOZU9VSV91amNzWk0wMUZJMW1ZeG1YaVd3VW0weU1IMXBFaUhCX19OdVN0eWdEQ3A0eS1Ta01QN3pNTm55M2tOTDdHbFVWYVJIRWVOM2c?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Spain’s looming right-wing pivot on climate is already playing out in Valencia - POLITICO.eu",
+    "published_at": "2026-11-27T03:00:00+00:00",
+    "summary": "Spain’s looming right-wing pivot on climate is already playing out in Valencia&nbsp;&nbsp;POLITICO.eu",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.0685,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2731,
+      "neutral": 0.5223,
+      "risk": 0.2046
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/2026/11/in-nepal-experts-debate-future-of-mega-dams-after-augusts-flood/",
+    "source_id": "mongabay",
+    "title": "In Nepal, experts debate future of mega-dams after August’s flood",
+    "published_at": "2026-11-27T02:15:40+00:00",
+    "summary": "KATHMANDU — Until recently, residents living in the lap of the Himalayas saw the peaks as immovable giants silently nurturing them with snowmelt. But on Aug. 26, there was a road from the mountain overlooking the Bhotekoshi rivershed in central Nepal roared. What appears to have been an avalanche on Langtang Lirung sent a churning [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.2267,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.223,
+      "neutral": 0.3273,
+      "risk": 0.4497
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRGt5bjdtMlY2ZVpraHdzMS0tTllMdkZKdlAzQ0pwUWRZTTd5Yk01Q21aLS1WanlwS19EQm5aSk52ZVQ1Q0ZMeTlMeGQwMFMtRFFTdjVCa0swUDcyaENTdG9TbDJGOUtGazBIazN3ZWJVbE5GbFJUUnRVaGdzb1gzd1hCM3lhUnpYV2JydmRVWWY1N2Ywd2NPSW9YektCV1lUVm9pYjZiVW0zNUIxcFBmZjRlQmJ6bWRkQnM2YXdJMjRzbUZ1dlktX0x2Sm1lYkpCSThB?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Youth climate activists demand Senator Hickenlooper support new leadership, but still no word from him - Yellow Scene Magazine",
+    "published_at": "2026-11-27T01:06:56+00:00",
+    "summary": "Youth climate activists demand Senator Hickenlooper support new leadership, but still no word from him&nbsp;&nbsp;Yellow Scene Magazine",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.1264,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.2782,
+      "neutral": 0.57,
+      "risk": 0.1518
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcFAzaGFKVGpuTlZjVGNPbEpsOUs2TEU1Tk50M1dqQkF2Tjlud1QwX1pNVnZFWWJPVTFsNURSNDN2WldUZWRrdk1lN0Y3VV9Ua3Zzbks2R1cyVHhjZWtaVFN6TUx4bVo5MnNld1o3VVlRMlZfMmhUUEYxLXFOX1Znd2N3?oc=5",
+    "source_id": "google_news_climate",
+    "title": "How the blue wave could lead to new climate change policies - THIRTEEN - New York Public Media",
+    "published_at": "2026-11-27T01:04:53+00:00",
+    "summary": "How the blue wave could lead to new climate change policies&nbsp;&nbsp;THIRTEEN - New York Public Media",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.5045,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5681,
+      "neutral": 0.3683,
+      "risk": 0.0636
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://www.theguardian.com/world/gallery/2026/nov/27/golden-ginkgos-and-rich-red-maples-japans-autumn-colours-in-pictures",
+    "source_id": "guardian_environment",
+    "title": "Golden ginkgos and rich red maples: Japan’s autumn colours – in pictures",
+    "published_at": "2026-11-27T00:28:39+00:00",
+    "summary": "Across Japan, the changing of the season is dazzling people with vibrant displays of reds and yellows Continue reading...",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.6249,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6805,
+      "neutral": 0.2639,
+      "risk": 0.0556
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://cleantechnica.com/2026/11/26/celebrating-cultures-and-equity-on-thanksgiving-day/",
+    "source_id": "cleantechnica",
+    "title": "Celebrating Cultures And Equity On Thanksgiving Day",
+    "published_at": "2026-11-27T00:26:38+00:00",
+    "summary": "There is an important subtext to this Thanksgiving Day in the United States. A &#8220;blue tsunami&#8221; has occurred, so, come January, the Democratic party will control the House of Representatives and the Senate. While there are many important elements to this upheaval, one thread connects them all: Democrats can reimagine   ... [continued]\nThe post Celebrating Cultures And Equity On Thanksgiving Day appeared first on CleanTechnica.",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.6163,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.6381,
+      "neutral": 0.3401,
+      "risk": 0.0218
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNU1GSEJmSEZKX0Q0VndEQ0M0Zl9BczZ2RDdJYjFFWFZtb2JEQmlWWGJZZ3NWTWpWb2FnUm9hakhPcVhxakV5UEJ0aENhZ2xKa196MDBIdWd0TGJOYmlFMWZ4MlhWQjBoWDYyRk1VMHhmV0dNSXozUzg1eDNLRExLWHJUejBRZW1yc3RqWVdJeXkzVXlnVGtJdEFJQ2hodjZHSG9EdXVvWkRURi1z?oc=5",
+    "source_id": "google_news_climate",
+    "title": "How Democrats' election successes could lead to new climate change policies - PBS",
+    "published_at": "2026-11-26T23:40:45+00:00",
+    "summary": "How Democrats' election successes could lead to new climate change policies&nbsp;&nbsp;PBS",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.253,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.3123,
+      "neutral": 0.6284,
+      "risk": 0.0593
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.mongabay.com/2026/11/community-forests-offer-hope-for-conservation-in-drc-but-major-hurdles-remain/",
+    "source_id": "mongabay",
+    "title": "Community forests offer hope for conservation in DRC, but major hurdles remain",
+    "published_at": "2026-11-26T21:30:06+00:00",
+    "summary": "LUBUMBASHI, Democratic Republic of Congo — In the Democratic Republic of Congo, an initiative is underway to award community-based forestry land titles to 7.1 million hectares of land, or about 17.5 million acres — an area the size of Ireland. This is one of several conservation strategies aimed at protecting the DRC’s biodiversity while recognizing [&#8230;]",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.9559,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9592,
+      "neutral": 0.0375,
+      "risk": 0.0033
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuOWF1VWMzdjYxY3RZQWJvSkZrUVJ0eXZCYlJiUzUwbW1HaHhwVW82MGY0U1Z2Y2x2UUZJV2hjeEdvaTF5UjE3QXNmOHVrNjhvUTF3UDFObkhVNmx4Z0RFZm4ydlVWLU0yVGp6SEFvSE0tWkJVbFBrNlhn?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Late November 2026 Arctic Climate Update - Alaska and Arctic Climate Newsletter",
+    "published_at": "2026-11-26T20:31:58+00:00",
+    "summary": "Late November 2026 Arctic Climate Update&nbsp;&nbsp;Alaska and Arctic Climate Newsletter",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.0598,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.214,
+      "neutral": 0.6318,
+      "risk": 0.1542
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2ExNC15dlpURHJneEd3bFc4QlZtR01PVk1TaC04aVdINGM3WTdqQlZyNHNUd2p3OGtiZ3lxdlBXRkdsRXNCZXpuMnNwRnZScWZ1TWs3YlB4T25wdGpDdkVtbTh6dnliM2FsYzYyc0NUekZIRGktaEg5X1JXclhaTmJNOG5pYURVRVR5M09WQlk5VTJmRzlTZQ?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Hollywood is talking (slightly) more about climate change - Marketplace.org",
+    "published_at": "2026-11-26T20:20:00+00:00",
+    "summary": "Hollywood is talking (slightly) more about climate change&nbsp;&nbsp;Marketplace.org",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.0425,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1666,
+      "neutral": 0.7093,
+      "risk": 0.1241
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXNVQTcwd2VONGQ1cTd5OGFLOUNqZnppVVFldTEtYkdSQkVRVkQ3dkFhVkwxeGhGQlR1SGhvcjN3QjVLZ2J3bk51UGR4dzZBOG1Gb2VoMlN0MDdsTkVXYnJ5SGUzeTN6bmhxUWIwVU4xNUtzUU0yMkQxLWxlWURWSDFsbEtmb1lNYVZIY2N5RDdFandhOS1fLXlfTDZoV0hHck1raXJYYVdidzBUMkFQN21JX3NRYWlHS18yUNIB0AFBVV95cUxNMTl6b2VlOUZiUTQwUUxJUXZkSFpwQ0t3Nk1nUE1YcVd4ZkI4RTJvbkZaNC1GQ1l2bWN5cWtuUEl0RkZUTzlaQWNiaWs4T2hudVh0NlN6RXBhYkdYTDVSX0E2UzRoSmVaeVhrUWpCMXE3S29JT0UzcXVuWjladEJ3MzNtOXFHaDF5S3o4ZE96ejUxV2xjcWJFWEJMb2FDZzZ4el9DLXc2MDVrczVlY3FjMHBTSDZGbUJTSHZVQ1JPZlUyOXVSUUllenl1RjM1ZDJM?oc=5",
+    "source_id": "google_news_climate",
+    "title": "The climate crisis is forcing thousands of Europeans from their homes - EL PAÍS English",
+    "published_at": "2026-11-26T20:00:04+00:00",
+    "summary": "The climate crisis is forcing thousands of Europeans from their homes&nbsp;&nbsp;EL PAÍS English",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.8727,
+    "sentiment_label": "risk",
+    "probabilities": {
+      "opportunity": 0.0182,
+      "neutral": 0.0909,
+      "risk": 0.8909
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://cleantechnica.com/2026/11/26/happy-thanksgiving-from-guangzhou-visiting-xpeng/",
+    "source_id": "cleantechnica",
+    "title": "Happy Thanksgiving From Guangzhou, Visiting XPENG",
+    "published_at": "2026-11-26T19:42:22+00:00",
+    "summary": "While many in the US are celebrating Thanksgiving, I am seeing some of the most advanced technology and most impressive EVs in the world. XPENG offered to bring me to see AI day and Auto Guangzhou. I am thankful for the opportunity. Expect to hear more in depth in the   ... [continued]\nThe post Happy Thanksgiving From Guangzhou, Visiting XPENG appeared first on CleanTechnica.",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.9093,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.9211,
+      "neutral": 0.0671,
+      "risk": 0.0118
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVGRYb3E3bHlLdjRFWm9rMDdhOU13ZW5xWTNyVXVTZGU1YkJTZkpYVHdZZkJhT2hqeXRGUFNJa2ZuWmNXXzhySHczcTZ0WlpWSmxKci1tVS1DUGNZYnFDMTBaVVBMR1Yzcy1OWjJ0SjhuS3pSaXF4UUlSdFpVYWFDZmhGOWVpMjNFdlNmRGVkSUU?oc=5",
+    "source_id": "google_news_climate",
+    "title": "After 31 Climate Summits, It Is Time to Reform the COPs - PassBlue",
+    "published_at": "2026-11-26T18:22:06+00:00",
+    "summary": "After 31 Climate Summits, It Is Time to Reform the COPs&nbsp;&nbsp;PassBlue",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.0799,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1199,
+      "neutral": 0.8401,
+      "risk": 0.04
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YVUhhaWlGWkFuS0xNWm9GX1I0UTR1cW5zN2lNZ3BSNDFlb1FoQ3VmSll6OEdBUmNsTEdlUnVFbUxWY0lVZFFSY3paNThfTUhTZDhzMzd3YnlKNzZiUEhsemhRc1hQOGJ6Q04zWHZTVkt1Vk91dlAwRGVJXzlkdw?oc=5",
     "source_id": "google_news_climate",
     "title": "Opinion | Bad Math Could Fuel Climate Lawsuits - WSJ",
@@ -220,6 +1900,22 @@
       "opportunity": 0.9473,
       "neutral": 0.0451,
       "risk": 0.0076
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlM4U1RLeXozQ2ZkbElDQ29VT19mVDFOYXowckp1dWZQa3hVVURDR1RVOHBCZWF3Z3hoOHBhTmxSZEFNLWNNOFBxM1k0V0llLVZhTEw5SHFhdTU2LTRKTkdYSDQ1ZGdMNDBaOEYwVU96Q2lncHAwOGhzY2lvZ2Z0VzRENkM5UTNpZzRZag?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Forests, restoration and climate resilience in focus at COP31 - International Union for Conservation of Nature",
+    "published_at": "2026-11-26T15:40:32+00:00",
+    "summary": "Forests, restoration and climate resilience in focus at COP31&nbsp;&nbsp;International Union for Conservation of Nature",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.4845,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.5089,
+      "neutral": 0.4667,
+      "risk": 0.0244
     },
     "model": "climatebert/distilroberta-base-climate-sentiment"
   },
@@ -540,6 +2236,22 @@
       "opportunity": 0.7043,
       "neutral": 0.2111,
       "risk": 0.0846
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmVJYTZIaU1Va3B4cTllYTdROEhaMFpGbC1SWHlGZEZlS0hKc19mc182QklFWHhFeFhVaUJyckcyTFJHbnlQVjZXRVUwckJiSHY4QlhXd205ZlFzbGViU19pUnVWYjA1OGk5WjFrdVRNUzNBYnRNRU55N09kTkNfM3RmbHNkd0tfblotYUhyTTRkR3Z3VVY3OEVvRTZaZWNueElzWXhB?oc=5",
+    "source_id": "google_news_climate",
+    "title": "A retired cranberry bog is helping Nantucket fight flooding - Yale Climate Connections",
+    "published_at": "2026-11-26T11:59:00+00:00",
+    "summary": "A retired cranberry bog is helping Nantucket fight flooding&nbsp;&nbsp;Yale Climate Connections",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": 0.7804,
+    "sentiment_label": "opportunity",
+    "probabilities": {
+      "opportunity": 0.8208,
+      "neutral": 0.1389,
+      "risk": 0.0404
     },
     "model": "climatebert/distilroberta-base-climate-sentiment"
   },
@@ -988,6 +2700,22 @@
       "opportunity": 0.77,
       "neutral": 0.2083,
       "risk": 0.0217
+    },
+    "model": "climatebert/distilroberta-base-climate-sentiment"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWExWaUJNS3MwemJhY1ZyQkJPRUVOU3RRcWk0VWlZVENWaEhLV1Z2N3lUS1BzVGxTeWJScEM1cTg0c0dIQ3VrNS1DalJ0RHZId3FkOHdGSFgtMkZzMUZvWUpvTTdQX0xSTGVkYjhJSnFPa1FFSnJRbXJQTTZ3WTZFS1BSbEhiMkpZbVNjTUFGbklFVEJxRm1DWUJUcWRrdUFvVmJlTE5GMGZ0cnRNNlRKYUVB?oc=5",
+    "source_id": "google_news_climate",
+    "title": "Upbeat alternatives to global climate defeatism - The Christian Science Monitor",
+    "published_at": "2026-11-26T05:00:00+00:00",
+    "summary": "Upbeat alternatives to global climate defeatism&nbsp;&nbsp;The Christian Science Monitor",
+    "fetched_at": "2026-11-27T17:52:23.178869+00:00",
+    "sentiment_score": -0.173,
+    "sentiment_label": "neutral",
+    "probabilities": {
+      "opportunity": 0.1118,
+      "neutral": 0.6034,
+      "risk": 0.2848
     },
     "model": "climatebert/distilroberta-base-climate-sentiment"
   },
